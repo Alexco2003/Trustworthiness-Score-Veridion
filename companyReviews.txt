@@ -1,0 +1,9 @@
+Company name: Depanero
+Average rating: 4
+Number of reviews: 9096
+Reviews:
+{"author_name": "El Fenomeno", "author_url": "https://www.google.com/maps/contrib/110875480572611631491/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4wCfQ2zSv2hQYFbVitcGyDllNTQ5_qgDRmQoXWrGNALs1G9nj=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "in the last week", "text": "Horrible experience. They are not interesting in solving the cases! They send you to EMag. When you let the product at their place and they send you to solv the problems to EMag\u2026 another horrible company.", "time": 1713510712, "translated": false}
+Company name: Depanero
+Average Google Maps Rating: 4.0
+Total reviews: 9096
+---------------------------------------------------------------------------------------
