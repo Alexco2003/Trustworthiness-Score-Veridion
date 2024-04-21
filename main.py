@@ -9,31 +9,38 @@ import FileWriter
 
 
 def main():
-    fileNames = []
     api_key = "AIzaSyDVLIIwEWFFQoGIwZyIEIvSEMCHUYvZbu4"
+    dfs = []
+
     for fileName in os.listdir("datasets/"):
-        fileNames.append(fileName)
+        if fileName.endswith('.parquet'):
+            df = pd.read_parquet(os.path.join("datasets", fileName))
+            dfs.append(df)
 
-    file = pd.read_parquet(f"datasets/{fileNames[0]}")
-
+    file = pd.concat(dfs, ignore_index=True)
+    file = file.sample(frac=1).reset_index(drop=True)
     fileWrite = FileWriter.FileWriter("score.txt")
     i = 0
     for ind in file.index:
         i += 1
         print(i)
-        if i == 100:
+        if i == 200:
             break
         score = 0
 
-        (domain, name, legal_name, year_founded, phones, revenue, industry, email, location_number, website, employee_count, keywords, linkedin, youtube, twitter, facebook, instagram) = \
-            file["domain"][ind], file["name"][ind], file["legal_name"][ind], file["year_founded"][ind], file["all_phones"][ind], file["revenue"][ind], file["agg_industry"][ind], \
+        (domain, name, legal_name, year_founded, phones, revenue, industry, email, location_number, website,
+         employee_count, keywords, linkedin, youtube, twitter, facebook, instagram) = \
+            file["domain"][ind], file["name"][ind], file["legal_name"][ind], file["year_founded"][ind], \
+            file["all_phones"][ind], file["revenue"][ind], file["agg_industry"][ind], \
             file["all_emails"][ind], file["location_number"][ind], file["website_url"][ind], \
-                file["employee_count"][ind], file["keywords"][ind], file["linkedin"][ind], file["youtube"][ind], file["twitter"][ind], file["facebook"][ind], file["instagram"][ind]
+            file["employee_count"][ind], file["keywords"][ind], file["linkedin"][ind], file["youtube"][ind], \
+            file["twitter"][ind], file["facebook"][ind], file["instagram"][ind]
         #  Test 1: Google Maps Review System
         score += companyReviews.get_company_reviews(name, api_key) * 0.25
 
         # Test 2: Correlation between Revenue, Domain, Locations number and Employee Count through Linear Regression
-        score += Location_Revenue_EmpCount_Relation.scoreCalculation(industry, revenue, location_number, employee_count) * 0.15
+        score += Location_Revenue_EmpCount_Relation.scoreCalculation(industry, revenue, location_number,
+                                                                     employee_count) * 0.15
 
         # Test 3: Data scrapping Linkedin (Followers + Last recently post)
         score += scrap_linkedin.scrap_linkedin(linkedin) * 0.2

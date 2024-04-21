@@ -295,3 +295,30 @@ Score: 0.3325
 Company name: Artwing alpha
 Score: 0.5425000000000001
 
+Company name: Builders network group
+Score: 0.2647823865306606
+
+Company name: Rouelite
+Score: 0.65
+
+Company name: Carolina varela
+Score: 0.41545454545454547
+
+Company name: Perkinson center
+Score: 0.5413888888888889
+
+Company name: Dvi radiologia
+Score: 0.5348478900883219
+
+Company name: Aikido of red bank
+Score: 0.6104761904761904
+
+Company name: Agzen
+Score: 0.30500000000000005
+
+Company name: Launch on fire
+Score: 0.35
+
+Company name: Görkem sigorta
+Score: 0.4658333333333333
+
