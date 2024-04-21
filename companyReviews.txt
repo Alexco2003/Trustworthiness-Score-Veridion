@@ -7,3 +7,180 @@ Company name: Depanero
 Average Google Maps Rating: 4.0
 Total reviews: 9096
 ---------------------------------------------------------------------------------------
+Company name: Phillips law east
+Average Google Maps Rating: 0
+Total reviews: 0
+---------------------------------------------------------------------------------------
+Company name: Elm ware
+Average Google Maps Rating: 0
+Total reviews: 0
+---------------------------------------------------------------------------------------
+Company name: Dimerce B.V.
+Average rating: 5
+Number of reviews: 5
+Reviews:
+{"author_name": "Jelmer Nieuwenhuis", "author_url": "https://www.google.com/maps/contrib/109364425965541566090/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyWpWtT-5TAVabBdzkroyjl0zyk5GOrDFVXjHSfvvYZ7seCb0=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1678375206, "translated": false}
+Company name: Dimerce
+Average Google Maps Rating: 5.0
+Total reviews: 5
+---------------------------------------------------------------------------------------
+Company name: K.i.n
+Average Google Maps Rating: 0
+Total reviews: 0
+---------------------------------------------------------------------------------------
+Company name: Orfico
+Average rating: 4
+Number of reviews: 1
+Reviews:
+{"author_name": "Juan Jos\u00e9 Arenas", "author_url": "https://www.google.com/maps/contrib/112864867344039726063/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6o-ah3Ebh0VGoqtWV1CHbO7-oqJSVvwUhzXRZnK1ccEd95Q=s128-c0x00000000-cc-rp-mo-ba5", "rating": 4, "relative_time_description": "a year ago", "text": "", "time": 1656050769, "translated": false}
+Company name: Orfico - asesores
+Average Google Maps Rating: 4.0
+Total reviews: 1
+---------------------------------------------------------------------------------------
+Company name: Warrior nomad trail
+Average Google Maps Rating: 0
+Total reviews: 0
+---------------------------------------------------------------------------------------
+Company name: Agencia creativa mira
+Average Google Maps Rating: 0
+Total reviews: 0
+---------------------------------------------------------------------------------------
+Company name: Antibiro Bitrix24 Gold Partner
+Average rating: 0
+Number of reviews: 0
+Company name: Phillips law east
+Average Google Maps Rating: 0
+Total reviews: 0
+---------------------------------------------------------------------------------------
+Company name: Dimerce B.V.
+Average rating: 5
+Number of reviews: 5
+Reviews:
+{"author_name": "Jelmer Nieuwenhuis", "author_url": "https://www.google.com/maps/contrib/109364425965541566090/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyWpWtT-5TAVabBdzkroyjl0zyk5GOrDFVXjHSfvvYZ7seCb0=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1678375206, "translated": false}
+Company name: Dimerce
+Average Google Maps Rating: 5.0
+Total reviews: 5
+---------------------------------------------------------------------------------------
+Company name: K.i.n
+Average Google Maps Rating: 0
+Total reviews: 0
+---------------------------------------------------------------------------------------
+Company name: Orfico
+Average rating: 4
+Number of reviews: 1
+Reviews:
+{"author_name": "Juan Jos\u00e9 Arenas", "author_url": "https://www.google.com/maps/contrib/112864867344039726063/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6o-ah3Ebh0VGoqtWV1CHbO7-oqJSVvwUhzXRZnK1ccEd95Q=s128-c0x00000000-cc-rp-mo-ba5", "rating": 4, "relative_time_description": "a year ago", "text": "", "time": 1656050769, "translated": false}
+Company name: Orfico - asesores
+Average Google Maps Rating: 4.0
+Total reviews: 1
+---------------------------------------------------------------------------------------
+Company name: Warrior nomad trail
+Average Google Maps Rating: 0
+Total reviews: 0
+---------------------------------------------------------------------------------------
+Company name: Agencia creativa mira
+Average Google Maps Rating: 0
+Total reviews: 0
+---------------------------------------------------------------------------------------
+Company name: Antibiro Bitrix24 Gold Partner
+Average rating: 0
+Number of reviews: 0
+Reviews:
+Company name: Burnham Gold Real Estate
+Average rating: 4.8
+Number of reviews: 16
+Reviews:
+{"author_name": "PTPM Now", "author_url": "https://www.google.com/maps/contrib/108041610666021023751/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkpjOMLYRYUZDIduro9SNwRdb4BrdFkaE7qToaShWJzlCgow=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "10 months ago", "text": "Jane Miller is an excellent, friendly, professional, and hard working realtor. She made so much happen in such a short amount of time when I was selling my home. She knows how to listen and can offer tips and support on how to move the process along when you are selling a home. I recommend her services!", "time": 1685818924, "translated": false}
+Company name: Burnham gold
+Average Google Maps Rating: 4.8
+Total reviews: 16
+True rating: 0.6000000000000001
+---------------------------------------------------------------------------------------
+
+Company name: Rephouse limited
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Rephouse
+Average Google Maps Rating: 0.0
+Total reviews: 0
+True rating: 3.0
+---------------------------------------------------------------------------------------
+
+Company name: Nünnerich-Asmus Verlag & Media GmbH
+Average rating: 5
+Number of reviews: 5
+Reviews:
+{"author_name": "Constantin", "author_url": "https://www.google.com/maps/contrib/104708528944158809039/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmSK8DC138MOElZi4UA7uPFTXmNXSvlLCwJJEglBqcVcJGIcrt=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "11 months ago", "text": "", "time": 1683145461, "translated": false}
+Company name: Nünnerich-asmus verlag
+Average Google Maps Rating: 5.0
+Total reviews: 5
+True rating: 1.5714285714285714
+---------------------------------------------------------------------------------------
+
+Company name: Megabits
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 3.0
+---------------------------------------------------------------------------------------
+
+Company name: Savoir Vivre
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Savoir vivre lifestyle
+Average Google Maps Rating: 0.0
+Total reviews: 0
+True rating: 3.0
+---------------------------------------------------------------------------------------
+
+Company name: Uht bilisim
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 3.0
+---------------------------------------------------------------------------------------
+
+Company name: Deckt
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 3.0
+---------------------------------------------------------------------------------------
+
+Company name: Stroud services
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 3.0
+---------------------------------------------------------------------------------------
+
+Company name: Advantage Management
+Average rating: 2.1
+Number of reviews: 66
+Reviews:
+{"author_name": "Gregory Timke", "author_url": "https://www.google.com/maps/contrib/116046820258238528687/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKDDibVGnRuqyOQDQe0U0zDJev_nZzMYAblyCieqLj9Cmevw=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "4 weeks ago", "text": "Property Management companies are a dime a dozen in Chicago, and most are useless at best, but Advantage Management has been nothing short of fantastic to work with. Kenny Parquette and everyone else at Advantage Management I've interacted with have been prompt and attentive at addressing my and the building's concerns. Couldn't ask for more from a property management company, and happy that we have them at our building.", "time": 1711134203, "translated": false}
+Company name: Advantage Management & Real Estate Services LLC
+Average rating: 3.7
+Number of reviews: 426
+Reviews:
+{"author_name": "Cole Parker", "author_url": "https://www.google.com/maps/contrib/101497157046014563852/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw1XhQ_WI9jVJOP_ri2x0LHqLqdLDLH2ocuR25zHRyjAuZVfX1=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "in the last week", "text": "We work with Advantage Management as our HOA management company and they\u2019re amazing to work with. Ashley is who we have worked with for the past couple of years and she goes above and beyond. She\u2019s responsive, provides great service to our community, and always offers helpful advice. Would highly recommend working with Advantage Management. You won\u2019t regret it.", "time": 1713412318, "translated": false}
+Reviews:
+{"author_name": "Cole Parker", "author_url": "https://www.google.com/maps/contrib/101497157046014563852/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw1XhQ_WI9jVJOP_ri2x0LHqLqdLDLH2ocuR25zHRyjAuZVfX1=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "in the last week", "text": "We work with Advantage Management as our HOA management company and they\u2019re amazing to work with. Ashley is who we have worked with for the past couple of years and she goes above and beyond. She\u2019s responsive, provides great service to our community, and always offers helpful advice. Would highly recommend working with Advantage Management. You won\u2019t regret it.", "time": 1713412318, "translated": false}
+Company name: Advantage Management Definition
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Gabriel Michael", "author_url": "https://www.google.com/maps/contrib/111807700587363613783/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNn7-gNzqO2Zi1Mk1WBZG3Y3qV5nGNp0m3jlAP_UROGI-59sk=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "The site is very easy to Access, you guys are excellent.", "time": 1698215420, "translated": false}
+Reviews:
+{"author_name": "Gabriel Michael", "author_url": "https://www.google.com/maps/contrib/111807700587363613783/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNn7-gNzqO2Zi1Mk1WBZG3Y3qV5nGNp0m3jlAP_UROGI-59sk=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "The site is very easy to Access, you guys are excellent.", "time": 1698215420, "translated": false}
+Company name: Advantage Management Inc
+Average rating: 4.8
+Number of reviews: 4
+Reviews:
+{"author_name": "Rodney Vejar", "author_url": "https://www.google.com/maps/contrib/103370453321267904152/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOCuPPeHiCyQcDCRFLhR7VpURVUIXOooZ0f-BAhIerfTjHjSdq-Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "Some of the most professional, and polite people in the business.", "time": 1647533811, "translated": false}
+Company name: Advantage management
+Average Google Maps Rating: 3.9000000000000004
+Total reviews: 497
+True rating: 0.1370741482965932
+---------------------------------------------------------------------------------------
+

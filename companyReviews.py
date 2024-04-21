@@ -1,6 +1,7 @@
 import json
-
+import pandas as pd
 import requests
+import os
 import FileWriter
 
 
@@ -47,19 +48,28 @@ def get_company_reviews(company_name, api_key):
                     reviews = details_data['result'].get('reviews', [])
 
                     # Get lastReview to check Company's activity recently
-                    lastReview = reviews[-1]
+                    lastReview = []
+                    if len(reviews):
+                        lastReview = reviews[-1]
                     fileWriter.write_to_file("Reviews:\n")
                     for review in reviews:
-                        time = review.get('time', 'Unknown')
-                        if time > lastReview.get('time', "unknown"):
+                        time = review.get('time', 0)
+                        if time > lastReview.get('time', 0):
                             lastReview = review
 
                     fileWriter.write_to_file(json.dumps(lastReview))
                     fileWriter.write_to_file("\n")
 
-            fileWriter.write_to_file(f"Company name: {company_name.capitalize()}\nAverage Google Maps Rating: {avgTotalRating / countIterations}\nTotal reviews: {totalReviewsCount}\n")
-            fileWriter.write_to_file("---------------------------------------------------------------------------------------\n")
-            trueRating = (avgTotalRating * countIterations + 5 + 1) / (totalReviewsCount + 2)
+            rating = 0
+            if countIterations != 0:
+                rating = avgTotalRating / countIterations
+            fileWriter.write_to_file(f"Company name: {company_name.capitalize()}\nAverage Google Maps Rating: {rating}\nTotal reviews: {totalReviewsCount}\n")
+            if avgTotalRating != 0:
+                trueRating = (avgTotalRating * countIterations + 5 + 1) / (totalReviewsCount + 2)
+            else:
+                trueRating = 0
+            fileWriter.write_to_file(f"True rating: {trueRating}\n")
+            fileWriter.write_to_file("---------------------------------------------------------------------------------------\n\n")
             return trueRating, totalReviewsCount
 
         else:
@@ -71,8 +81,16 @@ def get_company_reviews(company_name, api_key):
 
 def main():
     api_key = "AIzaSyDVLIIwEWFFQoGIwZyIEIvSEMCHUYvZbu4"
-    company_name = input("Enter the name of the company: ")
-    get_company_reviews(company_name, api_key)
+    file = os.listdir("datasets/")[0]
+    dataset = pd.read_parquet(f"datasets/{file}")
+    i = 0
+    for ind in dataset.head(20).index:
+        i += 1
+        if i < 10:
+            continue
+        get_company_reviews(dataset['name'][ind], api_key)
+    # get_company_reviews(company_name, api_key)
+
 
 
 if __name__ == "__main__":
