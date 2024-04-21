@@ -1,7 +1,5 @@
 import json
-import pandas as pd
 import requests
-import os
 import FileWriter
 
 
@@ -16,7 +14,6 @@ def get_company_reviews(company_name, api_key):
 
         avgTotalRating = 0
         totalReviewsCount = 0
-        countIterations = 0
 
         # Check if the response contains any results
         if 'results' in data and len(data['results']) > 0:
@@ -28,9 +25,8 @@ def get_company_reviews(company_name, api_key):
                     noReviews = result.get('user_ratings_total', 0)
                     avgRating = result.get('rating', 0)
 
-                    avgTotalRating += avgRating
+                    avgTotalRating += (avgRating * noReviews)
                     totalReviewsCount += noReviews
-                    countIterations += 1
 
                     fileWriter.write_to_file(f"Company name: {result['name']}\nAverage rating: {avgRating}\n"
                                              f"Number of reviews: {noReviews}\n")
@@ -62,11 +58,11 @@ def get_company_reviews(company_name, api_key):
                     fileWriter.write_to_file("\n")
 
             rating = 0
-            if countIterations != 0:
-                rating = avgTotalRating / countIterations
+            if totalReviewsCount != 0:
+                rating = avgTotalRating / totalReviewsCount
             fileWriter.write_to_file(f"Company name: {company_name.capitalize()}\nAverage Google Maps Rating: {rating}\nTotal reviews: {totalReviewsCount}\n")
             if avgTotalRating != 0:
-                trueRating = (avgTotalRating * countIterations + 5 + 1) / (totalReviewsCount + 2)
+                trueRating = (avgTotalRating + 5 + 1) / (totalReviewsCount + 2)
             else:
                 trueRating = 0
             fileWriter.write_to_file(f"True rating: {trueRating}\n")

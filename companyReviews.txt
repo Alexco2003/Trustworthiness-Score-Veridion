@@ -1,20 +1,15 @@
-Company name: Depanero
-Average rating: 4
-Number of reviews: 9096
-Reviews:
-{"author_name": "El Fenomeno", "author_url": "https://www.google.com/maps/contrib/110875480572611631491/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4wCfQ2zSv2hQYFbVitcGyDllNTQ5_qgDRmQoXWrGNALs1G9nj=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "in the last week", "text": "Horrible experience. They are not interesting in solving the cases! They send you to EMag. When you let the product at their place and they send you to solv the problems to EMag\u2026 another horrible company.", "time": 1713510712, "translated": false}
-Company name: Depanero
-Average Google Maps Rating: 4.0
-Total reviews: 9096
----------------------------------------------------------------------------------------
 Company name: Phillips law east
 Average Google Maps Rating: 0
 Total reviews: 0
+True rating: 0
 ---------------------------------------------------------------------------------------
+
 Company name: Elm ware
 Average Google Maps Rating: 0
 Total reviews: 0
+True rating: 0
 ---------------------------------------------------------------------------------------
+
 Company name: Dimerce B.V.
 Average rating: 5
 Number of reviews: 5
@@ -23,11 +18,15 @@ Reviews:
 Company name: Dimerce
 Average Google Maps Rating: 5.0
 Total reviews: 5
+True rating: 4.428571428571429
 ---------------------------------------------------------------------------------------
+
 Company name: K.i.n
 Average Google Maps Rating: 0
 Total reviews: 0
+True rating: 0
 ---------------------------------------------------------------------------------------
+
 Company name: Orfico
 Average rating: 4
 Number of reviews: 1
@@ -36,56 +35,115 @@ Reviews:
 Company name: Orfico - asesores
 Average Google Maps Rating: 4.0
 Total reviews: 1
+True rating: 3.3333333333333335
 ---------------------------------------------------------------------------------------
+
 Company name: Warrior nomad trail
 Average Google Maps Rating: 0
 Total reviews: 0
+True rating: 0
 ---------------------------------------------------------------------------------------
+
 Company name: Agencia creativa mira
 Average Google Maps Rating: 0
 Total reviews: 0
+True rating: 0
 ---------------------------------------------------------------------------------------
+
 Company name: Antibiro Bitrix24 Gold Partner
 Average rating: 0
 Number of reviews: 0
-Company name: Phillips law east
-Average Google Maps Rating: 0
-Total reviews: 0
----------------------------------------------------------------------------------------
-Company name: Dimerce B.V.
+Reviews:
+[]
+Company name: BITRIX24
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: B24consult - консултация и внедряване на Bitrix24
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Bitrix24 Türkiye
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Antibiro Bitrix24 Gold Partner exYU
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Ladislav Uro\u0161evi\u0107", "author_url": "https://www.google.com/maps/contrib/117948031930164444100/reviews", "language": "en-US", "original_language": "hr", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAy6POb0Y8LofWSepXvQBqfbv8tNevZfOiRWoxC3OV9Ci5vk_1Ug=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "6 years ago", "text": "great software, fast accurate... and useful", "time": 1509715075, "translated": true}
+Company name: Bitrix24 CRM İSTANBUL GLOBALNET OFİS
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Wsparcie Informatyczne - Bitrix24 szkolenia i wdrożenia
+Average rating: 5
+Number of reviews: 4
+Reviews:
+{"author_name": "Maciek", "author_url": "https://www.google.com/maps/contrib/102108255770864016996/reviews", "language": "en-US", "original_language": "pl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyptxd_1jriJgQCGTxGtBBOlKyWPKnsbYin6TrqXdzW5ANNlLv=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "a year ago", "text": "Working with S\u0142awek is a great honor for me. I recommend :)", "time": 1666677633, "translated": true}
+Reviews:
+{"author_name": "Maciek", "author_url": "https://www.google.com/maps/contrib/102108255770864016996/reviews", "language": "en-US", "original_language": "pl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyptxd_1jriJgQCGTxGtBBOlKyWPKnsbYin6TrqXdzW5ANNlLv=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "a year ago", "text": "Working with S\u0142awek is a great honor for me. I recommend :)", "time": 1666677633, "translated": true}
+Company name: BPro amoCRM Bitrix24 Moldova
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Catalin Catalin", "author_url": "https://www.google.com/maps/contrib/104655608883113588925/reviews", "language": "en-US", "original_language": "ro", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0aGDdcoCCGN7JWpR2Cq11ACi0wPAZcBA3j1i-J87kI3Iu=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "I am very satisfied with the company's services. Operative and efficient support, especially I want to mention Ruslana! Friendly and professional. Bravo to the team!", "time": 1661761154, "translated": true}
+Company name: BPM Consulting - Wdrożenie, wsparcie i szkolenia Bitrix24
 Average rating: 5
 Number of reviews: 5
 Reviews:
-{"author_name": "Jelmer Nieuwenhuis", "author_url": "https://www.google.com/maps/contrib/109364425965541566090/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyWpWtT-5TAVabBdzkroyjl0zyk5GOrDFVXjHSfvvYZ7seCb0=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1678375206, "translated": false}
-Company name: Dimerce
-Average Google Maps Rating: 5.0
-Total reviews: 5
----------------------------------------------------------------------------------------
-Company name: K.i.n
-Average Google Maps Rating: 0
-Total reviews: 0
----------------------------------------------------------------------------------------
-Company name: Orfico
-Average rating: 4
-Number of reviews: 1
-Reviews:
-{"author_name": "Juan Jos\u00e9 Arenas", "author_url": "https://www.google.com/maps/contrib/112864867344039726063/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6o-ah3Ebh0VGoqtWV1CHbO7-oqJSVvwUhzXRZnK1ccEd95Q=s128-c0x00000000-cc-rp-mo-ba5", "rating": 4, "relative_time_description": "a year ago", "text": "", "time": 1656050769, "translated": false}
-Company name: Orfico - asesores
-Average Google Maps Rating: 4.0
-Total reviews: 1
----------------------------------------------------------------------------------------
-Company name: Warrior nomad trail
-Average Google Maps Rating: 0
-Total reviews: 0
----------------------------------------------------------------------------------------
-Company name: Agencia creativa mira
-Average Google Maps Rating: 0
-Total reviews: 0
----------------------------------------------------------------------------------------
-Company name: Antibiro Bitrix24 Gold Partner
+{"author_name": "Elisa Legros", "author_url": "https://www.google.com/maps/contrib/112348529639719309147/reviews", "language": "en-US", "original_language": "pl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFrZSmdVEgvBREuRALcbCYKmWxTbrFFiNNSHEwtErHrS9Whhw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "Competent and decent people, they kept their word and did not disappoint. It's nice to work with professionals. Good luck and prosperity!\ud83d\udc9b", "time": 1665577483, "translated": true}
+Company name: Bitrix24 CRM Programı
 Average rating: 0
 Number of reviews: 0
 Reviews:
+[]
+Company name: Bitrix24 Ireland
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Reviews:
+[]
+Reviews:
+[]
+Company name: VRTeknoloji - Bitrix24 Türkiye
+Average rating: 5
+Number of reviews: 36
+Reviews:
+{"author_name": "illy", "author_url": "https://www.google.com/maps/contrib/114022177447239411652/reviews", "language": "en-US", "original_language": "tr", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSVaruFq76rx6l2NvlxdhC6QVAHUcLaylbaX-F2qwPlsfQWyw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 weeks ago", "text": "We would like to thank Mr. Mustafa, who supported us at every stage of the BITRIX24 application that we use for the health tourism department. Frankly, I am grateful for their contributions to us in every question and problem, with a sincere, honest and reliable service that answers, guides and supports us every time we call. A big blessing... Thank you very much.", "time": 1711792513, "translated": true}
+Reviews:
+{"author_name": "illy", "author_url": "https://www.google.com/maps/contrib/114022177447239411652/reviews", "language": "en-US", "original_language": "tr", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSVaruFq76rx6l2NvlxdhC6QVAHUcLaylbaX-F2qwPlsfQWyw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 weeks ago", "text": "We would like to thank Mr. Mustafa, who supported us at every stage of the BITRIX24 application that we use for the health tourism department. Frankly, I am grateful for their contributions to us in every question and problem, with a sincere, honest and reliable service that answers, guides and supports us every time we call. A big blessing... Thank you very much.", "time": 1711792513, "translated": true}
+Company name: Bitrix24
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Bitrix24
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Bitrix24 WhatsApp
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Ngwato Tshepo", "author_url": "https://www.google.com/maps/contrib/113338994422569182105/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKpjTjo-e0Rqb_iuN7_8-qlRWTp5CX5cJj9Zv8hxw2o_j31gq2=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "11 months ago", "text": "", "time": 1685115114, "translated": false}
+Company name: Bitrix24 Genesis System Technology شركة النظم العبقرية بيتركيس 24
+Average rating: 4.9
+Number of reviews: 15
+Reviews:
+{"author_name": "abed razak", "author_url": "https://www.google.com/maps/contrib/107766867966440922166/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqHAil8x1pCy6jyniKI7s_Aza8MmK90GxAf3IOKQQ6fxoQRw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "8 months ago", "text": "Thank you Mr Mohamad for your services , he is friendly and professional", "time": 1691397080, "translated": false}
+Company name: Bitrix24
+Average Google Maps Rating: 4.976190476190476
+Total reviews: 63
+True rating: 4.915384615384616
+---------------------------------------------------------------------------------------
+
 Company name: Burnham Gold Real Estate
 Average rating: 4.8
 Number of reviews: 16
@@ -94,7 +152,7 @@ Reviews:
 Company name: Burnham gold
 Average Google Maps Rating: 4.8
 Total reviews: 16
-True rating: 0.6000000000000001
+True rating: 4.6
 ---------------------------------------------------------------------------------------
 
 Company name: Rephouse limited
@@ -103,9 +161,9 @@ Number of reviews: 0
 Reviews:
 []
 Company name: Rephouse
-Average Google Maps Rating: 0.0
+Average Google Maps Rating: 0
 Total reviews: 0
-True rating: 3.0
+True rating: 0
 ---------------------------------------------------------------------------------------
 
 Company name: Nünnerich-Asmus Verlag & Media GmbH
@@ -116,13 +174,31 @@ Reviews:
 Company name: Nünnerich-asmus verlag
 Average Google Maps Rating: 5.0
 Total reviews: 5
-True rating: 1.5714285714285714
+True rating: 4.428571428571429
 ---------------------------------------------------------------------------------------
 
+Company name: megabit
+Average rating: 4.6
+Number of reviews: 338
+Reviews:
+{"author_name": "Ahillli Reservations", "author_url": "https://www.google.com/maps/contrib/105410701027571752335/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKs3YUl5DDzRQC9lUgN7vaWbapfiLM2M3Y0i6CFc1CDkT3CjQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "Carlos at Megabit Store provided exceptional service in fixing my laptop! He exhibited  expertise, promptness, and professionalism throughout the repair process. I'm beyond satisfied with the outcome and highly recommend their services for anyone seeking top-notch tech support!", "time": 1703679549, "translated": false}
+Reviews:
+{"author_name": "Ahillli Reservations", "author_url": "https://www.google.com/maps/contrib/105410701027571752335/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKs3YUl5DDzRQC9lUgN7vaWbapfiLM2M3Y0i6CFc1CDkT3CjQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "Carlos at Megabit Store provided exceptional service in fixing my laptop! He exhibited  expertise, promptness, and professionalism throughout the repair process. I'm beyond satisfied with the outcome and highly recommend their services for anyone seeking top-notch tech support!", "time": 1703679549, "translated": false}
+Company name: Megabit
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Neal Oliver M. Saniana", "author_url": "https://www.google.com/maps/contrib/107571389412150820931/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXD2YS8cX5GnqFVn1_oyA5BtyHwfrsSFPF3qtdgnrZSK3pv3w=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "3 years ago", "text": "", "time": 1609382376, "translated": false}
+Reviews:
+{"author_name": "Neal Oliver M. Saniana", "author_url": "https://www.google.com/maps/contrib/107571389412150820931/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXD2YS8cX5GnqFVn1_oyA5BtyHwfrsSFPF3qtdgnrZSK3pv3w=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "3 years ago", "text": "", "time": 1609382376, "translated": false}
+Reviews:
+{"author_name": "Neal Oliver M. Saniana", "author_url": "https://www.google.com/maps/contrib/107571389412150820931/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXD2YS8cX5GnqFVn1_oyA5BtyHwfrsSFPF3qtdgnrZSK3pv3w=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "3 years ago", "text": "", "time": 1609382376, "translated": false}
+Reviews:
+{"author_name": "Neal Oliver M. Saniana", "author_url": "https://www.google.com/maps/contrib/107571389412150820931/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXD2YS8cX5GnqFVn1_oyA5BtyHwfrsSFPF3qtdgnrZSK3pv3w=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "3 years ago", "text": "", "time": 1609382376, "translated": false}
 Company name: Megabits
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 3.0
+Average Google Maps Rating: 4.6011799410029495
+Total reviews: 339
+True rating: 4.591788856304985
 ---------------------------------------------------------------------------------------
 
 Company name: Savoir Vivre
@@ -131,1690 +207,26 @@ Number of reviews: 0
 Reviews:
 []
 Company name: Savoir vivre lifestyle
-Average Google Maps Rating: 0.0
+Average Google Maps Rating: 0
 Total reviews: 0
-True rating: 3.0
+True rating: 0
 ---------------------------------------------------------------------------------------
 
 Company name: Uht bilisim
 Average Google Maps Rating: 0
 Total reviews: 0
-True rating: 3.0
+True rating: 0
 ---------------------------------------------------------------------------------------
 
 Company name: Deckt
 Average Google Maps Rating: 0
 Total reviews: 0
-True rating: 3.0
+True rating: 0
 ---------------------------------------------------------------------------------------
 
 Company name: Stroud services
 Average Google Maps Rating: 0
 Total reviews: 0
-True rating: 3.0
----------------------------------------------------------------------------------------
-
-Company name: Advantage Management
-Average rating: 2.1
-Number of reviews: 66
-Reviews:
-{"author_name": "Gregory Timke", "author_url": "https://www.google.com/maps/contrib/116046820258238528687/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKDDibVGnRuqyOQDQe0U0zDJev_nZzMYAblyCieqLj9Cmevw=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "4 weeks ago", "text": "Property Management companies are a dime a dozen in Chicago, and most are useless at best, but Advantage Management has been nothing short of fantastic to work with. Kenny Parquette and everyone else at Advantage Management I've interacted with have been prompt and attentive at addressing my and the building's concerns. Couldn't ask for more from a property management company, and happy that we have them at our building.", "time": 1711134203, "translated": false}
-Company name: Advantage Management & Real Estate Services LLC
-Average rating: 3.7
-Number of reviews: 426
-Reviews:
-{"author_name": "Cole Parker", "author_url": "https://www.google.com/maps/contrib/101497157046014563852/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw1XhQ_WI9jVJOP_ri2x0LHqLqdLDLH2ocuR25zHRyjAuZVfX1=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "in the last week", "text": "We work with Advantage Management as our HOA management company and they\u2019re amazing to work with. Ashley is who we have worked with for the past couple of years and she goes above and beyond. She\u2019s responsive, provides great service to our community, and always offers helpful advice. Would highly recommend working with Advantage Management. You won\u2019t regret it.", "time": 1713412318, "translated": false}
-Reviews:
-{"author_name": "Cole Parker", "author_url": "https://www.google.com/maps/contrib/101497157046014563852/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw1XhQ_WI9jVJOP_ri2x0LHqLqdLDLH2ocuR25zHRyjAuZVfX1=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "in the last week", "text": "We work with Advantage Management as our HOA management company and they\u2019re amazing to work with. Ashley is who we have worked with for the past couple of years and she goes above and beyond. She\u2019s responsive, provides great service to our community, and always offers helpful advice. Would highly recommend working with Advantage Management. You won\u2019t regret it.", "time": 1713412318, "translated": false}
-Company name: Advantage Management Definition
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "Gabriel Michael", "author_url": "https://www.google.com/maps/contrib/111807700587363613783/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNn7-gNzqO2Zi1Mk1WBZG3Y3qV5nGNp0m3jlAP_UROGI-59sk=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "The site is very easy to Access, you guys are excellent.", "time": 1698215420, "translated": false}
-Reviews:
-{"author_name": "Gabriel Michael", "author_url": "https://www.google.com/maps/contrib/111807700587363613783/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNn7-gNzqO2Zi1Mk1WBZG3Y3qV5nGNp0m3jlAP_UROGI-59sk=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "The site is very easy to Access, you guys are excellent.", "time": 1698215420, "translated": false}
-Company name: Advantage Management Inc
-Average rating: 4.8
-Number of reviews: 4
-Reviews:
-{"author_name": "Rodney Vejar", "author_url": "https://www.google.com/maps/contrib/103370453321267904152/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOCuPPeHiCyQcDCRFLhR7VpURVUIXOooZ0f-BAhIerfTjHjSdq-Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "Some of the most professional, and polite people in the business.", "time": 1647533811, "translated": false}
-Company name: Advantage management
-Average Google Maps Rating: 3.9000000000000004
-Total reviews: 497
-True rating: 0.1370741482965932
----------------------------------------------------------------------------------------
-
-Company name: Clements Eggs
-Average rating: 5
-Number of reviews: 3
-Reviews:
-{"author_name": "Barracuda Bill", "author_url": "https://www.google.com/maps/contrib/100342650512144197908/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXg9CPhl0QWdWpBLORXn7xMQRdOOKaDlBI_KQik-yzdUaEuq1A=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "Thought this said cement eggs. Pretty disappointed.", "time": 1680780057, "translated": false}
-Company name: Clements eggs
-Average Google Maps Rating: 5.0
-Total reviews: 3
-True rating: 2.2
----------------------------------------------------------------------------------------
-
-Company name: Delta Ag Services
-Average rating: 5
-Number of reviews: 3
-Reviews:
-{"author_name": "Eojinsol Daniel Woo", "author_url": "https://www.google.com/maps/contrib/100060090603007528216/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjRQquMhF95QhOT0Bgld-0lONEaiZhfg0dNBSnwvvW1Bu1Tg=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1669843760, "translated": false}
-Company name: AG Services
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "Patwari Rana", "author_url": "https://www.google.com/maps/contrib/116506679810446020688/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4BNVRbWWEJqpsEZCqRiXyh-B0silxw3Csg9Nwfm5RQZDXAL2U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "10 months ago", "text": "", "time": 1685908568, "translated": false}
-Reviews:
-{"author_name": "Patwari Rana", "author_url": "https://www.google.com/maps/contrib/116506679810446020688/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4BNVRbWWEJqpsEZCqRiXyh-B0silxw3Csg9Nwfm5RQZDXAL2U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "10 months ago", "text": "", "time": 1685908568, "translated": false}
-Reviews:
-{"author_name": "Patwari Rana", "author_url": "https://www.google.com/maps/contrib/116506679810446020688/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4BNVRbWWEJqpsEZCqRiXyh-B0silxw3Csg9Nwfm5RQZDXAL2U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "10 months ago", "text": "", "time": 1685908568, "translated": false}
-Company name: Delta ag services
-Average Google Maps Rating: 5.0
-Total reviews: 4
-True rating: 4.333333333333333
----------------------------------------------------------------------------------------
-
-Company name: Delta Ag Services
-Average rating: 5
-Number of reviews: 3
-Reviews:
-{"author_name": "Eojinsol Daniel Woo", "author_url": "https://www.google.com/maps/contrib/100060090603007528216/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjRQquMhF95QhOT0Bgld-0lONEaiZhfg0dNBSnwvvW1Bu1Tg=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1669843760, "translated": false}
-Company name: AG Services
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "Patwari Rana", "author_url": "https://www.google.com/maps/contrib/116506679810446020688/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4BNVRbWWEJqpsEZCqRiXyh-B0silxw3Csg9Nwfm5RQZDXAL2U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "10 months ago", "text": "", "time": 1685908568, "translated": false}
-Reviews:
-{"author_name": "Patwari Rana", "author_url": "https://www.google.com/maps/contrib/116506679810446020688/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4BNVRbWWEJqpsEZCqRiXyh-B0silxw3Csg9Nwfm5RQZDXAL2U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "10 months ago", "text": "", "time": 1685908568, "translated": false}
-Reviews:
-{"author_name": "Patwari Rana", "author_url": "https://www.google.com/maps/contrib/116506679810446020688/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4BNVRbWWEJqpsEZCqRiXyh-B0silxw3Csg9Nwfm5RQZDXAL2U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "10 months ago", "text": "", "time": 1685908568, "translated": false}
-Company name: Delta ag services
-Average Google Maps Rating: 5.0
-Total reviews: 4
-True rating: 4.333333333333333
----------------------------------------------------------------------------------------
-
-Company name: Delta Ag Services
-Average rating: 5
-Number of reviews: 3
-Reviews:
-{"author_name": "Eojinsol Daniel Woo", "author_url": "https://www.google.com/maps/contrib/100060090603007528216/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjRQquMhF95QhOT0Bgld-0lONEaiZhfg0dNBSnwvvW1Bu1Tg=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1669843760, "translated": false}
-Company name: AG Services
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "Patwari Rana", "author_url": "https://www.google.com/maps/contrib/116506679810446020688/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4BNVRbWWEJqpsEZCqRiXyh-B0silxw3Csg9Nwfm5RQZDXAL2U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "10 months ago", "text": "", "time": 1685908568, "translated": false}
-Reviews:
-{"author_name": "Patwari Rana", "author_url": "https://www.google.com/maps/contrib/116506679810446020688/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4BNVRbWWEJqpsEZCqRiXyh-B0silxw3Csg9Nwfm5RQZDXAL2U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "10 months ago", "text": "", "time": 1685908568, "translated": false}
-Reviews:
-{"author_name": "Patwari Rana", "author_url": "https://www.google.com/maps/contrib/116506679810446020688/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4BNVRbWWEJqpsEZCqRiXyh-B0silxw3Csg9Nwfm5RQZDXAL2U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "10 months ago", "text": "", "time": 1685908568, "translated": false}
-Company name: Delta ag services
-Average Google Maps Rating: 5.0
-Total reviews: 4
-True rating: 4.333333333333333
----------------------------------------------------------------------------------------
-
-Company name: Guayacanal
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Guayacanal
-Average Google Maps Rating: 0.0
-Total reviews: 0
 True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Farmtank
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Mossy
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Mossy earth
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Gransden Show
-Average rating: 4.7
-Number of reviews: 81
-Reviews:
-{"author_name": "military64", "author_url": "https://www.google.com/maps/contrib/113387274702970843544/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf3qh_t6a6q9j9ZB7MZ3T3uhfub2NBPprDHJdPXyMCsAslH9Te=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "6 months ago", "text": "Very good show. Enjoyed the animals, especially the pigs. Lots of food and good trade stalls. Nice craft tent as well.", "time": 1696140841, "translated": false}
-Company name: Gransden show
-Average Google Maps Rating: 4.7
-Total reviews: 81
-True rating: 0.1289156626506024
----------------------------------------------------------------------------------------
-
-Company name: Cal Fire
-Average rating: 5
-Number of reviews: 3
-Reviews:
-{"author_name": "Kennia Khaleck", "author_url": "https://www.google.com/maps/contrib/105274165896126617993/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaqHLmXW85aWDaq4e99vhM4z6j-7a-X_kGYOnGlR4Nwrwfzw=s128-c0x00000000-cc-rp-mo-ba5", "rating": 5, "relative_time_description": "2 years ago", "text": "", "time": 1636767882, "translated": false}
-Company name: CAL FIRE Benevolent Foundation
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: CAL FIRE
-Average rating: 4.5
-Number of reviews: 13
-Reviews:
-{"author_name": "Sharon CA", "author_url": "https://www.google.com/maps/contrib/105184257627917554950/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMec0gTe2OVvmwuJUI1QkR0dp6iLlEV0BBQdpL63rd2EbhWqI=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "a year ago", "text": "I would love to leave a great review, but I can't.  I have called them 3 different times now and left a message, but no one returns my call.  I have a concern about a valid fire hazard and they don't seem to care.  This is fire season and my concern is quite justified.", "time": 1663280549, "translated": false}
-Company name: Cal Fire
-Average rating: 4.8
-Number of reviews: 5
-Reviews:
-{"author_name": "B McCaffrey", "author_url": "https://www.google.com/maps/contrib/100441204309831871410/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0IovI3giAoQhFV91RA-mhpyGEdOlxFTB-9-VoAqmYT90CGA=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "9 months ago", "text": "Best of the best", "time": 1689972054, "translated": false}
-Reviews:
-{"author_name": "B McCaffrey", "author_url": "https://www.google.com/maps/contrib/100441204309831871410/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0IovI3giAoQhFV91RA-mhpyGEdOlxFTB-9-VoAqmYT90CGA=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "9 months ago", "text": "Best of the best", "time": 1689972054, "translated": false}
-Reviews:
-{"author_name": "B McCaffrey", "author_url": "https://www.google.com/maps/contrib/100441204309831871410/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0IovI3giAoQhFV91RA-mhpyGEdOlxFTB-9-VoAqmYT90CGA=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "9 months ago", "text": "Best of the best", "time": 1689972054, "translated": false}
-Company name: CAL FIRE Academy
-Average rating: 4.5
-Number of reviews: 39
-Reviews:
-{"author_name": "Maegan Ontiveros", "author_url": "https://www.google.com/maps/contrib/101072590422121735077/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRi-8KCrx06j4KPjgizflSrKaIaPxqD9qqQY3C7u6kl-IDag=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "7 months ago", "text": "Great place to work", "time": 1694379395, "translated": false}
-Company name: CAL FIRE
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "D Rieg", "author_url": "https://www.google.com/maps/contrib/104599406940198641047/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuoOPWuOJObCsf7MEL58dMg2YikOygwshdlF6abndt5gXI-JE=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "2 years ago", "text": "", "time": 1640450416, "translated": false}
-Company name: CAL FIRE
-Average rating: 4.2
-Number of reviews: 5
-Reviews:
-{"author_name": "Ranaldo B", "author_url": "https://www.google.com/maps/contrib/107405848360444473653/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx1kHRfc_wfqpQ-DM56-ZYR6yqoys5nOZHLGDeg2HXwyv0zA=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "2 years ago", "text": "", "time": 1626945278, "translated": false}
-Company name: CAL FIRE Local 2881
-Average rating: 5
-Number of reviews: 2
-Reviews:
-{"author_name": "Joe Ten Eyck", "author_url": "https://www.google.com/maps/contrib/103325354532546697740/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBjLT5MA7FA9TX9J26W7gXjta8HKaELenB8ZNaVYPH9ODJTn98=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 years ago", "text": "", "time": 1593120228, "translated": false}
-Company name: CAL FIRE
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "Mario Da San Martino", "author_url": "https://www.google.com/maps/contrib/103087637343044349710/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICIZfL01CfbI8aQ6TeM2cD3kvLfhEtbAG4bJ29fODupBx2IA=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1656386107, "translated": false}
-Company name: CAL FIRE Vina Helitack Base
-Average rating: 4.7
-Number of reviews: 3
-Reviews:
-{"author_name": "Mz. Lux", "author_url": "https://www.google.com/maps/contrib/105752418681019272971/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ4oal5_2EzKGlgh4ezF4VUgfneMHOvCDwKqN-n0j0YYzzJOOp2w=s128-c0x00000000-cc-rp-mo-ba5", "rating": 4, "relative_time_description": "6 months ago", "text": "Impressive building", "time": 1697501039, "translated": false}
-Company name: CAL FIRE Santa Clara Unit
-Average rating: 4.8
-Number of reviews: 4
-Reviews:
-{"author_name": "Rosalino Sanches", "author_url": "https://www.google.com/maps/contrib/110974509013537071291/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpBtKAmM2dS1TC_M8VF7-1WWvyEGke78nh6uAMhkxWgGNi3A=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 years ago", "text": "", "time": 1598258189, "translated": false}
-Company name: Equipment Storage | CAL FIRE CZU
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "Kelly", "author_url": "https://www.google.com/maps/contrib/100200669063710670556/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuXuZayOMzwkXEGlAoE1wvM8nYKHaa2VRTINAYuyqOaAlcHFSf=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "7 years ago", "text": "", "time": 1482509265, "translated": false}
-Reviews:
-{"author_name": "Kelly", "author_url": "https://www.google.com/maps/contrib/100200669063710670556/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuXuZayOMzwkXEGlAoE1wvM8nYKHaa2VRTINAYuyqOaAlcHFSf=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "7 years ago", "text": "", "time": 1482509265, "translated": false}
-Company name: CAL FIRE AEU
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Company name: Cal Fire Gear
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Company name: CAL FIRE Fresno County Fire Station 84
-Average rating: 3
-Number of reviews: 2
-Reviews:
-{"author_name": "Jaimy Seef", "author_url": "https://www.google.com/maps/contrib/104204851698664118879/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsDCcpfT2p-Z7_-C5w70reHm_9DtU7odeyeVzmXimjhQpsuN0=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "", "time": 1644959357, "translated": false}
-Company name: Cal fire
-Average Google Maps Rating: 3.7
-Total reviews: 79
-True rating: 10.351851851851851
----------------------------------------------------------------------------------------
-
-Company name: Cole dog farms
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Kipekee Agro Private Limited
-Average rating: 4.5
-Number of reviews: 6
-Reviews:
-{"author_name": "Adesh Kumar", "author_url": "https://www.google.com/maps/contrib/100857950952734872211/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqWV2xmED9XYBWvkpTzp3LlikPT4HRz5cfi3Ip86-EWAiG6B8=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "Good and superb survice", "time": 1645070202, "translated": false}
-Company name: KIPEKEE AGRO PVT.LTD
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Kipekee agro
-Average Google Maps Rating: 2.25
-Total reviews: 6
-True rating: 1.875
----------------------------------------------------------------------------------------
-
-Company name: Improve Your Fishing
-Average rating: 5
-Number of reviews: 4
-Reviews:
-{"author_name": "Marc Hodges", "author_url": "https://www.google.com/maps/contrib/116404618660116997589/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_HkctcqjluMG6btzLi2nYo4-5wdtb8W2FuYQlGl4H-rTeMA=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "8 months ago", "text": "This was a fantastic experience. Andy is easy to speak to, very knowledgeable, a great instructor and happy to move at your pace. Perfect for a day's fishing!\n\nKids as well as adults will enjoy the sessions and learn a lot. Fully recommended.", "time": 1690649902, "translated": false}
-Company name: Improve your fishing
-Average Google Maps Rating: 5.0
-Total reviews: 4
-True rating: 1.8333333333333333
----------------------------------------------------------------------------------------
-
-Company name: Az farming
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Poultry India
-Average rating: 4.6
-Number of reviews: 18
-Reviews:
-{"author_name": "Chakradhar Potluri", "author_url": "https://www.google.com/maps/contrib/116122115855086886293/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxyRgUJxMC_9fhGzmWc7Kw9t5DJP-0N0opHaq2WJS7nukIaec=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "2 months ago", "text": "Centrally located office space for poultry community. Helping hands for poultry . Indian Poultry equipment manufacturers Association", "time": 1707866279, "translated": false}
-Company name: Poultry India TV
-Average rating: 3.2
-Number of reviews: 18
-Reviews:
-{"author_name": "VIKRAM JEET SINGH", "author_url": "https://www.google.com/maps/contrib/104393222025704851719/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCE9TMf7kZqFRDE2PNk5HAfjO5n2DsXg6q-UIsR7Q_ysYERDQ=s128-c0x00000000-cc-rp-mo-ba5", "rating": 1, "relative_time_description": "10 months ago", "text": "Hated due to non vegetarian", "time": 1687277589, "translated": false}
-Reviews:
-{"author_name": "VIKRAM JEET SINGH", "author_url": "https://www.google.com/maps/contrib/104393222025704851719/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCE9TMf7kZqFRDE2PNk5HAfjO5n2DsXg6q-UIsR7Q_ysYERDQ=s128-c0x00000000-cc-rp-mo-ba5", "rating": 1, "relative_time_description": "10 months ago", "text": "Hated due to non vegetarian", "time": 1687277589, "translated": false}
-Reviews:
-{"author_name": "VIKRAM JEET SINGH", "author_url": "https://www.google.com/maps/contrib/104393222025704851719/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCE9TMf7kZqFRDE2PNk5HAfjO5n2DsXg6q-UIsR7Q_ysYERDQ=s128-c0x00000000-cc-rp-mo-ba5", "rating": 1, "relative_time_description": "10 months ago", "text": "Hated due to non vegetarian", "time": 1687277589, "translated": false}
-Company name: Poultry India
-Average rating: 4.5
-Number of reviews: 2
-Reviews:
-{"author_name": "md.lookman Ansari", "author_url": "https://www.google.com/maps/contrib/111218344272821735091/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrBLIxb_l8bPJdSC7Bw3L0VaLog3ChIsygjsv_oi-KdU4ypeo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1653722356, "translated": false}
-Reviews:
-{"author_name": "md.lookman Ansari", "author_url": "https://www.google.com/maps/contrib/111218344272821735091/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrBLIxb_l8bPJdSC7Bw3L0VaLog3ChIsygjsv_oi-KdU4ypeo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1653722356, "translated": false}
-Reviews:
-{"author_name": "md.lookman Ansari", "author_url": "https://www.google.com/maps/contrib/111218344272821735091/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrBLIxb_l8bPJdSC7Bw3L0VaLog3ChIsygjsv_oi-KdU4ypeo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1653722356, "translated": false}
-Reviews:
-{"author_name": "md.lookman Ansari", "author_url": "https://www.google.com/maps/contrib/111218344272821735091/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrBLIxb_l8bPJdSC7Bw3L0VaLog3ChIsygjsv_oi-KdU4ypeo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1653722356, "translated": false}
-Reviews:
-{"author_name": "md.lookman Ansari", "author_url": "https://www.google.com/maps/contrib/111218344272821735091/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrBLIxb_l8bPJdSC7Bw3L0VaLog3ChIsygjsv_oi-KdU4ypeo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1653722356, "translated": false}
-Reviews:
-{"author_name": "md.lookman Ansari", "author_url": "https://www.google.com/maps/contrib/111218344272821735091/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrBLIxb_l8bPJdSC7Bw3L0VaLog3ChIsygjsv_oi-KdU4ypeo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1653722356, "translated": false}
-Reviews:
-{"author_name": "md.lookman Ansari", "author_url": "https://www.google.com/maps/contrib/111218344272821735091/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrBLIxb_l8bPJdSC7Bw3L0VaLog3ChIsygjsv_oi-KdU4ypeo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1653722356, "translated": false}
-Reviews:
-{"author_name": "md.lookman Ansari", "author_url": "https://www.google.com/maps/contrib/111218344272821735091/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrBLIxb_l8bPJdSC7Bw3L0VaLog3ChIsygjsv_oi-KdU4ypeo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1653722356, "translated": false}
-Company name: Poultry India
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Company name: Poultry india
-Average Google Maps Rating: 3.075
-Total reviews: 38
-True rating: 1.3800000000000001
----------------------------------------------------------------------------------------
-
-Company name: Clayton agri-mktg
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Australian Agricultural Centre
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Australian agricultural centre
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Slo horse news
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Hiverite
-Average rating: 1
-Number of reviews: 2
-Reviews:
-{"author_name": "Michael Celi", "author_url": "https://www.google.com/maps/contrib/104166714685813953255/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0IAJIr0-_or53WiI2r_H7TqqbHhJKknF3p08kq_yMj0BQrQ=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "4 weeks ago", "text": "USELESS! Ordered from their online store Feb 28 2024. Money taken Feb 29. Delivery date was expected March 5. That was it! E Mailed them on March 11 and again March 21 with no response. Checked tracking and still to be fulfilled. Called their number, no response. messaged them, no response. drove to their alleged location, they don't exist there.  BE VERY WARY. I BELIEVE IT TO BE A SCAM.", "time": 1711226286, "translated": false}
-Company name: Hiverite
-Average Google Maps Rating: 1.0
-Total reviews: 2
-True rating: 1.75
----------------------------------------------------------------------------------------
-
-Company name: Equicise
-Average rating: 5
-Number of reviews: 5
-Reviews:
-{"author_name": "Julia Williams", "author_url": "https://www.google.com/maps/contrib/105035545610129149416/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrq6q9h8hoMpd40JUlEhi5kY4cWBQPd5wSOp3RWPcsLZfdRzc=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a month ago", "text": "Absolutely the best riding decision I\u2019ve ever made! After just a couple of lessons the difference in my position and leg control was incredible. It is effectively a biofeedback machine - you can see exactly where and how you are using your body, legs and hands, and learn to recognise and train your body, without worrying about the horse (although I did find myself \u2018clicking\u2019 and scratching him!). I can\u2019t recommend enough and am so looking forward to my next lesson.", "time": 1710951656, "translated": false}
-Company name: Equicise
-Average Google Maps Rating: 5.0
-Total reviews: 5
-True rating: 1.5714285714285714
----------------------------------------------------------------------------------------
-
-Company name: Xarvio
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: V. Kraus Nurseries Limited
-Average rating: 3.7
-Number of reviews: 3
-Reviews:
-{"author_name": "EJ Rottier", "author_url": "https://www.google.com/maps/contrib/113524952597750769868/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe6gg0g7CpZBPEJsLgZIimXj71hbyidyUVl0g18FBku9yu9A=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "9 months ago", "text": "What a horrible company!! Weve ordered from them multiple times and got the wrong variety of berry plant! Then some other varieties that are what they are suppose to be are sick and die! Never had this issue with any other plant provider! Everyone choose someone else!", "time": 1688510181, "translated": false}
-Company name: Kraus nurseries
-Average Google Maps Rating: 3.7
-Total reviews: 3
-True rating: 1.94
----------------------------------------------------------------------------------------
-
-Company name: Plant group hawai'i
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: sigma
-Average rating: 4.4
-Number of reviews: 7
-Reviews:
-{"author_name": "Cristian Coman", "author_url": "https://www.google.com/maps/contrib/113951675416226766083/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF6Tkr_A_brfOodLWhLH5TbAesYV0Ydh81DZh_jlmAum8hUU000Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "Goodyear personal experience", "time": 1674998166, "translated": false}
-Reviews:
-{"author_name": "Cristian Coman", "author_url": "https://www.google.com/maps/contrib/113951675416226766083/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF6Tkr_A_brfOodLWhLH5TbAesYV0Ydh81DZh_jlmAum8hUU000Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "Goodyear personal experience", "time": 1674998166, "translated": false}
-Reviews:
-{"author_name": "Cristian Coman", "author_url": "https://www.google.com/maps/contrib/113951675416226766083/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF6Tkr_A_brfOodLWhLH5TbAesYV0Ydh81DZh_jlmAum8hUU000Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "Goodyear personal experience", "time": 1674998166, "translated": false}
-Company name: Sigma Outdoors
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Company name: Sigma outdoors
-Average Google Maps Rating: 2.2
-Total reviews: 7
-True rating: 1.6444444444444446
----------------------------------------------------------------------------------------
-
-Company name: De Jong Lelies Holland B.V.
-Average rating: 4.3
-Number of reviews: 6
-Reviews:
-{"author_name": "\u0410 \u0410", "author_url": "https://www.google.com/maps/contrib/116793112352849982641/reviews", "language": "en-US", "original_language": "ru", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfge05srkDKv7TDQjYdbdwhPQklsdK-qM2_EKbHmwwE1emoms=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "a year ago", "text": "Excellent staff. Convenient for unloading and loading. There is no place to park at night.", "time": 1655719137, "translated": true}
-Company name: De Jong Lelies
-Average rating: 5
-Number of reviews: 2
-Reviews:
-{"author_name": "peter Kropff", "author_url": "https://www.google.com/maps/contrib/107558641638785638031/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7Kg7j9P-WBKSu1O8_a69OGWPKc5ksfv6WPHXbjLHijQRT1w=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 months ago", "text": "Great company that is friendly and not shy about sharing their knowledge.", "time": 1706804197, "translated": true}
-Company name: De Jong Lelies Australia Pty Ltd
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: De jong lelies
-Average Google Maps Rating: 3.1
-Total reviews: 8
-True rating: 3.3900000000000006
----------------------------------------------------------------------------------------
-
-Company name: Creekside Nursery, Inc.
-Average rating: 4.8
-Number of reviews: 62
-Reviews:
-{"author_name": "Lorraine Wilkinson", "author_url": "https://www.google.com/maps/contrib/113391774667638933499/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOj8ovogCmbBSO7G-F-cGQ1ZrIqiuI2Pr93AoqBPNzVmRdew=s128-c0x00000000-cc-rp-mo", "rating": 2, "relative_time_description": "in the last week", "text": "I have enjoyed visiting this nursery and the plants I\u2019ve purchased until yesterday. I sent them a message in messenger asking about advice on my Limelight Hydrangea. My response from them was \u201cAs I stated earlier you can trim it safely back by 1/3 of total plant size.\u201d I apologized stating I had forgotten I had asked them last year or whenever it was about trimming it. Then I get a screen shot of message from whenever I sent it. Yes they have a beautiful setup and beautiful plants. Their customer service is lacking. I hope they never forget anything!!!", "time": 1713549703, "translated": false}
-Reviews:
-{"author_name": "Lorraine Wilkinson", "author_url": "https://www.google.com/maps/contrib/113391774667638933499/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOj8ovogCmbBSO7G-F-cGQ1ZrIqiuI2Pr93AoqBPNzVmRdew=s128-c0x00000000-cc-rp-mo", "rating": 2, "relative_time_description": "in the last week", "text": "I have enjoyed visiting this nursery and the plants I\u2019ve purchased until yesterday. I sent them a message in messenger asking about advice on my Limelight Hydrangea. My response from them was \u201cAs I stated earlier you can trim it safely back by 1/3 of total plant size.\u201d I apologized stating I had forgotten I had asked them last year or whenever it was about trimming it. Then I get a screen shot of message from whenever I sent it. Yes they have a beautiful setup and beautiful plants. Their customer service is lacking. I hope they never forget anything!!!", "time": 1713549703, "translated": false}
-Company name: Creekside Nursery Inc
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Creekside Nursery
-Average rating: 5
-Number of reviews: 4
-Reviews:
-{"author_name": "B Myers", "author_url": "https://www.google.com/maps/contrib/112614424049599391517/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbeP_p02SR4qf4FF9i22EYDSIdFvPkNXwgtMvzKV8H-pe6k8W_=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "2 years ago", "text": "Very knowledgeable.  Beautiful nursery.  I'll be returning.\nHappy growing", "time": 1620494069, "translated": false}
-Reviews:
-{"author_name": "B Myers", "author_url": "https://www.google.com/maps/contrib/112614424049599391517/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbeP_p02SR4qf4FF9i22EYDSIdFvPkNXwgtMvzKV8H-pe6k8W_=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "2 years ago", "text": "Very knowledgeable.  Beautiful nursery.  I'll be returning.\nHappy growing", "time": 1620494069, "translated": false}
-Reviews:
-{"author_name": "B Myers", "author_url": "https://www.google.com/maps/contrib/112614424049599391517/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbeP_p02SR4qf4FF9i22EYDSIdFvPkNXwgtMvzKV8H-pe6k8W_=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "2 years ago", "text": "Very knowledgeable.  Beautiful nursery.  I'll be returning.\nHappy growing", "time": 1620494069, "translated": false}
-Company name: Creekside Nursery & Garden Centre
-Average rating: 4.3
-Number of reviews: 78
-Reviews:
-{"author_name": "CocoMamaBee", "author_url": "https://www.google.com/maps/contrib/103420296181321614053/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxQMy_4snH1AVRiTcnCTm0f3FndcjzxWK0IxRNZaNT-nuO0A=s128-c0x00000000-cc-rp-mo", "rating": 3, "relative_time_description": "4 months ago", "text": "The store was marvelous for Christmas shopping and I dropped $300+ in 30 minutes. Was so upset to see the Hoito Pancake Mixes that I bought to send to Toronto expired before Xmas. Wish I had checked at the store but I believe that should be their job. Other than that, the service and everything else was fabulous.", "time": 1702931281, "translated": false}
-Company name: Creekside Nursery & Produce
-Average rating: 4
-Number of reviews: 1
-Reviews:
-{"author_name": "David White", "author_url": "https://www.google.com/maps/contrib/114922005237442508956/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPcxUm_2vArZFp3MGBD7KtgLX-0mvYgyJ854liItJRfX82QROy=s128-c0x00000000-cc-rp-mo-ba6", "rating": 4, "relative_time_description": "4 years ago", "text": "Very friendly and helpful. Local people. We will return and reccomend this place. 5 out of seven stars for a perfect score.", "time": 1564225023, "translated": false}
-Reviews:
-{"author_name": "David White", "author_url": "https://www.google.com/maps/contrib/114922005237442508956/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPcxUm_2vArZFp3MGBD7KtgLX-0mvYgyJ854liItJRfX82QROy=s128-c0x00000000-cc-rp-mo-ba6", "rating": 4, "relative_time_description": "4 years ago", "text": "Very friendly and helpful. Local people. We will return and reccomend this place. 5 out of seven stars for a perfect score.", "time": 1564225023, "translated": false}
-Company name: Creekside Nursery
-Average rating: 4.4
-Number of reviews: 19
-Reviews:
-{"author_name": "Luis Martinez", "author_url": "https://www.google.com/maps/contrib/118421773935760261140/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfW8322LybNLR5W4iBccFsndMpxGTJLN-YQkSCdR2cyDTj1Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Very good service", "time": 1713230906, "translated": false}
-Reviews:
-{"author_name": "Luis Martinez", "author_url": "https://www.google.com/maps/contrib/118421773935760261140/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfW8322LybNLR5W4iBccFsndMpxGTJLN-YQkSCdR2cyDTj1Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Very good service", "time": 1713230906, "translated": false}
-Reviews:
-{"author_name": "Luis Martinez", "author_url": "https://www.google.com/maps/contrib/118421773935760261140/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfW8322LybNLR5W4iBccFsndMpxGTJLN-YQkSCdR2cyDTj1Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Very good service", "time": 1713230906, "translated": false}
-Reviews:
-{"author_name": "Luis Martinez", "author_url": "https://www.google.com/maps/contrib/118421773935760261140/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfW8322LybNLR5W4iBccFsndMpxGTJLN-YQkSCdR2cyDTj1Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Very good service", "time": 1713230906, "translated": false}
-Reviews:
-{"author_name": "Luis Martinez", "author_url": "https://www.google.com/maps/contrib/118421773935760261140/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfW8322LybNLR5W4iBccFsndMpxGTJLN-YQkSCdR2cyDTj1Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Very good service", "time": 1713230906, "translated": false}
-Reviews:
-{"author_name": "Luis Martinez", "author_url": "https://www.google.com/maps/contrib/118421773935760261140/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfW8322LybNLR5W4iBccFsndMpxGTJLN-YQkSCdR2cyDTj1Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Very good service", "time": 1713230906, "translated": false}
-Company name: Creekside Nursery Inc
-Average rating: 4.8
-Number of reviews: 8
-Reviews:
-{"author_name": "Jake Asher", "author_url": "https://www.google.com/maps/contrib/114717304059950119108/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt93YiOQCpXTlgCMqEO13x3nGVk7jhWb1DABGZQlnb6hvifA=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "4 months ago", "text": "Always has great sod", "time": 1701513090, "translated": false}
-Reviews:
-{"author_name": "Jake Asher", "author_url": "https://www.google.com/maps/contrib/114717304059950119108/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt93YiOQCpXTlgCMqEO13x3nGVk7jhWb1DABGZQlnb6hvifA=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "4 months ago", "text": "Always has great sod", "time": 1701513090, "translated": false}
-Reviews:
-{"author_name": "Jake Asher", "author_url": "https://www.google.com/maps/contrib/114717304059950119108/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt93YiOQCpXTlgCMqEO13x3nGVk7jhWb1DABGZQlnb6hvifA=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "4 months ago", "text": "Always has great sod", "time": 1701513090, "translated": false}
-Reviews:
-{"author_name": "Jake Asher", "author_url": "https://www.google.com/maps/contrib/114717304059950119108/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt93YiOQCpXTlgCMqEO13x3nGVk7jhWb1DABGZQlnb6hvifA=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "4 months ago", "text": "Always has great sod", "time": 1701513090, "translated": false}
-Reviews:
-{"author_name": "Jake Asher", "author_url": "https://www.google.com/maps/contrib/114717304059950119108/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt93YiOQCpXTlgCMqEO13x3nGVk7jhWb1DABGZQlnb6hvifA=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "4 months ago", "text": "Always has great sod", "time": 1701513090, "translated": false}
-Company name: Creekside nursery
-Average Google Maps Rating: 3.9
-Total reviews: 172
-True rating: 1.1327586206896552
----------------------------------------------------------------------------------------
-
-Company name: ehorses GmbH & Co.KG
-Average rating: 4.1
-Number of reviews: 48
-Reviews:
-{"author_name": "Janneke Gnodde", "author_url": "https://www.google.com/maps/contrib/109053508592726363224/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIP6Qg7bBySWzMYHHCo0-fDbarja9TyhOnXW7eRtIPX_m1EQ=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "4 months ago", "text": "Unclear site. If you do not take out a subscription that is too expensive, your advertisement that you simply pay for will not be visible", "time": 1701165891, "translated": true}
-Company name: Ehorses
-Average Google Maps Rating: 4.1
-Total reviews: 48
-True rating: 0.20199999999999999
----------------------------------------------------------------------------------------
-
-Company name: White Horse Pass
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Wild Horse Pass
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Wild horse pass
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Dead Horse Pass
-Average rating: 5
-Number of reviews: 2
-Reviews:
-{"author_name": "S B", "author_url": "https://www.google.com/maps/contrib/101187664539954879072/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcdgDFrYAhkZlFZaxNc82CaWvxmA-EPlr8CbcQ6VCJN7Ag1yoM=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "6 years ago", "text": "Best view ever.", "time": 1506298936, "translated": false}
-Company name: Kicking Horse Pass
-Average rating: 4.9
-Number of reviews: 24
-Reviews:
-{"author_name": "Mahmoud Nowaz", "author_url": "https://www.google.com/maps/contrib/104239137939083439870/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhw0iNjtrrE6rtEK6g6cmXHgxP_ct3ixEJVIlPpY3X_gtuZ0j_=s128-c0x00000000-cc-rp-mo-ba6", "rating": 5, "relative_time_description": "7 months ago", "text": "Great Canadian railway history with a great view. Try to locate the opening of the cave where the rail line comes out. Be careful pulling in and out of this place. Enjoy the scenery.", "time": 1694625256, "translated": false}
-Company name: Wild Horse Pass Development Authority
-Average rating: 4.2
-Number of reviews: 45
-Reviews:
-{"author_name": "Maninthamaze D6", "author_url": "https://www.google.com/maps/contrib/114986113990529510603/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW11gqeo0gU3lDn76XPe-4PQemIMHZ0X36p8t568TGoDRHdeCU=s128-c0x00000000-cc-rp-mo-ba3", "rating": 4, "relative_time_description": "4 years ago", "text": "The casino gives kickbacks to the tribal law office not to hear casino cases", "time": 1574241242, "translated": false}
-Company name: Horse pass
-Average Google Maps Rating: 2.35
-Total reviews: 71
-True rating: 1.241095890410959
----------------------------------------------------------------------------------------
-
-Company name: Jungpflanzen L�ske GbR
-Average rating: 4.6
-Number of reviews: 11
-Reviews:
-{"author_name": "Wenke Heiken", "author_url": "https://www.google.com/maps/contrib/114938156636902939833/reviews", "language": "en-US", "original_language": "de", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqHrXlN7CZH6keJhvFTW1s5wjL77hfJezuKJRFq_BvPxG7164=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "Such a nice shop with very good quality and you get excellent advice. Absolute heart recommendation!", "time": 1625784406, "translated": true}
-Company name: Jungpflanzen l�ske
-Average Google Maps Rating: 4.6
-Total reviews: 11
-True rating: 0.8153846153846154
----------------------------------------------------------------------------------------
-
-Company name: Keartiman Kindergarten School
-Average rating: 5
-Number of reviews: 6
-Reviews:
-{"author_name": "Shanu Shanawaz", "author_url": "https://www.google.com/maps/contrib/113729070462578982634/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfxnuannQVi5Cf4EigacFBUcLb-MpMLiLGTE3AdhyCLUx-F65O=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "Very good and nice environment affordable pay for students in CBSE syllabus", "time": 1654835850, "translated": false}
-Company name: Keartiman
-Average Google Maps Rating: 5.0
-Total reviews: 6
-True rating: 1.375
----------------------------------------------------------------------------------------
-
-Company name: Schramas
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Agriculture More Than Ever
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Agriculture more than ever
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Solagri S.C.
-Average rating: 4.8
-Number of reviews: 12
-Reviews:
-{"author_name": "Fabrizio Armando Bellone", "author_url": "https://www.google.com/maps/contrib/110058670184075291421/reviews", "language": "en-US", "original_language": "it", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh8kV0jrxV-85JLOTlAqfDznhCz0QitdgC5pVGM_cq122NcsE=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "Availability and professionalism of the operators together with excellent productions. Highly recommended!", "time": 1636205429, "translated": true}
-Company name: Solagri
-Average rating: 4.6
-Number of reviews: 5
-Reviews:
-{"author_name": "Iuda Kolosova", "author_url": "https://www.google.com/maps/contrib/105327586982641471561/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI274msRoXTvSGJLL3YwDbTAaYtg9BoZLGwynAuzlvkA3ypQA=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "", "time": 1700152872, "translated": false}
-Company name: Solagri
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Solagri
-Average Google Maps Rating: 3.133333333333333
-Total reviews: 17
-True rating: 1.7999999999999998
----------------------------------------------------------------------------------------
-
-Company name: The mile farm shop
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: TU Dresden Robotik AG e.V.
-Average rating: 5
-Number of reviews: 5
-Reviews:
-{"author_name": "Johanna", "author_url": "https://www.google.com/maps/contrib/114724976368557231491/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFglhEdliBi6tqkvvabb45kxpYvtAtM37usEEdzLO4j-sGu1g4=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "6 months ago", "text": "", "time": 1697445237, "translated": false}
-Company name: Tu dresden robotik ag e.v.
-Average Google Maps Rating: 5.0
-Total reviews: 5
-True rating: 1.5714285714285714
----------------------------------------------------------------------------------------
-
-Company name: Something Good Organics
-Average rating: 5
-Number of reviews: 13
-Reviews:
-{"author_name": "Alanna Ford", "author_url": "https://www.google.com/maps/contrib/105310691382720105961/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGw3Q-CdSJiy91G6Dv8BF__mUZ8Sj4-TUNIZsmQJbdppM95u1w=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a month ago", "text": "I\u2019ve had CSAs all over the world for the last 15 years. Something Good Organic\u2019s is truly the best I\u2019ve ever had. A wonderful variety, incredibly fresh. Thank you, Something Good!", "time": 1709697379, "translated": false}
-Company name: Something Good Organics Organic Farm Stand
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Something good organics
-Average Google Maps Rating: 2.5
-Total reviews: 13
-True rating: 1.0666666666666667
----------------------------------------------------------------------------------------
-
-Company name: Equitable Food Initiative (EFI)
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Company name: Equitable food
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Cv-coaching
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Rheinwood Ct
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Rheinwood
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Ital-Agro srl
-Average rating: 4.6
-Number of reviews: 18
-Reviews:
-{"author_name": "zeno galatino", "author_url": "https://www.google.com/maps/contrib/107942314376827120265/reviews", "language": "en-US", "original_language": "it", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAwVuBlgafwt2bNMButxrm6TxSWJJlQWHtdaA8RWAkUv0yVt5A=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "a year ago", "text": "And f-i-c-i-s-s-i-m-oooooooooooooo I would spend a whole day there \ud83d\ude0a\ud83e\udd28\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\ude49\ud83d\ude3a\ud83d\ude3a\ud83d\udca5\ud83d\ude3b\ud83d\ude38\ud83d\ude38\ud83d\udc4d \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83e\udd1c\ud83e\udd1b\ud83d\udc4c\ud83d\udc4b\ud83d\udc4a\u261d\ufe0f\ud83e\udd1f\ud83e\udd1f\ud83e\udd1f \ud83d\ude4f thank you very much", "time": 1680025724, "translated": true}
-Company name: Ital-agro
-Average Google Maps Rating: 4.6
-Total reviews: 18
-True rating: 0.53
----------------------------------------------------------------------------------------
-
-Company name: Particularly Good Potatoes
-Average rating: 5
-Number of reviews: 9
-Reviews:
-{"author_name": "Richard Bulman", "author_url": "https://www.google.com/maps/contrib/101576545513703624170/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyQaVXitbKJ3pooqDMTeguB9t-CTI29grDSdRqv8bAdQqOoOU=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "6 months ago", "text": "1st class", "time": 1696330404, "translated": false}
-Company name: Particularly good
-Average Google Maps Rating: 5.0
-Total reviews: 9
-True rating: 1.0
----------------------------------------------------------------------------------------
-
-Company name: NatureConnect
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Reviews:
-{"author_name": "John McNamara", "author_url": "https://www.google.com/maps/contrib/109139302147655388349/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuicc18s6NRt8GyRAktBVQfBXB_B0EwwuPxc3sAZFDBYH7L_o=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "I first started meeting with Neil three years ago and still regularly chat to him every week.\n\nHaving been sceptical of counselling and psychotherapy I attended our first session with trepidation.\n\nHowever, Neil has been nothing but caring and compassionate. Through speaking to him I have gained a much deeper awareness of my life and issues.\n\nAt times the process has been wrought with tears and pain, but it has all been worth it. My mental health and emotional awareness has improved immeasurably and I credit that to Neil\u2019s persistence, professionalism and compassion.\n\nAfter once dreading the idea of talking about my emotions, I now look forward to our weekly chats.\n\nI would definitely recommend Neil to anyone in need of counselling.", "time": 1609807926, "translated": false}
-Company name: Natureconnect
-Average Google Maps Rating: 5.0
-Total reviews: 1
-True rating: 3.6666666666666665
----------------------------------------------------------------------------------------
-
-Company name: Sativa Bags
-Average rating: 4.1
-Number of reviews: 9
-Reviews:
-{"author_name": "Shane Vaughan", "author_url": "https://www.google.com/maps/contrib/107226201657102044555/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4QtSIoBF91jJmmAw3kB6jafo9jC-kDm36MKyZawb9qPPXd5jB=s128-c0x00000000-cc-rp-mo-ba3", "rating": 3, "relative_time_description": "a year ago", "text": "I have one of their small backpacks and I love it! I bought it 2 years ago and is still going strong. I like its simple design and is very well made. I like how the colour fades in a very natural way. Highly recommended!\n\nEdit: I bought a larger backpack but the quality was terrible. The material is so thin that I can see right though it! I was able to return it but a 7 day return period seems pretty short to me.", "time": 1660146312, "translated": false}
-Company name: Sativa bags
-Average Google Maps Rating: 4.1
-Total reviews: 9
-True rating: 0.9181818181818181
----------------------------------------------------------------------------------------
-
-Company name: CROPWAY
-Average rating: 5
-Number of reviews: 2
-Reviews:
-{"author_name": "Akanksha Parial", "author_url": "https://www.google.com/maps/contrib/116544678553192667793/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNCbvrrJuy60D8gl_glqWSbeaVFYOhBrNBTKmHZWIcxaSEX84F=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "6 months ago", "text": "", "time": 1695550251, "translated": false}
-Company name: Cropway
-Average Google Maps Rating: 5.0
-Total reviews: 2
-True rating: 2.75
----------------------------------------------------------------------------------------
-
-Company name: Tegaia
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Lodi Farms Ltd
-Average rating: 4.3
-Number of reviews: 53
-Reviews:
-{"author_name": "Blake Garner Blades", "author_url": "https://www.google.com/maps/contrib/113329409413718230671/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTkU6kRN-2h6G-8f6yrftKdvhb_9pyqNmb-peyuXDQYN4h-d0B6w=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "9 months ago", "text": "We had such a great experience with Lodi! We ordered several 18ft  trees and they were delivered in about 3 weeks. Cory and his team were helpful and communicative, trees are beautiful, prices were good, service was excellent. Can't wait to get more \ud83c\udf32", "time": 1689351033, "translated": false}
-Reviews:
-{"author_name": "Blake Garner Blades", "author_url": "https://www.google.com/maps/contrib/113329409413718230671/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTkU6kRN-2h6G-8f6yrftKdvhb_9pyqNmb-peyuXDQYN4h-d0B6w=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "9 months ago", "text": "We had such a great experience with Lodi! We ordered several 18ft  trees and they were delivered in about 3 weeks. Cory and his team were helpful and communicative, trees are beautiful, prices were good, service was excellent. Can't wait to get more \ud83c\udf32", "time": 1689351033, "translated": false}
-Reviews:
-{"author_name": "Blake Garner Blades", "author_url": "https://www.google.com/maps/contrib/113329409413718230671/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTkU6kRN-2h6G-8f6yrftKdvhb_9pyqNmb-peyuXDQYN4h-d0B6w=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "9 months ago", "text": "We had such a great experience with Lodi! We ordered several 18ft  trees and they were delivered in about 3 weeks. Cory and his team were helpful and communicative, trees are beautiful, prices were good, service was excellent. Can't wait to get more \ud83c\udf32", "time": 1689351033, "translated": false}
-Company name: Lodi farms
-Average Google Maps Rating: 4.3
-Total reviews: 53
-True rating: 0.18727272727272729
----------------------------------------------------------------------------------------
-
-Company name: Gold Citrus Com�rcio Atacadista de Frutas
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "Silvani Maciel", "author_url": "https://www.google.com/maps/contrib/100949351865758848089/reviews", "language": "en-US", "original_language": "pt", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZsJkca3SrVoT34axP0YmtNq9BIIYrzoSKkHxfJdAKVyqUUNPjfg=s128-c0x00000000-cc-rp-mo-ba5", "rating": 5, "relative_time_description": "5 months ago", "text": "Cabrini Machines Partnership.", "time": 1699384389, "translated": true}
-Company name: GOLD CITRUS S.A. DE C.V.
-Average rating: 3.9
-Number of reviews: 22
-Reviews:
-{"author_name": "Emmanuel Galindo Castan", "author_url": "https://www.google.com/maps/contrib/106011893253735014407/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8-HAISA7v9z49HaWPsQ2rZzJL47CSAV5YbE5mbsLWD69IcIgh=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "2 years ago", "text": "I was disappointed, I thought it was going to be a good job because now it's Jumex but the truth is it's not, I don't recommend it in the slightest.", "time": 1643106705, "translated": true}
-Reviews:
-{"author_name": "Emmanuel Galindo Castan", "author_url": "https://www.google.com/maps/contrib/106011893253735014407/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8-HAISA7v9z49HaWPsQ2rZzJL47CSAV5YbE5mbsLWD69IcIgh=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "2 years ago", "text": "I was disappointed, I thought it was going to be a good job because now it's Jumex but the truth is it's not, I don't recommend it in the slightest.", "time": 1643106705, "translated": true}
-Company name: Gold citrus
-Average Google Maps Rating: 4.45
-Total reviews: 23
-True rating: 0.9520000000000001
----------------------------------------------------------------------------------------
-
-Company name: Napa County Farm Bureau
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Napa county farm bureau
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: SustainCERT
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Sustaincert
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Reviews:
-[]
-Company name: Alp Tarim
-Average rating: 3.4
-Number of reviews: 9
-Reviews:
-{"author_name": "Alparslan Aslan", "author_url": "https://www.google.com/maps/contrib/112333069236083852502/reviews", "language": "en-US", "original_language": "tr", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuAoTyLc15zEViIOruvA5YPoI7V4jQqi8vtyt23fU36s-DwA=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "9 months ago", "text": "I bought herbicide, fungicide and fertilizer for chickpeas during the chickpea flowering period. The herbivore gave the herbicide incorrectly and my chickpeas turned yellow. While taking the medicine, he could not finish telling me that he did research for chickpeas and that the medicines he gave me were first class and that he had about 400 kg of chickpeas per acre. The medicine he gave me is the medicine before emergence after planting. I threw away the medicine he gave me, my chickpeas started to dry out, he is definitely not competent in his job, I would not recommend him.", "time": 1688365312, "translated": true}
-Company name: ALP TARIM
-Average rating: 4.5
-Number of reviews: 28
-Reviews:
-{"author_name": "Alim Ulu", "author_url": "https://www.google.com/maps/contrib/107336085229634235106/reviews", "language": "en-US", "original_language": "tr", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTDmNA6cqXhhbqMlXHwwnhNyVpZY-cq09YqyDuZU6zwaLbfA=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "Our country needs innovative people like Mr. Alpten. May God help you, my fellow countryman.", "time": 1646826141, "translated": true}
-Company name: Alp Tarim
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: ALP TARIM
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Alp tarim
-Average Google Maps Rating: 1.58
-Total reviews: 37
-True rating: 1.1666666666666667
----------------------------------------------------------------------------------------
-
-Company name: MPA Agro AB
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Company name: Mpa agro
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Oostland Automobielen B.V.
-Average rating: 4.3
-Number of reviews: 73
-Reviews:
-{"author_name": "rene wierenga", "author_url": "https://www.google.com/maps/contrib/104433667548231873203/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqAWMe9zGeHxjmsrOfehazwELuiHor379jUcyq-mEqgIvt1GZ5=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "a month ago", "text": "Lesser experience.\nBought an expensive bus.\nHave to replace all rotating parts in no time.\nAs an argument they said yes, it is a 2nd hand bus.\nThat's right, but I wouldn't have bought this bus for that amount of money and I think the amount went to that company.\nDisappointed\nAnd a bad aftertaste, I won't buy a bus again\nBeautiful from the outside, but misery", "time": 1710568949, "translated": true}
-Company name: Oostland Company B.V.
-Average rating: 5
-Number of reviews: 6
-Reviews:
-{"author_name": "\u041e\u043b\u0435\u0441\u044f \u0411\u0430\u0437\u0435\u043b\u044e\u043a", "author_url": "https://www.google.com/maps/contrib/103442627351615159618/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrIhMk0qVP7Ip8mjVnjlpbo0Pcql5YZ_ALzZP_55s8RxasDQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1662721940, "translated": false}
-Company name: Oostland Company B.V.
-Average rating: 4.3
-Number of reviews: 3
-Reviews:
-{"author_name": "Sherzod Ashuraliev", "author_url": "https://www.google.com/maps/contrib/102418038792821047934/reviews", "language": "ru", "original_language": "ru", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMJz045TXsHOPj9uyMs-I1HgNuv5Lm6IeMVksgYqP8SWKw-JJ0=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d", "time": 1679045634, "translated": false}
-Company name: Oostland Company B.V
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Oostland Company B.V.
-Average rating: 5
-Number of reviews: 4
-Reviews:
-{"author_name": "G\u00e1bor Nagy", "author_url": "https://www.google.com/maps/contrib/112028101266229859853/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLG7v3ybq2bXmRo6yNTp461xEcJD8T7Lo2iOcAerqfzOTSERLf=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1651246282, "translated": false}
-Company name: Oostland Company B.V.
-Average rating: 5
-Number of reviews: 2
-Reviews:
-{"author_name": "Marius Moldovan", "author_url": "https://www.google.com/maps/contrib/116545831933263883627/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnbT_ybaG5RPcn0SOVjKCP7Xl2Fv5PJKk78vMM25bpoRDAkUKP=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "7 months ago", "text": "", "time": 1695133017, "translated": false}
-Company name: Administratiekantoor Oostland BV
-Average rating: 1.8
-Number of reviews: 5
-Reviews:
-{"author_name": "Stephanie Pecriaux", "author_url": "https://www.google.com/maps/contrib/107699070822169663594/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeFO31KPOEJuGWlATF86OOtOr5hmTgbML_vEWXxwLryiW9CtIE=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "3 years ago", "text": "After the unfortunate death of my accountant, I was also automatically transferred to the Oostland administration office. What hell this was. I think I spent as many hours getting them to carry out my assignment as they actually spent on it. Difficult to get in touch, not responding, submitting declarations too late (which meant I had to pay the fines), etc... When I ask for the specification of their invoice, I receive no response. Lots of excuses why it was difficult. As a customer, I should not experience anything and be bothered by the chaos they are in. I have had a new accountant for a year now and he simply carries out the assignment for which I pay him. That's how it should be!", "time": 1607609840, "translated": true}
-Company name: Oostland Company B.V
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Oostland Notaris
-Average rating: 4
-Number of reviews: 6
-Reviews:
-{"author_name": "H Persoon", "author_url": "https://www.google.com/maps/contrib/103101488131958669372/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0vn04IKWjcGxIxjpWc5TwbMLoKkOrqffbV8a-PiRws_gbXA=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a week ago", "text": "", "time": 1713004489, "translated": false}
-Company name: Oostland BMW Doetinchem
-Average rating: 4.2
-Number of reviews: 109
-Reviews:
-{"author_name": "Dennis", "author_url": "https://www.google.com/maps/contrib/100703557974880818429/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8Q2VQvSK3jVU8R9_cibp7dowJZrij_rbRuCjqyuG_8n6SFwbn=s128-c0x00000000-cc-rp-mo-ba3", "rating": 1, "relative_time_description": "a month ago", "text": "There seems to be a persistent prejudice about \"the BMW driver\". Nevertheless, many car magazines or reviews on the Internet rave about the brand's products. If you are interested in a model, the first thought is to go to an official dealer and take a look at young used used cars, who probably have the shortest lines and the most experience. But the experience in the showroom seems to be partly recognizable in that so-called prejudice about BMW drivers. And that's a shame. People don't see you, or they pretend not to see you. And if people do see you and you indicate that you are interested in a young used car or would like to get a taste of the brand values, they will look at the offer from the entire group that suits your budget. People don't ask about your wishes. It is not possible to get to know a used car in more detail. And unfortunately, an experience like this is not unique to this dealer, there are several that you can barely see, even though it is not busy in the showroom. And unfortunately that is also what you see in other reviews of this dealer. Like you're apparently not \"allowed\" to drive a BMW?", "time": 1710760914, "translated": true}
-Company name: Dierenkliniek Oostland
-Average rating: 5
-Number of reviews: 29
-Reviews:
-{"author_name": "Mari\u00eblle B", "author_url": "https://www.google.com/maps/contrib/117473068819660574155/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8f0bbHHUOpsYpAwOCYZloTPSIPSBCuyVT2z2fLeKaB11gpQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 months ago", "text": "Really a super sweet vet. Went with our kitten for a check-up, she was super scared but they allowed her to get used to it. Explained everything well to us. A vet who knows how to deal with animals!", "time": 1708017856, "translated": true}
-Company name: Oostland BMW Groenlo
-Average rating: 4.6
-Number of reviews: 78
-Reviews:
-{"author_name": "Amir YT official", "author_url": "https://www.google.com/maps/contrib/106444075961215056970/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt_tHcwHWyUjKrOPQTngAfItvxvA7LB2FA0clnJ0_ITCDzlR6G4A=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 months ago", "text": "I was helped perfectly. They are very customer friendly. I definitely recommend them!", "time": 1706017441, "translated": true}
-Company name: Bibliotheek Oostland, vestiging Berkel en Rodenrijs
-Average rating: 4.5
-Number of reviews: 33
-Reviews:
-{"author_name": "Twirling Book Princess", "author_url": "https://www.google.com/maps/contrib/107868235319832933713/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk0m83w2P9NEoLyfKCmLq6and7PN5TFGEEHflOLSTBKgYIXRz5=s128-c0x00000000-cc-rp-mo-ba4", "rating": 4, "relative_time_description": "a month ago", "text": "Small but cozy library with nice books!", "time": 1708706179, "translated": true}
-Company name: Oostland Motorrad
-Average rating: 4.4
-Number of reviews: 16
-Reviews:
-{"author_name": "Daniel Schulz", "author_url": "https://www.google.com/maps/contrib/107169153259290800968/reviews", "language": "en-US", "original_language": "de", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmhoqXs-qQPtYkLo9CrJt9A3Mta3VEmCEKb1YudJRAAOsddDKw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 weeks ago", "text": "Today we had a breakdown with our 30 year old r1100rs (110km from home). We were helped unbureaucratically and quickly, and after an hour we were back on the road.\n\nThey didn't want anything in return, so I threw \u20ac50 into the coffee till.\n\nTOP! Thanks!\n\njjj bent the best", "time": 1712422567, "translated": true}
-Company name: Bibliotheek Oostland
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Oostland Massages
-Average rating: 5
-Number of reviews: 40
-Reviews:
-{"author_name": "Sabrina Munne", "author_url": "https://www.google.com/maps/contrib/109236144247154486791/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXU4cyjjPYci_KFWPx6-cwG6aWboehMZHBsC0P_E_6tlbeeZhtv=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "10 months ago", "text": "I can only give 5 stars, if I could give more I certainly would.\nMick, thank you so much for this massage. I really needed this.\nI don't know what I should be feeling right now, but my left shoulder feels so different than before. As if it has finally found its peace.\n\nThanks again and see you in about 6 weeks.", "time": 1685641783, "translated": true}
-Company name: Hengelsport Oostland
-Average rating: 4.6
-Number of reviews: 61
-Reviews:
-{"author_name": "Ron Van Der Kleij", "author_url": "https://www.google.com/maps/contrib/102842163543046411422/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbYikebqNn_L3y-po8Qe6NBAi0Qnpi1qN8dAmvG2z0UxLMxg=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "a week ago", "text": "Good expert advice.", "time": 1712953113, "translated": true}
-Reviews:
-{"author_name": "Ron Van Der Kleij", "author_url": "https://www.google.com/maps/contrib/102842163543046411422/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbYikebqNn_L3y-po8Qe6NBAi0Qnpi1qN8dAmvG2z0UxLMxg=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "a week ago", "text": "Good expert advice.", "time": 1712953113, "translated": true}
-Company name: Library Oostland ''t Web, Bleiswijk
-Average rating: 4.5
-Number of reviews: 11
-Reviews:
-{"author_name": "Robert Doeleman", "author_url": "https://www.google.com/maps/contrib/109251409779810199629/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5ukj-25D65tws7iZfU676GrKA6HQh9vMpJEK1erunPUdkGCQ=s128-c0x00000000-cc-rp-mo-ba4", "rating": 4, "relative_time_description": "9 months ago", "text": "Nice service", "time": 1688739680, "translated": true}
-Company name: Praktijk Oostland
-Average rating: 5
-Number of reviews: 1
-Reviews:
-{"author_name": "Joho Hoogendoorn", "author_url": "https://www.google.com/maps/contrib/105247154098460669704/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTlxWIyMoqrhv7Shexvjmqcb4I5Y_mfZfd_8y_6JgfkeehQ8qdGw=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "9 months ago", "text": "", "time": 1688926401, "translated": false}
-Company name: Oostland
-Average Google Maps Rating: 3.7473684210526317
-Total reviews: 477
-True rating: 2.836743215031315
----------------------------------------------------------------------------------------
-
-Company name: White Fences
-Average rating: 4.7
-Number of reviews: 86
-Reviews:
-{"author_name": "Heather Petersen", "author_url": "https://www.google.com/maps/contrib/101305629189346987588/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXI6AG3QspPWfod0W5R9pmolZliYxDN5CKl7rR0R49FYUjkjqI=s128-c0x00000000-cc-rp-mo-ba5", "rating": 5, "relative_time_description": "a month ago", "text": "Lovely show and facility.", "time": 1709423788, "translated": false}
-Company name: White Fences Equestrian Center
-Average rating: 4.6
-Number of reviews: 40
-Reviews:
-{"author_name": "Peanuts", "author_url": "https://www.google.com/maps/contrib/108117724160987945268/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdMCaZ_RvHWXWM7ieXltPHRJB4C1__5cCgdd5s5o5DAmCuHRo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "4 months ago", "text": "I have been riding here for about two months and have loved every moment it! The stable hands along with the boarders and other riders are so sweet, when I started here I was very nervous that I\u2019d be judged for not riding very well and I\u2019d be an outcast but that was the complete opposite! My fellow riders are so kind and even when I have a bad riding day I receive encouragement and compliments on my riding. I love working with Savanna along with all of the lesson horses and will forever cherish my time here!", "time": 1702619612, "translated": false}
-Company name: White fences
-Average Google Maps Rating: 4.65
-Total reviews: 126
-True rating: 0.1921875
----------------------------------------------------------------------------------------
-
-Company name: Pariworld (Experiential Store)
-Average rating: 4.9
-Number of reviews: 71
-Reviews:
-{"author_name": "Somesh Meena", "author_url": "https://www.google.com/maps/contrib/106419396382798393763/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-RuL6yosApa4WHILeglyNfRnQPUQjCVrtDQaFTeUdOizSyXl2=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a month ago", "text": "Very good artificial plants are available here. These are good plants to plant in our house and garden. You must come here once.", "time": 1710413059, "translated": false}
-Company name: Pariworld
-Average Google Maps Rating: 4.9
-Total reviews: 71
-True rating: 0.14931506849315068
----------------------------------------------------------------------------------------
-
-Company name: Patriot Natural Resources
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Company name: Patriot natural
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: H�pica nuevo valbueno
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 64
-Reviews:
-{"author_name": "Daniel Dalkin", "author_url": "https://www.google.com/maps/contrib/105621852590649975724/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3veLhxlPPauty54vRFESqN_lfJoFzbwEGT976TeSYuiOnbrs=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "4 months ago", "text": "Very good service, Noah helped us pick out the perfect tree for our living room. Would definitely recommend.", "time": 1703257904, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.8
-Number of reviews: 88
-Reviews:
-{"author_name": "John Tyler", "author_url": "https://www.google.com/maps/contrib/105704188822602061046/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUC6x-jICLVI1SnVJMTjTW8ztJkv-XozA8B6FIHlDTXpde1bT2Yww=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "4 months ago", "text": "Showed up at 7:30pm with lights on and signs stating they were open. Someone quietly walked around the edge avoiding eye contact, then shut off the lot lights. We asked and they said they closed at 8pm. We pointed to the time and they walked away ignoring us. Happy Christmas!\n\nEdit: Another worker was leaving as we were. We asked what time they opened and he responded, \u201cit depends.\u201d We asked what that meant and he said, \u201cin the morning but it varies.\u201d \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f", "time": 1701203235, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 160
-Reviews:
-{"author_name": "Melissa Jensen", "author_url": "https://www.google.com/maps/contrib/102985538768748178611/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtteU_6Bn92sYG_OSGXELDbVsbw8MWWiEyRheI3dt-aHNyxw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "A tradition was born! Best Christmas trees in London and the sweetest and most attentive service, thank you Rowan\nAnd Louie, I adore my tree xxx", "time": 1703449167, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 88
-Reviews:
-{"author_name": "Maria Topor", "author_url": "https://www.google.com/maps/contrib/106515936126802748808/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU88ePS4QuZf9D8gQswv3uKJ9nU3hhLPbzU5yajWlOgJ_aG1Tnr=s128-c0x00000000-cc-rp-mo-ba2", "rating": 4, "relative_time_description": "4 months ago", "text": "\u2757\ufe0fLatest update: Tree got delivered today!\n\nUpdate on the review: Went to the shop on the 6th of December 2023, chose our tree to be delivered on the 10th of December. Received an email on the 10th at 14:55 to say that my tree was delivered, no one called at the intercom. I immediately call them to ask about it and they say that it was a glitch in the system and that the tree will be delivered during the day. Waited until 22:00 but no one showed up. They also messaged me on \u2018how was the delivery?\u2019 so I gave them a 1 star review saying that the tree was not delivered. Called them again today, the guy on the phone told me to email them as he didn\u2019t know what is happening. I emailed them, no response. In the meantime I receive another email from the customer support team asking to confirm that I still haven\u2019t received my tree (most probably after seeing the bad review). Replied to them but never got back to me. It\u2019s really a shame because last year\u2019s experience was really nice (apart from collecting the tree back in January and leaving a mess behind although they were claiming to clean afterwards).\n\nThis is my last resource of making you get back to me and let me know what is happening to the tree. I would greatly appreciate it if someone can give me an update.\n\nAmazing service from choosing the tree at Finchley Central Centre until delivery. Really great customer service and lovely trees! Highly recommend \u2728(experience from 2022)", "time": 1702401278, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.8
-Number of reviews: 232
-Reviews:
-{"author_name": "Grace Cooper", "author_url": "https://www.google.com/maps/contrib/109848329978129719435/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnwJx8peLkl18exWnCUdpsMl4rFrAmrKo3Yq1LIyCCVy_BosM=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "Edit- lasted full month of December with practically no dropping.\n\nGood selection of nice trees of different sizes- we got a great 5ft tree for \u00a364. Well organised and parking is fine too! Go early though if you can.", "time": 1705010491, "translated": false}
-Company name: Pines and Needles
-Average rating: 5
-Number of reviews: 39
-Reviews:
-{"author_name": "Natalie Mizuik", "author_url": "https://www.google.com/maps/contrib/103172314445205812838/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUusrmrpPGNmAOlGInXdv0iSYzkI9HpUuU2kZyU-4jyIcgoMZT9Qw=s128-c0x00000000-cc-rp-mo-ba5", "rating": 5, "relative_time_description": "4 months ago", "text": "Th guys working here were so helpful and friendly - even loaded the tree into our car for us. There is parking to the side, it was super quiet this evening.", "time": 1701467012, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.8
-Number of reviews: 194
-Reviews:
-{"author_name": "Peter Bahanovich", "author_url": "https://www.google.com/maps/contrib/107199437068718699583/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwElwQ65vubVhzHRFOcjSFZLtTIv-tfD6HXqm7THVRCb1FGA=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "4 months ago", "text": "I get my christmas tree each year from pines and needles every  and the selection/quality is amazing and highly recommend.  Along with Robbie and Alex as great helpers in the process and should be commended!  The perfect place to get your christmas tree indeed.", "time": 1703107859, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 99
-Reviews:
-{"author_name": "Shan", "author_url": "https://www.google.com/maps/contrib/115267803642373720900/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwrIYFCURTWMfqvUh60JBg0lueG3sVqmqK2atFwir2xSlZHv8=s128-c0x00000000-cc-rp-mo-ba3", "rating": 1, "relative_time_description": "3 months ago", "text": "Worst tree I\u2019ve ever purchased from them, died with a couple of days won\u2019t be using this branch again. Waste of \u00a3102 and plus I paid delivery and installation.\nHave purchased trees from them 5 years in a row this is by far the worse one I\u2019ve ever purchased. Quality was abysmal and service has gone completely downhill, extremely disappointing", "time": 1704038368, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 468
-Reviews:
-{"author_name": "Andy Stevens", "author_url": "https://www.google.com/maps/contrib/113699505485612013971/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkTZT6eLqG5sOpi_NfyOpARp11UACyORK2vV9vqnnjZwOmqP0V=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "4 months ago", "text": "Massive disappointment and frustrating experience with trying to buy and receive delivery of a tree from the Victoria Park shop. Having chosen my tree and paid for delivery following the instructions given, a 7-hour slot was provided for 3pm-10pm. Having waited in for the whole period the tree did not arrive, there was no call or message and I was unable to reach anyone on any number. The following day it took hours on hold and multiple emails before I got an answer from someone who told me they had not been able to find my tree and the only way forward was for me to go back to the shop in person and choose another tree as they have no phone number to be contacted by a customer! Reluctantly I went in the rain to the shop and chose another tree and was told it couldn't be delivered that day and would need to be the next day - same 3pm-10pm slot. Eventually with no tracking information, call or warning, the tree arrived at almost 11pm when I had all but given up.\nThrough all of this, there was no proactive communication about issues, no offer to help or assist, or offer any compensation. It was a horrible experience all round so if you are not taking your tree home with you - beware.", "time": 1702319548, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 61
-Reviews:
-{"author_name": "GInVino Best Wines Off the Beaten Path", "author_url": "https://www.google.com/maps/contrib/107400527620622001277/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVtzq-AStq_FWjBT6rtW-OBc8sl4N-mH3L1nn4nrdH1KQBhQhwEQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "Thank you for the perfect Christmas tree! Excellent service by George and Theo at St. Marks! Merry Christmas! Zara", "time": 1703356539, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.8
-Number of reviews: 45
-Reviews:
-{"author_name": "Patrick Thompson", "author_url": "https://www.google.com/maps/contrib/100801042006573567467/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU600kgWYxP1ktrjoc7Ba3VV5uIInMIKTunYr6MV1n_PEB-GXM=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "a year ago", "text": "Had ordered from this company for many years when living in London and in Herts. This year ordered 3 months in advance, had 3 reminder emails about my specific delivery date, and then stayed in all day waiting for the delivery which never arrived. Zero empathy/contrition from the first person we contacted in customer services about it, and no guarantee of redelivery - The great irony being we live 1-2 miles from their main site in St Albans so they could easily deliver one to us having messed up the original delivery date but no offer to do that. I won\u2019t be purchasing from pines and needles again.", "time": 1670000272, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.6
-Number of reviews: 27
-Reviews:
-{"author_name": "benn sullivan", "author_url": "https://www.google.com/maps/contrib/111440422407543325320/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv5OjHUjcxl0lic49EuC10_WneV38ciDPC9YC3KkDIPF0Hug=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "4 months ago", "text": "Had a really positive experience buying a Christmas tree here, the staff had great knowledge about what to purchase within my budget. Cole was very helpful in helping my elderly grandmother into the building, thank you Cole.", "time": 1702468500, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 116
-Reviews:
-{"author_name": "Ellie Maxted", "author_url": "https://www.google.com/maps/contrib/111958128900131915770/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSwuv8yrJo9npIlZoJsR_PgAiG7B67kS0q_ecesEyE_FDuErkK=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "4 months ago", "text": "Got a tree from Jake and he made it such a lovely experience, I will definitely be coming back next year. Love to see a beautiful man handling my tree xxx", "time": 1703008764, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 175
-Reviews:
-{"author_name": "G L", "author_url": "https://www.google.com/maps/contrib/101399176193065495383/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVjy8VCpSXaBZ-3XtN7UtaiAmgfVIbaDjU3WvBIKZU5gQFuw=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 months ago", "text": "These guys are great. I\u2019ve been ordering a Christmas tree from them for the last three years. Delivery is always reliable and smooth, and communication is prompt and helpful. Highly recommended.", "time": 1704284785, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 79
-Reviews:
-{"author_name": "Eshan Bhatia", "author_url": "https://www.google.com/maps/contrib/104163354444495506091/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICRCgojpZbUKjKaxnaGPUVB9BRqPYLReXhbjUGo4MnVGu29Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "4 months ago", "text": "Would highly recommend - a great selection of Christmas trees. The staff here were also so helpful and friendly - particularly Elena and Agnes who helped us find our perfect tree. Thank you Pines & Needles Lavender Hill!", "time": 1701954804, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.8
-Number of reviews: 124
-Reviews:
-{"author_name": "Beatrice Ridley", "author_url": "https://www.google.com/maps/contrib/107188737070778512397/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWK0hjdsfKy5YzjamfIiCMBpb8OmKsQOV4M7rOR6XH0TIBQck1nZg=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "4 months ago", "text": "Amy at pines and needles in barnes was amazing today. Helping us choose the best tree and incredibly helpful.  Plus she was tough as boots when it came to sawing  off the tree trunk edges so it would fit in our holder. Thank you for your help and for our beautiful tree !", "time": 1703193556, "translated": false}
-Company name: Pines and Needles
-Average rating: 4.9
-Number of reviews: 198
-Reviews:
-{"author_name": "Peter Harris", "author_url": "https://www.google.com/maps/contrib/109432485671578585078/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6lJ4MxhcssKmft1atqFwQ7SPk7n9ikwH6PwTWfy56jNv2Tp7U=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "4 months ago", "text": "Thank you so much Poing and Dan, great service and we're really pleased with our tree! Merry Christmas \u26c4 \ud83c\udf84\ud83c\udf84 \ud83c\udf84", "time": 1702145686, "translated": false}
-Company name: Pines and Needles
-Average rating: 5
-Number of reviews: 277
-Reviews:
-{"author_name": "Mathias Pelleriti", "author_url": "https://www.google.com/maps/contrib/110846455732886092520/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLK8fEqSlYpkCKX9SLheFP4Yxrs-ZenhR5uN4ATYQg6E25h8g=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "great experience, special mention to Morris rock as he helped me with my tree. Lovely lad.", "time": 1703338280, "translated": false}
-Company name: Pines and Needles
-Average rating: 5
-Number of reviews: 10
-Reviews:
-{"author_name": "Josh Hobson", "author_url": "https://www.google.com/maps/contrib/105670794245847321162/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7R8JLQUGOHk8cyO-sVTOegWCbgo5PqOmrodjjw04spu-Ngg=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "Rob was a true gentleman. He was full of Christmas cheer, played some banging Pogues tunes, and lifted 6 footer like it was nothing. I\u2019ll be back next year.", "time": 1639854693, "translated": false}
-Company name: Pines and Needles
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Pines and needles
-Average Google Maps Rating: 4.630000000000001
-Total reviews: 2544
-True rating: 0.7297721916732129
----------------------------------------------------------------------------------------
-
-Company name: Gwilym Richards & Co Ltd
-Average rating: 5
-Number of reviews: 2
-Reviews:
-{"author_name": "Richydrew", "author_url": "https://www.google.com/maps/contrib/100018268200586198066/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWeh6c7InB5WCtSezAjrwaLLoayWN1AyTI9o5D0gTVFkPipA=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "4 years ago", "text": "Well recommended professionalism and genuine company.Thankyou", "time": 1566023955, "translated": false}
-Company name: Gwilym richards
-Average Google Maps Rating: 5.0
-Total reviews: 2
-True rating: 2.75
----------------------------------------------------------------------------------------
-
-Company name: Nuffield Health City Fitness & Wellbeing Gym
-Average rating: 3.6
-Number of reviews: 135
-Reviews:
-{"author_name": "Maria Zen", "author_url": "https://www.google.com/maps/contrib/100907430385012844390/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6HwfLkvIHuEurtvkzumQeCZzNCkDoViYyDMjHXw-GmnCMAtK6=s128-c0x00000000-cc-rp-mo-ba3", "rating": 3, "relative_time_description": "in the last week", "text": "Too busy, jacuzzi used as a social or a bar not a relaxing place with many people shouting and sitting there for long periods of time meaning others cannot use it. Sauna is always overflowing with people. Spa is closed 35 minutes before closing time - a bit extreme if you ask me.\nUsed to be better and more relaxing.\nVery dirty machines, raised several times but no resolution.\nGood location, otherwise good facilities with all machines in place and working and beautiful building in itself, hence 3 stars.", "time": 1713127186, "translated": false}
-Company name: Nuffield Health Chelmsford Fitness & Wellbeing Centre
-Average rating: 3.7
-Number of reviews: 100
-Reviews:
-{"author_name": "Brook Lane", "author_url": "https://www.google.com/maps/contrib/108075693440741456021/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVK1pzG1XESLpzlJww4az87SjwsiePRhDEnj1PIWjB3OwIouucn=s128-c0x00000000-cc-rp-mo", "rating": 2, "relative_time_description": "4 weeks ago", "text": "Disappointing experience here unfortunately.\n\nTheir website FAQs are wrong - there is no spa pool, and the steam room hasn't worked properly for weeks.\n\nLuckily my membership allows access to Ilford, which seems larger, cleaner... And had the best steam room I've ever been in.", "time": 1711115016, "translated": false}
-Company name: Nuffield Health Islington Fitness & Wellbeing Gym
-Average rating: 3.5
-Number of reviews: 134
-Reviews:
-{"author_name": "Bakhrom", "author_url": "https://www.google.com/maps/contrib/115538324425765173193/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1_sqwJOYJCSNuhar8Su4ebBWCQSM2xbdn7xfa85q7ql-qQzBN=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "in the last week", "text": "It's absolutely outrageous! Three days without hot water, and they have the audacity to not even provide a timeframe for when it will be fixed? This level of incompetence and disregard for basic amenities is utterly infuriating, tbh.\n\nP.s. two weeks without water", "time": 1713244541, "translated": false}
-Company name: Nuffield Health Ealing Fitness & Wellbeing Gym
-Average rating: 2.5
-Number of reviews: 186
-Reviews:
-{"author_name": "Francesco Buturo", "author_url": "https://www.google.com/maps/contrib/101222388039707942190/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB7UIaBFTTMmYyY7EJf0rVvd_3OBzCtX9uFr7WQ0YlrMrMIh2W=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "in the last week", "text": "This gym now is our home. The vibe that you can feel from the people around you and where the gym is positioned is surely the extra point for the gym. Everything well organised, clean and well maintained. Gym, pool sauna and steam room make this gym a heaven for a Londoner.", "time": 1713254835, "translated": false}
-Company name: Nuffield Health Norwich Fitness & Wellbeing Gym
-Average rating: 3.4
-Number of reviews: 71
-Reviews:
-{"author_name": "Emiily Lightning", "author_url": "https://www.google.com/maps/contrib/106859538722957059492/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbIKN1IWvkkgP0lvBVw7J19cKb0Y1LSazK-BRTs76RwWhbsQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a month ago", "text": "As a very anxious noob I was made to feel very safe and welcome. Wonderful staff and great gym with loads of facilities. Massive thanks especially to Michaela and Dre for being awesome humans \ud83d\udc9a", "time": 1710831543, "translated": false}
-Company name: Nuffield Health Ilford Fitness & Wellbeing Gym
-Average rating: 1.8
-Number of reviews: 180
-Reviews:
-{"author_name": "Robin So", "author_url": "https://www.google.com/maps/contrib/112705371137157775050/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3sDAdxh0zmWWKd_lY84dGz2l3utJbBGTIyTlSdY-CeFgcfw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 weeks ago", "text": "Already I have noticed club new manager trying to do something for us which is very good news. Sauna temperature \ud83c\udf21\ufe0f perfect and male changing room much better..morning cleaner Mr Fatah works really hard..keeping male changing room nice and tidy also helping lifeguards regular clean Steam room giving us excellent service ..Well done Mr Fatah...we want another person like Fatah... Nikita very good duty manager and very helpful also the Lithuanian lifeguard giving us very good customer service too ...Thank you Nuffield health Ilford", "time": 1711567676, "translated": false}
-Company name: Nuffield Health Hendon Fitness & Wellbeing Gym
-Average rating: 3.1
-Number of reviews: 326
-Reviews:
-{"author_name": "eftihia s", "author_url": "https://www.google.com/maps/contrib/117104852282340937270/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4Bk8dUW8NdvnIghdwddDTDn3pmgrXw4Iek5DRFnFpdfUO9A=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Emma is such a great swimming teacher. My daughter loves her and she has been enjoying her swimming classes so much! She has gained so much confidence and can float independently!", "time": 1713348175, "translated": false}
-Company name: Nuffield Health Bromley Fitness & Wellbeing Gym
-Average rating: 3
-Number of reviews: 104
-Reviews:
-{"author_name": "Charlie Bateman", "author_url": "https://www.google.com/maps/contrib/108052932462058315950/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID7Vwt132gY9q0dcCCfYP_zQSRpllSEzM8lIymlwHMFhFFTQ=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "in the last week", "text": "I go to the Nuffield in Bromley and it is absolutely appalling. When I first joined the centre in 2022, I was informed that the jacuzzi was \"temporarily out of order\"; only after joining was I informed by other members of Nuffield that this was ongoing deception from the staff and that the jacuzzi had in fact been out of order for months. Now, the jacuzzi is now no more. To add a minor addition to these issues, I have noted that the television has been removed from the changing rooms, the egg timer in the sauna always gets stuck, and the lockers are always on low battery. The lockers are now being replaced with padlocks, which the gym have failed to inform members about; which member\u2019s are now forced to buy padlocks on arrival. . The state of the decor and changing rooms are also disgusting.\n\nOn a more positive note, I have to say that the majority of staff are always incredibly friendly, helpful and welcoming. It is a shame that these staff members fantastic work ethic are overshadowed by such poor availability in services.\n\nWhat I think is most poor is that I sent an email to management on October 11th 2023, expressing my concerns. I again sent emails on 20th October 2023 and 8th January 2024, asking for a response to my first email. All emails have been ignored. I have also written a formal complaint on the Nuffeild website, which I heard nothing from.\n\nWhilst I appreciate that I do not pay the full price as to what other members pay, I would still argue that it is an expensive service you provide. Furthermore, on behalf of the people who do pay full price, they are being beguiled even more than myself.\n\nI understand that occasionally some of the facilities will need maintenance and will need to be temporarily out of service. I also understand that we have entered a cost of living crisis, therefore your bills would have increased. I do not however understand how your facilities are out of service so frequently and you continue to charge people the same amount of money. I also think it is appalling that management refused to respond to me.\n\nI regret to say, but I have had friends, family and colleagues ask me if I would recommend Nuffield Fitness Centre to them, which I have responded by saying that I would not. I have also had many discussions with other members, in which many of us agree that the services provided are not worth the money and that we are looking to go elsewhere. Nuffield Bromley is in an incredibly convenient location for me, therefore I am reluctant to change gym, however I am close to doing so.", "time": 1713174613, "translated": false}
-Company name: Nuffield Health Croydon Central Fitness & Wellbeing Gym
-Average rating: 3
-Number of reviews: 139
-Reviews:
-{"author_name": "CharmW", "author_url": "https://www.google.com/maps/contrib/101257821312799957892/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVmsgvsksA5RrivgF4Flg7d8ob5kIxdeN0KTjGY4RF6ASM_HKX=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "a month ago", "text": "If could give zero stars,  I would.\n\nI was taking part in the gym class yesterday, 7th March, where I positioned myself at the back of  the full body tone class, in order to record myself. However, I was confronted by a gym member who had an issue with me recording myself. I informed her that she was not in frame, but she insisted in causing a scene and disrupting the entire session. I continued to record myself as I will not be bullied from recording my progress.\n\nThe main issue for cancellation:\n\nAfter my gym session, I decided to speak to a gym staff to discuss the earlier incident as this has never happened to me before. I was told that as long as I informed the members in the room that I am filming myself, even if they are not in frame, it should be fine. Just a general courtesy.\n\nHowever, as I was exiting the gym, the same gym staff member I  spoke with ealier, advised me that she had spoken to the deputy manager and they will be instilling a new rule that there should be absolutely no recording in the studios and a notice will be displayed immediately. I believe this is a bit drastic as I was recording myself, not the entire room.\n\nI will not pay for gym membership where I am not able to record myself. I like tracking my work out progress via video form and I feel this is not the best environment for me.\n\nI have been a member of many gyms and this has never been an issue.\n\nTo clarify what I was doing in the session;\n\nRecording myself only\n\nNo one one was in frame as I was positioned infront of my camera at the back of class\n\nTracking my own progress via video. I was not recording the class\n\nI wish I had read the reviews in detail before joining this gym as the terrible reviews makes sense having been there for 6 months now\n\nOnly plus why a one star is feasible is a few gym staff who actually greet you.", "time": 1709917842, "translated": false}
-Company name: Nuffield Health Bloomsbury Fitness & Wellbeing Gym
-Average rating: 3.3
-Number of reviews: 85
-Reviews:
-{"author_name": "Sofia Barcelona", "author_url": "https://www.google.com/maps/contrib/116255115133753876004/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMNF665gWrhN_kabhm5cCn9V9ZqVswtb1HT2uvgcchqD3OfqU=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "3 weeks ago", "text": "aVOID this place if you're looking for a gym mainly for the pool. I became a member two months ago and in all this time haven't been able to use it because it's always closed. I'm not sure why because it's full of water but I think the manager doesn't know how to do the chemicals so prefers to just close down the pool. This membership was a total waste of money.", "time": 1711537838, "translated": false}
-Company name: Nuffield Health Barbican Fitness & Wellbeing Centre
-Average rating: 4.3
-Number of reviews: 164
-Reviews:
-{"author_name": "Adam Landau", "author_url": "https://www.google.com/maps/contrib/117612757554463021659/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWY-NEU4IHW3OurAZ3EuTTkC-dWky8AvQ8tr3BMLfGTWURrQ7A=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "a week ago", "text": "The woman in reception is probably the rudest person I've ever met. I can see other reviews about her here too, Nuffield has gone massively downhill. They charge a premium but treat their customers like trash. Left my card at home and was turned away and accused of lying to her. It's 2024, why is there even a card system in place? Ofcourse we will sometimes forget it.\n\nReception staff overhaul or in depth training required or people will just move gyms", "time": 1712485077, "translated": false}
-Company name: Nuffield Health Battersea Fitness & Wellbeing Gym
-Average rating: 3.5
-Number of reviews: 137
-Reviews:
-{"author_name": "Nadifa Mohamed Osman", "author_url": "https://www.google.com/maps/contrib/107645607968714692525/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJd9v_90H6VrKyQgcsS7VN1ewQA75iyudYzS46mpanyMdgYRQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a week ago", "text": "Alejandro (our trainer) is such an amazing tutor. Before my joint was very painful and he teached me how to release the pain that I had. I've never felt much better. And I am so happy that i was part of it. Very recommended!\nThank you Alejandro.", "time": 1712933731, "translated": false}
-Company name: Nuffield Health Fulham Fitness and Wellbeing Centre
-Average rating: 3.8
-Number of reviews: 100
-Reviews:
-{"author_name": "funky philly", "author_url": "https://www.google.com/maps/contrib/105581398869723745223/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVE-YmDN_3MzaQXrthDPgvQrGY5BI8man1cE66Z1itF4uo-Os=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a month ago", "text": "I recently had the pleasure of visiting the Nutfield Health Centre gym, and I must say, it is absolutely stunning. The moment I walked in, I was greeted by a modern and well-designed space that exudes a sense of tranquility. The gym is spacious, clean, and filled with state-of-the-art equipment that caters to all fitness levels.\n\nWhat truly sets this gym apart is the exceptional staff. From the moment I arrived, the staff members were incredibly helpful and attentive. They provided me with a warm welcome, gave me a thorough tour of the facilities, and answered all my questions with utmost professionalism and knowledge. Their dedication to ensuring a positive experience for every member is truly commendable.\n\nOne of the standout features of the Nuffield Health Centre gym is its peaceful atmosphere. Located right next to the football stadium and the river themes , it benefits from being away from the hustle and bustle of the city. Unlike other gyms I've been to, this one is refreshingly quiet, allowing me to focus on my workouts without any distractions.\n\nOverall, I can confidently say that the Nutfield Health Centre is the best gym I've had the pleasure of visiting. The beautiful aesthetics, helpful staff, and serene environment make it an ideal place to achieve your fitness goals. I highly recommend it to anyone seeking a top-notch gym experience.\"\nHere is the image I generated for you:", "time": 1710333201, "translated": false}
-Company name: Nuffield Health Norbury Fitness & Wellbeing Gym
-Average rating: 2.5
-Number of reviews: 136
-Reviews:
-{"author_name": "Salim", "author_url": "https://www.google.com/maps/contrib/102030546575134205112/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL-v7935j7JcPK3O0NCsbO8n-q-dnkvaXeZ9ocPUjvc4I4gPuo=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "in the last week", "text": "I attended this gym on a 12 month contract and it has everything state of the art fitness equipment, swimming pool, sauna and jacuzzi, definitely had a great time training at Nuffield, if you want quality gym experience, definitely join Nuffields", "time": 1713205899, "translated": false}
-Company name: Nuffield Health Shoreditch Fitness & Wellbeing Gym
-Average rating: 3.9
-Number of reviews: 112
-Reviews:
-{"author_name": "Dave Selkirk", "author_url": "https://www.google.com/maps/contrib/108707286396222392867/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOZ-ykOqe3nVIDooSumKSmfpPcbtLvcp52Skc69l_rmcFl6DJEWA=s128-c0x00000000-cc-rp-mo-ba7", "rating": 5, "relative_time_description": "2 months ago", "text": "I am a home member of Nuffield city, so that's a tough gym to beat. This one is a tier below, so not as big or fancy, but they do towels and have a pool, a sauna and a steam room. The lockers don't have built in locks, so you need to bring your own. The facilities and equipment are clean and well maintained, and every member of staff I interacted with was exceptionally friendly and helpful. Special mention of Amber who was on reception, she was very helpful and friendly.", "time": 1706197518, "translated": false}
-Company name: Nuffield Health Covent Garden Fitness and Wellbeing Gym
-Average rating: 3.2
-Number of reviews: 132
-Reviews:
-{"author_name": "Michael Waring", "author_url": "https://www.google.com/maps/contrib/111673841599449695149/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZQCQTq8NgOqhMGaq3vsMc9ifH9DkzNUD6hLK071bB_jzeMQ=s128-c0x00000000-cc-rp-mo", "rating": 2, "relative_time_description": "a month ago", "text": "I ve been a member here since well before Nuffield took over, since that time, whilst the staff have been mostly very good, the state of the building and the quality and tardiness of maintenance has been in steady ongoing decline - unlike the fees, which keep going up despite the reduced facilities - I used the jacuzzi regularly but no deduction for the removal of that, nor for my customer loyalty.  I have raised these issues directly with the team but was just told they have problems with the local maintenance contractors and also that it\u2019s a not for profit business - supposedly an excuse for the shoddiness - by contrast with the gleaming extensive facilities at the Cannon St branch. Well whatever the technical justification is for that charitable status for part of the company, the gym charges are certainly not set at  \u2018not for profit\u2019 levels.  Having just read the reviews here, I see that I am far from alone in my perceptions.  It feels as if Nuffield is just running it down until it can get out of the lease. Surely better to make a major investment in upgrading to make this Covent Garden branch the sort of lucrative destination flagship gym you would expect of a company like Nuffield in such a prime location!", "time": 1710778448, "translated": false}
-Company name: Nuffield Health Brondesbury Park Fitness & Wellbeing Gym
-Average rating: 2.8
-Number of reviews: 175
-Reviews:
-{"author_name": "Tonya Kroka", "author_url": "https://www.google.com/maps/contrib/100611691893790823976/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbaknFOMUinnTElsSzmT6DupGJFzwpXOc2y496Xzf_fSlnrw=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "2 months ago", "text": "I\u2019ve been a member for ages here, with kids going through nursery, gym membership, swimming classes , but the staff Harsha Patel has no clue about customer service. I forgot a bike lock one time , nobody can help out , they have a locked up area  where electric bikes are stored but staff wouldn\u2019t go against policy to keep a non electric bike for once there. depressing.", "time": 1706287789, "translated": false}
-Company name: Nuffield Health Wandsworth Fitness & Wellbeing Gym
-Average rating: 3.3
-Number of reviews: 69
-Reviews:
-{"author_name": "Tommy Bahamas", "author_url": "https://www.google.com/maps/contrib/102779329698606145343/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbsh3C8Z549ylf7lrFw98TDIceeB5MH_I7UNGzBf67UwVfxw=s128-c0x00000000-cc-rp-mo-ba3", "rating": 3, "relative_time_description": "a week ago", "text": "I like this gym a lot but there is a staff member who was in today doing maintenance on the gym who was extremely rude and obviously has some ego problems", "time": 1712753831, "translated": false}
-Company name: Nuffield Health Wimbledon Fitness & Wellbeing Gym
-Average rating: 3.2
-Number of reviews: 121
-Reviews:
-{"author_name": "Liban Abdulle", "author_url": "https://www.google.com/maps/contrib/101044547707570953739/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbi5pxn62VTIrCM5io6pbQQrd5YA8KFypPOiizjCkrzE-Kqw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a week ago", "text": "I come to the gym often and always have a great experience. Shanequa in particular is so efficient and responsive whenever I have any issues upon arriving at the gym. Really lovely and helpful. Thank you team", "time": 1712941262, "translated": false}
-Company name: Nuffield Health Enfield Fitness & Wellbeing Gym
-Average rating: 3.5
-Number of reviews: 127
-Reviews:
-{"author_name": "Ce Nonya", "author_url": "https://www.google.com/maps/contrib/111845450644940820313/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5Egho62O862o7nMwbhYHOT_kaAPZZNz1DK-zNodCw15CRgw=s128-c0x00000000-cc-rp-mo-ba4", "rating": 1, "relative_time_description": "3 weeks ago", "text": "I was a member at this gym 2018 - 2020. I have since joined gyms such as gymbox and puregym however missed the pool area the Nuffield offered. I was about to commit to a 12 month membership however seeing all these reviews I've decided not to proceed. It appears that much of the issues present when I was a member have actually worsened I.e. outdated gym, temperamental Spa facilities, packed classes and now apparently you don't even get towels which we used to!\n\nPictures on Google are misleading. Thank you to everyone who has left an honest review so I didn't waste my time and money. What a shame.", "time": 1711827846, "translated": false}
-Company name: Nuffield
-Average Google Maps Rating: 3.245
-Total reviews: 2733
-True rating: 0.476782449725777
----------------------------------------------------------------------------------------
-
-Company name: Semilleros La Palma
-Average rating: 4.3
-Number of reviews: 89
-Reviews:
-{"author_name": "Kike R R", "author_url": "https://www.google.com/maps/contrib/117523756282533317610/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVK58U3buysONX9iXRE-5t9hVY8cWrvwNrDcaO-8UwGgaB_0R9=s128-c0x00000000-cc-rp-mo", "rating": 3, "relative_time_description": "a year ago", "text": "A normal workers place. Not good not bad. If you arrive from the A7, that road is terrible.", "time": 1679343068, "translated": true}
-Company name: Semilleros la palma
-Average Google Maps Rating: 4.3
-Total reviews: 89
-True rating: 0.1131868131868132
----------------------------------------------------------------------------------------
-
-Company name: Abziban
-Average rating: 5
-Number of reviews: 13
-Reviews:
-{"author_name": "alireza pn", "author_url": "https://www.google.com/maps/contrib/118043710987863187218/reviews", "language": "en-US", "original_language": "fa", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKH8Xs8YAU6Bw_vDkRLGR_3aYKpNfY_4QdzEb8ari2D4HvEgw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "The products offered by this company are really high quality.", "time": 1640025778, "translated": true}
-Company name: Abziban
-Average Google Maps Rating: 5.0
-Total reviews: 13
-True rating: 0.7333333333333333
----------------------------------------------------------------------------------------
-
-Company name: Horses for Hope TRC, Inc
-Average rating: 4.6
-Number of reviews: 95
-Reviews:
-{"author_name": "Scott Kendall", "author_url": "https://www.google.com/maps/contrib/107367993632523199868/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_PENnX9NqI231uSX2FRXqr3LimUpdJEG9LyAbvj6p3AIAH_w=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "Track out camps, horse riding and care instruction, great place and my kids love it.", "time": 1699319133, "translated": false}
-Reviews:
-{"author_name": "Scott Kendall", "author_url": "https://www.google.com/maps/contrib/107367993632523199868/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_PENnX9NqI231uSX2FRXqr3LimUpdJEG9LyAbvj6p3AIAH_w=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "Track out camps, horse riding and care instruction, great place and my kids love it.", "time": 1699319133, "translated": false}
-Reviews:
-{"author_name": "Scott Kendall", "author_url": "https://www.google.com/maps/contrib/107367993632523199868/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_PENnX9NqI231uSX2FRXqr3LimUpdJEG9LyAbvj6p3AIAH_w=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "Track out camps, horse riding and care instruction, great place and my kids love it.", "time": 1699319133, "translated": false}
-Reviews:
-{"author_name": "Scott Kendall", "author_url": "https://www.google.com/maps/contrib/107367993632523199868/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_PENnX9NqI231uSX2FRXqr3LimUpdJEG9LyAbvj6p3AIAH_w=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "Track out camps, horse riding and care instruction, great place and my kids love it.", "time": 1699319133, "translated": false}
-Company name: Horses for hope
-Average Google Maps Rating: 4.6
-Total reviews: 95
-True rating: 0.10927835051546392
----------------------------------------------------------------------------------------
-
-Company name: PUUFU �engelk�y
-Average rating: 3.6
-Number of reviews: 983
-Reviews:
-{"author_name": "inkyou you", "author_url": "https://www.google.com/maps/contrib/116173777620647241601/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUTE_7xWEDCCnp66C_B7nBr-kqrAIjZ9iRF8zGW29wMBoREw=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "3 months ago", "text": "They sell Japanese souffle pancakes, which is not common in T\u00fcrkiye. Because of rarity, it is worth a try in T\u00fcrkiye. A taste is not outstanding, but above average.", "time": 1704024551, "translated": false}
-Company name: Puuppolan Puu Oy
-Average rating: 3.7
-Number of reviews: 3
-Reviews:
-{"author_name": "seija s", "author_url": "https://www.google.com/maps/contrib/109131783381823944048/reviews", "language": "en-US", "original_language": "fi", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaaI1fB_T-rfCq-f_YiQTq2FjOC1ACfmdfi2FhZ0G-zaROlA=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "4 years ago", "text": "How can I call there? The number is not in use.. any idea to update the company's contact information..", "time": 1566281676, "translated": true}
-Company name: Puu
-Average Google Maps Rating: 3.6500000000000004
-Total reviews: 986
-True rating: 0.0208502024291498
----------------------------------------------------------------------------------------
-
-Company name: Coopers Nurseries
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Company name: Coopers nurseries
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Waterside Nursery for pond plants, online only
-Average rating: 4.9
-Number of reviews: 517
-Reviews:
-{"author_name": "Penny Hansford", "author_url": "https://www.google.com/maps/contrib/105526861551765024809/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn74YKudYIJOoeg9DhuQEMkL9JP_iorvw-6thrZ-TZiqIeumPi=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Great all round experience from visiting the site, ordering and receiving the plant. I ordered a dwarf water lily  and it arrived very well protected and is growing well in my pond. Will certainly be using this Nursery again. AAA", "time": 1713196990, "translated": false}
-Reviews:
-{"author_name": "Penny Hansford", "author_url": "https://www.google.com/maps/contrib/105526861551765024809/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn74YKudYIJOoeg9DhuQEMkL9JP_iorvw-6thrZ-TZiqIeumPi=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Great all round experience from visiting the site, ordering and receiving the plant. I ordered a dwarf water lily  and it arrived very well protected and is growing well in my pond. Will certainly be using this Nursery again. AAA", "time": 1713196990, "translated": false}
-Reviews:
-{"author_name": "Penny Hansford", "author_url": "https://www.google.com/maps/contrib/105526861551765024809/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn74YKudYIJOoeg9DhuQEMkL9JP_iorvw-6thrZ-TZiqIeumPi=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Great all round experience from visiting the site, ordering and receiving the plant. I ordered a dwarf water lily  and it arrived very well protected and is growing well in my pond. Will certainly be using this Nursery again. AAA", "time": 1713196990, "translated": false}
-Company name: Waterside nursery
-Average Google Maps Rating: 4.9
-Total reviews: 517
-True rating: 0.021001926782273604
----------------------------------------------------------------------------------------
-
-Company name: Ramona Farms
-Average rating: 5
-Number of reviews: 28
-Reviews:
-{"author_name": "O'Delle Hall", "author_url": "https://www.google.com/maps/contrib/103805765087709711383/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXztnapUjAKXQ6eAPkk9snm0C4Eoo0E31S2ua0B4LJtFCAOZaaE1A=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 months ago", "text": "Each order is timely and of the highest quality. I order all my beans from Romona Farms. Buying my foods from businesses that are owned and operated by Indigenous groups or individuals is, my best use of my food budget. It\u2019s how I demonstrate my commitment to these communities and is by far the highest quality available.", "time": 1708272043, "translated": false}
-Company name: Ramona farms
-Average Google Maps Rating: 5.0
-Total reviews: 28
-True rating: 0.36666666666666664
----------------------------------------------------------------------------------------
-
-Company name: National Farmers' Federation of Macedonia
-Average rating: 5
-Number of reviews: 2
-Reviews:
-{"author_name": "Miroslav Apostolovski", "author_url": "https://www.google.com/maps/contrib/102838540084472874702/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnseB1UCXhOT4o6HHB19nrEiaM7zm6Bz1e0r_8C_inT5vYxg=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "2 years ago", "text": "", "time": 1623764717, "translated": false}
-Company name: National farmers' federation
-Average Google Maps Rating: 5.0
-Total reviews: 2
-True rating: 2.75
----------------------------------------------------------------------------------------
-
-Company name: Mt Airy Orchards
-Average rating: 4.8
-Number of reviews: 582
-Reviews:
-{"author_name": "Carol Strayer", "author_url": "https://www.google.com/maps/contrib/108535914778686612883/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-g6OntXeQnzmHVp0OUgBkORXMgqGBuYjQgYOmYByN7zlKWQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a month ago", "text": "Pink Lady apples are always crisp and delicious! They have so many gift items and lots of homemade frozen food items. The help is always friendly and helpful. I look forward to my trips to Mt Airy Orchard!", "time": 1709629980, "translated": false}
-Company name: Mt airy orchards
-Average Google Maps Rating: 4.8
-Total reviews: 582
-True rating: 0.018493150684931507
----------------------------------------------------------------------------------------
-
-Company name: INTERSEMILLAS S.A.
-Average rating: 4.6
-Number of reviews: 34
-Reviews:
-{"author_name": "Tatiana Garcia", "author_url": "https://www.google.com/maps/contrib/114409901661294091888/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXq5I1bHhuBAvnMbfnw86-z1c5_xfuAkyl0irXaJ_bijCD7A=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 months ago", "text": "Very professional, high quality seeds and unbeatable treatment.", "time": 1706109372, "translated": true}
-Company name: Intersemillas
-Average Google Maps Rating: 4.6
-Total reviews: 34
-True rating: 0.29444444444444445
----------------------------------------------------------------------------------------
-
-Company name: EvoAgTec Corp
-Average rating: 4.5
-Number of reviews: 2
-Reviews:
-{"author_name": "Ashley Rivers", "author_url": "https://www.google.com/maps/contrib/116988531260983397541/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP-Vsn7x93BOp8xPhgXzf__E_rDNDaj3O7hIC_3E4OxBDGFg=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 years ago", "text": "I was looking for something organic and natural to enhance the yield and growth of my vegetable garden that was easy and effective. I could tell a tremendous difference in my veggies and herbs from the Spring and Fall plantings of last year. The best thing about Evoaktiv is that it's easy to use and I don't have to deal with messy organic products that attract unwanted pest or extra attention. You add it to the soil, water and let it do it's thing. I'm getting some for friends this year. I love it!", "time": 1554995385, "translated": false}
-Company name: Evoagtec
-Average Google Maps Rating: 4.5
-Total reviews: 2
-True rating: 2.625
----------------------------------------------------------------------------------------
-
-Company name: Godfrey's Farm
-Average rating: 4.8
-Number of reviews: 33
-Reviews:
-{"author_name": "Eric Wright", "author_url": "https://www.google.com/maps/contrib/100066735688974079883/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUscgOzlI9SBC6m79XbDpsOceoNrACm1FZRejaOqQ0o7XDPeyYz=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "9 months ago", "text": "My kids and I stopped by and enjoyed slushies and ice cream after they finished summer camp today. However, we have visited many times and the staff is always very friendly. Their fruits, veggies, and baked goods are also very good.", "time": 1689889029, "translated": false}
-Company name: Godfrey's farm
-Average Google Maps Rating: 4.8
-Total reviews: 33
-True rating: 0.3085714285714286
----------------------------------------------------------------------------------------
-
-Company name: Club h�pico maria luisa
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Maxagro
-Average rating: 4.6
-Number of reviews: 24
-Reviews:
-{"author_name": "SD RENT TIMISOARA", "author_url": "https://www.google.com/maps/contrib/100507269541907969936/reviews", "language": "en-US", "original_language": "ro", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_t0nWBxVdTJz0qPPmXAHy-xIF5T48bLeU-IO1UdfNpD9dP4Ea=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "The most professional", "time": 1700633572, "translated": true}
-Reviews:
-{"author_name": "SD RENT TIMISOARA", "author_url": "https://www.google.com/maps/contrib/100507269541907969936/reviews", "language": "en-US", "original_language": "ro", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_t0nWBxVdTJz0qPPmXAHy-xIF5T48bLeU-IO1UdfNpD9dP4Ea=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "The most professional", "time": 1700633572, "translated": true}
-Company name: Maxagro
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Statie de Beton Timis - MAXAGRO
-Average rating: 4.4
-Number of reviews: 35
-Reviews:
-{"author_name": "mehmet akdemir", "author_url": "https://www.google.com/maps/contrib/116217481088077746401/reviews", "language": "en-US", "original_language": "tr", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImBgAdwti75cpHL-ijEV2GTYTuNd3EqhdT_TqgrTKUidtU9w=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "3 years ago", "text": "Professional farm has everything it needs to have", "time": 1610541418, "translated": true}
-Company name: Maxagro
-Average Google Maps Rating: 3.0
-Total reviews: 59
-True rating: 0.5409836065573771
----------------------------------------------------------------------------------------
-
-Company name: Manege noord oost polder
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: The Vine Garden Plant Outlet
-Average rating: 4.6
-Number of reviews: 18
-Reviews:
-{"author_name": "Josh Lewis", "author_url": "https://www.google.com/maps/contrib/108685570036945373336/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3luz94FRJZrILwqwQm96PoYSrujI56ZxQ_9QPtCpki6SwRjLYkA=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "5 years ago", "text": "Mary, the owner, is about the nicest person you will ever meet. She sells all types of plants from annuals to perennials to houseplants and succulents to vegetables to herbs.  There's home goods, outdoor decor, and gardening supplies too.  In the Fall she has pumpkins, mums, corn stalks.  This place is your one stop shop to give your home true curb appeal!", "time": 1539536863, "translated": false}
-Company name: The vine garden plant outlet
-Average Google Maps Rating: 4.6
-Total reviews: 18
-True rating: 0.53
----------------------------------------------------------------------------------------
-
-Company name: Lots a colour
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Cedasa carnes
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Interiorscapes
-Average rating: 4.5
-Number of reviews: 34
-Reviews:
-{"author_name": "Ashley Haut", "author_url": "https://www.google.com/maps/contrib/111474365474785664127/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSNbUZa9AU7W0RvvLXFkryqgFE4fJjnKfhGGFVGaLNUPOxlg=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "9 months ago", "text": "We've had Interiorscapes install and currently have them maintain plants in multiple locations of ours, and they do a fantastic job! Their staff is super professional, friendly, and knowledgeable. Love how they've transformed our work spaces into inviting, comfortable, and healthier places to be.", "time": 1687973442, "translated": false}
-Company name: Interiorscapes, Inc.
-Average rating: 4.8
-Number of reviews: 16
-Reviews:
-{"author_name": "wayne Jones", "author_url": "https://www.google.com/maps/contrib/112813854700209186570/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTxWnbTin4asJZesXeUbqBlV3Cx56nLLwsa3n2DkrvAA9-vQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "Scott and crew do great work!! We really love doing business with them and they are always professional and courteous. Check them out for all your flower and plant needs !! You wont be disappointed.", "time": 1621006949, "translated": false}
-Company name: Interiorscapes
-Average Google Maps Rating: 4.65
-Total reviews: 50
-True rating: 0.4730769230769231
----------------------------------------------------------------------------------------
-
-Company name: Adrian orchards
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: SelvaViva
-Average rating: 4.4
-Number of reviews: 104
-Reviews:
-{"author_name": "Loris Croci", "author_url": "https://www.google.com/maps/contrib/102897681401265440669/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHQQiar6iKrSjCf1-XU0h1Rb4P5k41uWxFxlTk53holyJ5dI6o=s128-c0x00000000-cc-rp-mo-ba4", "rating": 4, "relative_time_description": "4 months ago", "text": "nice place, nice parties!", "time": 1702395182, "translated": false}
-Company name: Selvaviva
-Average Google Maps Rating: 4.4
-Total reviews: 104
-True rating: 0.09811320754716982
----------------------------------------------------------------------------------------
-
-Company name: Woodshapes
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Reviews:
-[]
-Company name: Woodshapes LLC
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Woodshape
-Average rating: 5
-Number of reviews: 3
-Reviews:
-{"author_name": "R R", "author_url": "https://www.google.com/maps/contrib/105426940153142967501/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJZs0YiSX_rspDLImn5BGNPOo2gYRZuCazbjobqJCkivMsLlk=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "9 months ago", "text": "Tip for others: always take a color sample with you for the desired color. I made the mistake myself and thought I had given the correct color. Not so!\nAnd what a service this business provided. The table was made entirely in the correct color and turned out beautiful. I definitely recommend this company!", "time": 1689936347, "translated": true}
-Reviews:
-{"author_name": "R R", "author_url": "https://www.google.com/maps/contrib/105426940153142967501/reviews", "language": "en-US", "original_language": "nl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJZs0YiSX_rspDLImn5BGNPOo2gYRZuCazbjobqJCkivMsLlk=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "9 months ago", "text": "Tip for others: always take a color sample with you for the desired color. I made the mistake myself and thought I had given the correct color. Not so!\nAnd what a service this business provided. The table was made entirely in the correct color and turned out beautiful. I definitely recommend this company!", "time": 1689936347, "translated": true}
-Company name: Woodshape
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Reviews:
-[]
-Company name: Woodshapes
-Average Google Maps Rating: 1.25
-Total reviews: 3
-True rating: 5.2
----------------------------------------------------------------------------------------
-
-Company name: Uzima Chicken Uganda
-Average rating: 4.5
-Number of reviews: 15
-Reviews:
-{"author_name": "Abwol Stellah", "author_url": "https://www.google.com/maps/contrib/116775581425898108291/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFYfSXCh7HCIh7QS32MIuboEBvD2KPL_0VpA0QGummGkU1DXkW=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "2 months ago", "text": "I want to experience farming it.", "time": 1708374674, "translated": false}
-Company name: Uzima Chicken Rwanda
-Average rating: 4.2
-Number of reviews: 29
-Reviews:
-{"author_name": "NSABIMANA Cyprien", "author_url": "https://www.google.com/maps/contrib/116580117371119878928/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcT5-ye0CIHoyx4jMY3CNHuoh-m-_cFyvfsvVgftpfmwYWi1lR=s128-c0x00000000-cc-rp-mo-ba5", "rating": 5, "relative_time_description": "4 weeks ago", "text": "Good service", "time": 1711171068, "translated": false}
-Company name: Uzima Chicken Uganda
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Uzima chicken
-Average Google Maps Rating: 2.9
-Total reviews: 44
-True rating: 0.6978260869565216
----------------------------------------------------------------------------------------
-
-Company name: Protector Cactus, S.L.
-Average rating: 5
-Number of reviews: 2
-Reviews:
-{"author_name": "Jos\u00e9 A. Prieto M\u00e9ndez", "author_url": "https://www.google.com/maps/contrib/108448385666845507389/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2i91dAC-kRnapPHgjKN2HMnDRu_6HMtvuCqd8UlQTZd-dNCa_TA=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "2 years ago", "text": "", "time": 1645969785, "translated": false}
-Company name: Protector cactus
-Average Google Maps Rating: 5.0
-Total reviews: 2
-True rating: 2.75
----------------------------------------------------------------------------------------
-
-Company name: Instytut rozwoju mysli ekologicznej
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Duarte Nursery Inc
-Average rating: 4.2
-Number of reviews: 27
-Reviews:
-{"author_name": "Julie Adamson", "author_url": "https://www.google.com/maps/contrib/112333316635811220006/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVj-XiwXebORypYIe7J4wMgIPvyPuBuqHFEBD-_O_7gHdwAZxM=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "4 months ago", "text": "Always a place I look forward to going to after Thanksgiving. So many beautiful poinsettias.", "time": 1701034621, "translated": false}
-Company name: Duarte nursery
-Average Google Maps Rating: 4.2
-Total reviews: 27
-True rating: 0.35172413793103446
----------------------------------------------------------------------------------------
-
-Company name: Icelandic horses
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: EURL GPLC SAHEL
-Average rating: 3
-Number of reviews: 2
-Reviews:
-{"author_name": "KHELIL ABDELHAKIM", "author_url": "https://www.google.com/maps/contrib/106926622436523567482/reviews", "language": "en-US", "original_language": "fr", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUV0PltOVaPzrMfoNpzLY9ZsED4vLLhK48zTBegTXlqIc6jQQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 months ago", "text": "Professional teams. THANKS", "time": 1707840551, "translated": true}
-Company name: Gplc
-Average Google Maps Rating: 3.0
-Total reviews: 2
-True rating: 2.25
----------------------------------------------------------------------------------------
-
-Company name: Agro insight
-Average Google Maps Rating: 0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: Boulevard Benin Sarl
-Average rating: 4
-Number of reviews: 6
-Reviews:
-{"author_name": "Athanase ADJAKPE", "author_url": "https://www.google.com/maps/contrib/114126359139561373901/reviews", "language": "en-US", "original_language": "fr", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJElMr2dihOJZjhAy6gkFzsA7oSMIfj6gWYSp4p5W3X1K5rbQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 months ago", "text": "Real company, I recommend.", "time": 1707725342, "translated": true}
-Company name: Boulevard benin
-Average Google Maps Rating: 4.0
-Total reviews: 6
-True rating: 1.25
----------------------------------------------------------------------------------------
-
-Company name: Avon Bulbs
-Average rating: 4.1
-Number of reviews: 9
-Reviews:
-{"author_name": "Ricardo Rios", "author_url": "https://www.google.com/maps/contrib/106671221507491516278/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeQ2UFHEiUpNsIYx0P8FLRXQDnfpfa2RIY45mJF0Zuw4AwqA=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "7 months ago", "text": "Avon bulbs has been my favourite  since the early 80's. They sell bulbs nobody else has, and that's what l like from them. It's all unique and l would recommend anyone like me who enjoy growing new things to contact them.\nThank you the staff at the nursery who deal with my orders .The way everything comes out of the box is great.\nBest wishes to you all.\nRicardo", "time": 1694708697, "translated": false}
-Company name: Avon bulbs
-Average Google Maps Rating: 4.1
-Total reviews: 9
-True rating: 0.9181818181818181
----------------------------------------------------------------------------------------
-
-Company name: Frerichs Farm
-Average rating: 4.8
-Number of reviews: 85
-Reviews:
-{"author_name": "Geri Amaral", "author_url": "https://www.google.com/maps/contrib/103385981607940793055/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvcqi6Ewpj_uu1UMLEhnVIflEZsjQUFm_WVG2Jq8GDcHfqOA=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a month ago", "text": "A friend brought me here last year, I can wait for April 8\u2026\ud83d\ude42 what beautiful flowers you have,\nI also bought the best honey can wait for more \ud83d\ude03 you have a fantastic place!!!! \ud83d\ude00", "time": 1710568330, "translated": false}
-Company name: Frerichs farm
-Average Google Maps Rating: 4.8
-Total reviews: 85
-True rating: 0.12413793103448277
----------------------------------------------------------------------------------------
-
-Company name: La Tavola Marche
-Average rating: 4.8
-Number of reviews: 22
-Reviews:
-{"author_name": "Michael Sweigart", "author_url": "https://www.google.com/maps/contrib/114113223598132682774/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaqTgLeHPzXdrCnhS2J2lM0apqarmjAYPqTQxhd-TVHVjE6SCz=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "5 months ago", "text": "A week with Ashley and Jason wouldn\u2019t be long enough.  But if you only spend a few days they\u2019ll be the best of your trip!", "time": 1699487525, "translated": false}
-Company name: La tavola marche
-Average Google Maps Rating: 4.8
-Total reviews: 22
-True rating: 0.45
----------------------------------------------------------------------------------------
-
-Company name: Green Rock Hemp Holdings
-Average rating: 0
-Number of reviews: 0
-Reviews:
-[]
-Company name: Green rock hemp holdings
-Average Google Maps Rating: 0.0
-Total reviews: 0
-True rating: 0
----------------------------------------------------------------------------------------
-
-Company name: 1818 Farms
-Average rating: 4.8
-Number of reviews: 31
-Reviews:
-{"author_name": "Dawn Mills", "author_url": "https://www.google.com/maps/contrib/116474455714664508721/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCOpv9LbOanU3wlsrb8OlR352-GvArQLn6Bksslieo2HVcTA=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "4 months ago", "text": "1818 Farms is my happy place. The animals are the cutest and the products are always amazing. Natasha, her family and staff are very creative. And now they have opened The Cottage at 1818 Farms. It is the perfect location to showcase the products and to hold classes.", "time": 1702230386, "translated": false}
-Company name: 1818 farms
-Average Google Maps Rating: 4.8
-Total reviews: 31
-True rating: 0.32727272727272727
----------------------------------------------------------------------------------------
-
-Company name: Alpine Nursery & Garden Center
-Average rating: 4.4
-Number of reviews: 150
-Reviews:
-{"author_name": "DF MIX", "author_url": "https://www.google.com/maps/contrib/113406253915661326221/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3KahfDN88vdftNLbMrHIyabunHtsGADvfgl_da0d664js7w=s128-c0x00000000-cc-rp-mo-ba5", "rating": 5, "relative_time_description": "a month ago", "text": "Absolutely beautiful and stunning nursery. They have a massive and impressive collection of plants: fruit trees, flowers, grasses, and cacti. Wonderful greenhouse and excellent service team! They were always asking if I needed help finding anything. English y espa\u00f1ol tambi\u00e9n. \ud83d\ude42", "time": 1710711148, "translated": false}
-Company name: Alpine nursery
-Average Google Maps Rating: 4.4
-Total reviews: 150
-True rating: 0.06842105263157895
 ---------------------------------------------------------------------------------------
 
