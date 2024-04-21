@@ -9,7 +9,6 @@ import FileWriter
 
 
 def main():
-    api_key = "AIzaSyDVLIIwEWFFQoGIwZyIEIvSEMCHUYvZbu4"
     dfs = []
 
     for fileName in os.listdir("datasets/"):
@@ -36,7 +35,8 @@ def main():
             file["employee_count"][ind], file["keywords"][ind], file["linkedin"][ind], file["youtube"][ind], \
             file["twitter"][ind], file["facebook"][ind], file["instagram"][ind]
         #  Test 1: Google Maps Review System
-        score += companyReviews.get_company_reviews(name, api_key) * 0.25
+        # To work you should get an Google Maps API key with Placing API
+        # score += companyReviews.get_company_reviews(name, api_key) * 0.25
 
         # Test 2: Correlation between Revenue, Domain, Locations number and Employee Count through Linear Regression
         score += Location_Revenue_EmpCount_Relation.scoreCalculation(industry, revenue, location_number,
