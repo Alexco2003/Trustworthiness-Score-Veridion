@@ -45,12 +45,12 @@ def scrap_linkedin(url):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'
     }
 
+    if url is None:
+        return 0
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         # Parse the HTML content
         soup = BeautifulSoup(response.content, 'html.parser')
-        # print(soup.get_text().lower())
-        #print(removeWhitespace(soup.get_text()))
 
         text = soup.get_text()
         last_post_date = extract_time_from_last_post(removeWhitespace(text))
@@ -72,7 +72,16 @@ def scrap_linkedin(url):
         if follower_count is None:
             return 0
 
-        return np.log(follower_count) + latestPostScore
+        if follower_count > 100_000:
+            return 0.5 + latestPostScore / 200
+
+        if follower_count > 10_000:
+            return 0.25 + latestPostScore / 200
+
+        if follower_count > 1_000:
+            return 0.1 + latestPostScore / 200
+
+        return  latestPostScore / 200
 
     return 0
 def removeWhitespace(text):
@@ -80,10 +89,3 @@ def removeWhitespace(text):
     text = re.sub(r'\s+', ' ',text)
     return text
 
-
-def main():
-    #print(scrap_linkedin_followers("https://www.linkedin.com/company/ubisoft/"))
-    #print(scrap_linkedin_followers("https://www.linkedin.com/company/xarvio"))
-    #print(scrap_linkedin_followers("https://www.linkedin.com/company/ubisoft"))
-    print(scrap_linkedin("https://www.linkedin.com/company/knoweaformation"))
-    #scrap_instagra_followers("https://www.instagram.com/skpha_/")

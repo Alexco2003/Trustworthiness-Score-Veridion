@@ -1,11 +1,6 @@
 import json
 import FileWriter
 import requests
-import whois
-import nltk
-from bs4 import BeautifulSoup
-from nltk.corpus import stopwords
-from collections import defaultdict
 
 
 def get_company_reviews(company_name, api_key):
@@ -86,7 +81,7 @@ def domainChecker(domain, year_founded=None):
     total = 0
     value = 1
     try:
-        w = whois.whois(domain)
+        w = pythonwhois.get_whois(domain)
         creation_date, expiration_date = w.creation_date, w.expiration_date
         if isinstance(creation_date, list):
             creation_date = creation_date[0]
@@ -96,57 +91,11 @@ def domainChecker(domain, year_founded=None):
         if registration_period >= 1:
             total += value
         domain_creation_year = creation_date.year
-        if domain_creation_year == year_founded:
+        if year_founded >= 2015 and domain_creation_year == year_founded:
             total += value
     except Exception as e:
         print(str(e))
     return total
-
-def word_frequency(text):
-    # Load the English stopwords
-    stop_words = set(stopwords.words('english'))
-
-    # Tokenize the text into words
-    words = nltk.word_tokenize(text.lower())
-
-    # Create a defaultdict to store word frequencies
-    word_freq = defaultdict(int)
-
-    # Iterate through the words and count their frequencies
-    for word in words:
-        # Check if the word is not a stopword and is alphabetic
-        if word not in stop_words and word.isalpha():
-            word_freq[word] += 1
-
-    return dict(word_freq)
-
-
-def keywords_in_site(url,keywords):
-    # Set User-Agent header
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'
-    }
-    keyword_set = set([word.lower() for phrase in keywords for word in phrase.split()])
-    # Create a session
-    with requests.Session() as session:
-        # Make the GET request
-        response = session.get(url, headers=headers)
-
-        # Check if the request was successful
-        if response.status_code == 200:
-            # Parse the HTML content
-            soup = BeautifulSoup(response.content, 'html.parser')
-
-            # Extract text content from the page
-            page_text = soup.get_text()
-
-            freq = word_frequency(page_text)
-            print(freq)
-            for word in keyword_set:
-                if word.lower() in freq:
-                    print(word)
-        else:
-            print("Failed to retrieve the webpage. -Status code:", response.status_code)
 
 def legalNameScore(legalName):
 
@@ -170,13 +119,27 @@ def socialMediaNumber (facebook, instagram, twitter, linkedin, youtube):
         score += 1
     if youtube is not None:
         score += 1
-    return score
+    return score / 5
 
 def countPhones (all_phones):
-    return len(all_phones)
+    size = len(all_phones)
+    if size >= 3:
+        return 1
+    if size == 2:
+        return 0.75
+    if size == 1:
+        return 0.5
+    return 0
 
 def countEmails (emails):
-    return len(emails)
+    size = len(emails)
+    if size >= 3:
+        return 1
+    if size == 2:
+        return 0.75
+    if size == 1:
+        return 0.5
+    return 0
 
 def urlChecker(url):
     if url.startswith('https://'):

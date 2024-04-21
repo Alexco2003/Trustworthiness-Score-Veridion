@@ -33,25 +33,28 @@ def keywords_in_site(url,keywords):
     # Create a session
     with requests.Session() as session:
         # Make the GET request
-        response = session.get(url, headers=headers)
+        try:
+            response = session.get(url, headers=headers)
 
-        # Check if the request was successful
-        if response.status_code == 200:
-            # Parse the HTML content
-            soup = BeautifulSoup(response.content, 'html.parser')
+            # Check if the request was successful
+            if response.status_code == 200:
+                # Parse the HTML content
+                soup = BeautifulSoup(response.content, 'html.parser')
 
-            # Extract text content from the page
-            page_text = soup.get_text()
+                # Extract text content from the page
+                page_text = soup.get_text()
 
-            freq = word_frequency(page_text)
-            for word in keyword_set:
-                if word.lower() in freq:
-                    wordFromKeywordsFound
-        else:
-            print("Failed to retrieve the webpage. -Status code:", response.status_code)
+                freq = word_frequency(page_text)
+                for word in keyword_set:
+                    if word.lower() in freq:
+                        wordFromKeywordsFound = True
+            else:
+                print("Failed to retrieve the webpage. -Status code:", response.status_code)
+        except requests.exceptions.ConnectionError:
+            wordFromKeywordsFound = False
 
     if wordFromKeywordsFound is True:
-        return 50
+        return 1
 
     return 0
 
