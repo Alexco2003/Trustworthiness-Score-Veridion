@@ -22,13 +22,14 @@ def word_frequency(text):
 
     return dict(word_freq)
 
-# Set User-Agent header
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'
-}
 
 def keywords_in_site(url,keywords):
+    # Set User-Agent header
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'
+    }
     keyword_set = set([word.lower() for phrase in keywords for word in phrase.split()])
+    wordFromKeywordsFound = False
     # Create a session
     with requests.Session() as session:
         # Make the GET request
@@ -43,12 +44,16 @@ def keywords_in_site(url,keywords):
             page_text = soup.get_text()
 
             freq = word_frequency(page_text)
-            print(freq)
             for word in keyword_set:
                 if word.lower() in freq:
-                    print(word)
+                    wordFromKeywordsFound
         else:
             print("Failed to retrieve the webpage. -Status code:", response.status_code)
+
+    if wordFromKeywordsFound is True:
+        return 50
+
+    return 0
 
 def main():
     keywords = ['Fruit And Vegetables', 'Fresh Fruit & Vegetables',
@@ -58,7 +63,3 @@ def main():
 
     url = "https://www.agrograde.com/"
     keywords_in_site(url, keywords)
-
-
-if __name__ == "__main__":
-    main()

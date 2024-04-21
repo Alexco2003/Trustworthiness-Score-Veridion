@@ -1,8 +1,7 @@
 import requests
 import re
+import numpy as np
 from bs4 import BeautifulSoup
-from selenium.webdriver import Chrome
-from instascrape import Profile, scrape_posts
 
 # HELPER, DONT TOUCH
 def extract_followers(html):
@@ -51,16 +50,32 @@ def scrap_linkedin(url):
         # Parse the HTML content
         soup = BeautifulSoup(response.content, 'html.parser')
         # print(soup.get_text().lower())
-        #print(rem(soup.get_text()))
+        #print(removeWhitespace(soup.get_text()))
 
         text = soup.get_text()
-        last_post_date = extract_time_from_last_post(rem(text))
+        last_post_date = extract_time_from_last_post(removeWhitespace(text))
         follower_count = extract_followers(text)
 
-        return (follower_count, last_post_date)
+        latestPostScore = 0
+        if last_post_date is not None:
+            if 'h' in last_post_date:
+                latestPostScore = 100
+            elif 'd' in last_post_date:
+                latestPostScore = 80
+            elif 'w' in last_post_date:
+                latestPostScore = 50
+            elif 'm' in last_post_date:
+                latestPostScore = 20
+            elif 'y' in last_post_date:
+                latestPostScore = 10
 
-    return None
-def rem(text):
+        if follower_count is None:
+            return 0
+
+        return np.log(follower_count) + latestPostScore
+
+    return 0
+def removeWhitespace(text):
     text =text.strip()
     text = re.sub(r'\s+', ' ',text)
     return text
@@ -72,7 +87,3 @@ def main():
     #print(scrap_linkedin_followers("https://www.linkedin.com/company/ubisoft"))
     print(scrap_linkedin("https://www.linkedin.com/company/knoweaformation"))
     #scrap_instagra_followers("https://www.instagram.com/skpha_/")
-
-
-if __name__ == "__main__":
-    main()

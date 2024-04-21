@@ -13,6 +13,3 @@ def socialMediaNumber (facebook, instagram, twitter, linkedin):
 def main():
     print(socialMediaNumber("facebook", "instagram", "twitter", "linkedin"))
     print(socialMediaNumber("facebook", "instagram", "twitter", None))
-
-if __name__ == '__main__':
-    main()

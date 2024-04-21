@@ -12,20 +12,16 @@ def domainChecker(domain, year_founded=None):
         if isinstance(expiration_date, list):
             expiration_date = expiration_date[0]
         registration_period = expiration_date.year - creation_date.year
-        if registration_period < 1:
+        if registration_period >= 1:
             total += value
         domain_creation_year = creation_date.year
-        if domain_creation_year != year_founded:
+        if domain_creation_year == year_founded:
             total += value
     except Exception as e:
-        return str(e)
+        print(str(e))
     return total
 
 def main():
     print(domainChecker('rootsag.in', 2019))
     print(domainChecker('harborsidefarms.com', 1923))
-
-if __name__ == '__main__':
-    main()
-
 # Change value to make sense

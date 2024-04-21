@@ -90,8 +90,3 @@ def main():
             continue
         get_company_reviews(dataset['name'][ind], api_key)
     # get_company_reviews(company_name, api_key)
-
-
-
-if __name__ == "__main__":
-    main()
