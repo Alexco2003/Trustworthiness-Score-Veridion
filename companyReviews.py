@@ -4,7 +4,7 @@ import FileWriter
 
 
 def get_company_reviews(company_name, api_key):
-    fileWriter = FileWriter.FileWriter("companyReviews.txt")
+    # fileWriter = FileWriter.FileWriter("companyReviews.txt")
     # Google Maps Places API endpoint for searching for places by text search
     url = f"https://maps.googleapis.com/maps/api/place/textsearch/json?query={company_name}&key={api_key}"
 
@@ -28,8 +28,8 @@ def get_company_reviews(company_name, api_key):
                     avgTotalRating += (avgRating * noReviews)
                     totalReviewsCount += noReviews
 
-                    fileWriter.write_to_file(f"Company name: {result['name']}\nAverage rating: {avgRating}\n"
-                                             f"Number of reviews: {noReviews}\n")
+                    # fileWriter.write_to_file(f"Company name: {result['name']}\nAverage rating: {avgRating}\n"
+                    #                          f"Number of reviews: {noReviews}\n")
 
                     # Google Maps Places API endpoint for fetching place details including reviews
                     if result_place_id is not None:
@@ -48,25 +48,25 @@ def get_company_reviews(company_name, api_key):
                     lastReview = []
                     if len(reviews):
                         lastReview = reviews[-1]
-                    fileWriter.write_to_file("Reviews:\n")
+                    # fileWriter.write_to_file("Reviews:\n")
                     for review in reviews:
                         time = review.get('time', 0)
                         if time > lastReview.get('time', 0):
                             lastReview = review
 
-                    fileWriter.write_to_file(json.dumps(lastReview))
-                    fileWriter.write_to_file("\n")
+                    # fileWriter.write_to_file(json.dumps(lastReview))
+                    # fileWriter.write_to_file("\n")
 
             rating = 0
             if totalReviewsCount != 0:
                 rating = avgTotalRating / totalReviewsCount
-            fileWriter.write_to_file(f"Company name: {company_name.capitalize()}\nAverage Google Maps Rating: {rating}\nTotal reviews: {totalReviewsCount}\n")
+            # fileWriter.write_to_file(f"Company name: {company_name.capitalize()}\nAverage Google Maps Rating: {rating}\nTotal reviews: {totalReviewsCount}\n")
             if avgTotalRating != 0:
                 trueRating = (avgTotalRating + 5 + 1) / (totalReviewsCount + 2)
             else:
                 trueRating = 0
-            fileWriter.write_to_file(f"True rating: {trueRating}\n")
-            fileWriter.write_to_file("---------------------------------------------------------------------------------------\n\n")
+            # fileWriter.write_to_file(f"True rating: {trueRating}\n")
+            # fileWriter.write_to_file("---------------------------------------------------------------------------------------\n\n")
             return trueRating / 5
 
         return 0

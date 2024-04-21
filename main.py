@@ -20,8 +20,6 @@ def main():
     i = 0
     for ind in file.index:
         i += 1
-        if i in [0, 1, 2]:
-            continue
         print(i)
         if i == 100:
             break
@@ -41,7 +39,7 @@ def main():
         score += scrap_linkedin.scrap_linkedin(linkedin) * 0.2
 
         # Test 4: Social Activity
-        score += utils.socialMediaNumber(facebook, instagram, twitter, linkedin, youtube) * 0.10
+        score += utils.socialMediaNumber(facebook, instagram, twitter, linkedin, youtube) * 0.15
 
         # Test 5: Count of phones and emails
         score += utils.countPhones(phones) * 0.05
@@ -52,11 +50,8 @@ def main():
 
         # Test 7: http Secure check
         score += utils.urlChecker(website) * 0.10
-
-        # Test 8: Domain background check
-        # score += utils.domainChecker(domain, year_founded) * 0.05
-
         fileWrite.write_to_file(f"Company name: {name.capitalize()}\nScore: {score}\n\n")
+
 
 if __name__ == '__main__':
     main()

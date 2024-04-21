@@ -230,3 +230,685 @@ Total reviews: 0
 True rating: 0
 ---------------------------------------------------------------------------------------
 
+Company name: Phillips law east
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Elm ware
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Dimerce B.V.
+Average rating: 5
+Number of reviews: 5
+Reviews:
+{"author_name": "Jelmer Nieuwenhuis", "author_url": "https://www.google.com/maps/contrib/109364425965541566090/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyWpWtT-5TAVabBdzkroyjl0zyk5GOrDFVXjHSfvvYZ7seCb0=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1678375206, "translated": false}
+Company name: Dimerce
+Average Google Maps Rating: 5.0
+Total reviews: 5
+True rating: 4.428571428571429
+---------------------------------------------------------------------------------------
+
+Company name: K.i.n
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Orfico
+Average rating: 4
+Number of reviews: 1
+Reviews:
+{"author_name": "Juan Jos\u00e9 Arenas", "author_url": "https://www.google.com/maps/contrib/112864867344039726063/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6o-ah3Ebh0VGoqtWV1CHbO7-oqJSVvwUhzXRZnK1ccEd95Q=s128-c0x00000000-cc-rp-mo-ba5", "rating": 4, "relative_time_description": "a year ago", "text": "", "time": 1656050769, "translated": false}
+Company name: Orfico - asesores
+Average Google Maps Rating: 4.0
+Total reviews: 1
+True rating: 3.3333333333333335
+---------------------------------------------------------------------------------------
+
+Company name: Warrior nomad trail
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Agencia creativa mira
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Antibiro Bitrix24 Gold Partner
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: BITRIX24
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: B24consult - консултация и внедряване на Bitrix24
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Bitrix24 Türkiye
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Antibiro Bitrix24 Gold Partner exYU
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Ladislav Uro\u0161evi\u0107", "author_url": "https://www.google.com/maps/contrib/117948031930164444100/reviews", "language": "en-US", "original_language": "hr", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAy6POb0Y8LofWSepXvQBqfbv8tNevZfOiRWoxC3OV9Ci5vk_1Ug=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "6 years ago", "text": "great software, fast accurate... and useful", "time": 1509715075, "translated": true}
+Company name: Bitrix24 CRM İSTANBUL GLOBALNET OFİS
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Wsparcie Informatyczne - Bitrix24 szkolenia i wdrożenia
+Average rating: 5
+Number of reviews: 4
+Reviews:
+{"author_name": "Maciek", "author_url": "https://www.google.com/maps/contrib/102108255770864016996/reviews", "language": "en-US", "original_language": "pl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyptxd_1jriJgQCGTxGtBBOlKyWPKnsbYin6TrqXdzW5ANNlLv=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "a year ago", "text": "Working with S\u0142awek is a great honor for me. I recommend :)", "time": 1666677633, "translated": true}
+Reviews:
+{"author_name": "Maciek", "author_url": "https://www.google.com/maps/contrib/102108255770864016996/reviews", "language": "en-US", "original_language": "pl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyptxd_1jriJgQCGTxGtBBOlKyWPKnsbYin6TrqXdzW5ANNlLv=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "a year ago", "text": "Working with S\u0142awek is a great honor for me. I recommend :)", "time": 1666677633, "translated": true}
+Company name: BPro amoCRM Bitrix24 Moldova
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Catalin Catalin", "author_url": "https://www.google.com/maps/contrib/104655608883113588925/reviews", "language": "en-US", "original_language": "ro", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0aGDdcoCCGN7JWpR2Cq11ACi0wPAZcBA3j1i-J87kI3Iu=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "I am very satisfied with the company's services. Operative and efficient support, especially I want to mention Ruslana! Friendly and professional. Bravo to the team!", "time": 1661761154, "translated": true}
+Company name: BPM Consulting - Wdrożenie, wsparcie i szkolenia Bitrix24
+Average rating: 5
+Number of reviews: 5
+Reviews:
+{"author_name": "Elisa Legros", "author_url": "https://www.google.com/maps/contrib/112348529639719309147/reviews", "language": "en-US", "original_language": "pl", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFrZSmdVEgvBREuRALcbCYKmWxTbrFFiNNSHEwtErHrS9Whhw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "Competent and decent people, they kept their word and did not disappoint. It's nice to work with professionals. Good luck and prosperity!\ud83d\udc9b", "time": 1665577483, "translated": true}
+Company name: Bitrix24 CRM Programı
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Bitrix24 Ireland
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Reviews:
+[]
+Reviews:
+[]
+Company name: VRTeknoloji - Bitrix24 Türkiye
+Average rating: 5
+Number of reviews: 36
+Reviews:
+{"author_name": "illy", "author_url": "https://www.google.com/maps/contrib/114022177447239411652/reviews", "language": "en-US", "original_language": "tr", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSVaruFq76rx6l2NvlxdhC6QVAHUcLaylbaX-F2qwPlsfQWyw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 weeks ago", "text": "We would like to thank Mr. Mustafa, who supported us at every stage of the BITRIX24 application that we use for the health tourism department. Frankly, I am grateful for their contributions to us in every question and problem, with a sincere, honest and reliable service that answers, guides and supports us every time we call. A big blessing... Thank you very much.", "time": 1711792513, "translated": true}
+Reviews:
+{"author_name": "illy", "author_url": "https://www.google.com/maps/contrib/114022177447239411652/reviews", "language": "en-US", "original_language": "tr", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSVaruFq76rx6l2NvlxdhC6QVAHUcLaylbaX-F2qwPlsfQWyw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 weeks ago", "text": "We would like to thank Mr. Mustafa, who supported us at every stage of the BITRIX24 application that we use for the health tourism department. Frankly, I am grateful for their contributions to us in every question and problem, with a sincere, honest and reliable service that answers, guides and supports us every time we call. A big blessing... Thank you very much.", "time": 1711792513, "translated": true}
+Company name: Bitrix24
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Bitrix24
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Bitrix24 WhatsApp
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Ngwato Tshepo", "author_url": "https://www.google.com/maps/contrib/113338994422569182105/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKpjTjo-e0Rqb_iuN7_8-qlRWTp5CX5cJj9Zv8hxw2o_j31gq2=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "11 months ago", "text": "", "time": 1685115114, "translated": false}
+Company name: Bitrix24 Genesis System Technology شركة النظم العبقرية بيتركيس 24
+Average rating: 4.9
+Number of reviews: 15
+Reviews:
+{"author_name": "abed razak", "author_url": "https://www.google.com/maps/contrib/107766867966440922166/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqHAil8x1pCy6jyniKI7s_Aza8MmK90GxAf3IOKQQ6fxoQRw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "8 months ago", "text": "Thank you Mr Mohamad for your services , he is friendly and professional", "time": 1691397080, "translated": false}
+Company name: Bitrix24
+Average Google Maps Rating: 4.976190476190476
+Total reviews: 63
+True rating: 4.915384615384616
+---------------------------------------------------------------------------------------
+
+Company name: Burnham Gold Real Estate
+Average rating: 4.8
+Number of reviews: 16
+Reviews:
+{"author_name": "PTPM Now", "author_url": "https://www.google.com/maps/contrib/108041610666021023751/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkpjOMLYRYUZDIduro9SNwRdb4BrdFkaE7qToaShWJzlCgow=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "10 months ago", "text": "Jane Miller is an excellent, friendly, professional, and hard working realtor. She made so much happen in such a short amount of time when I was selling my home. She knows how to listen and can offer tips and support on how to move the process along when you are selling a home. I recommend her services!", "time": 1685818924, "translated": false}
+Company name: Burnham gold
+Average Google Maps Rating: 4.8
+Total reviews: 16
+True rating: 4.6
+---------------------------------------------------------------------------------------
+
+Company name: Rephouse limited
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Rephouse
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Nünnerich-Asmus Verlag & Media GmbH
+Average rating: 5
+Number of reviews: 5
+Reviews:
+{"author_name": "Constantin", "author_url": "https://www.google.com/maps/contrib/104708528944158809039/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmSK8DC138MOElZi4UA7uPFTXmNXSvlLCwJJEglBqcVcJGIcrt=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "11 months ago", "text": "", "time": 1683145461, "translated": false}
+Company name: Nünnerich-asmus verlag
+Average Google Maps Rating: 5.0
+Total reviews: 5
+True rating: 4.428571428571429
+---------------------------------------------------------------------------------------
+
+Company name: Megabits
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Savoir vivre lifestyle
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Uht bilisim
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Deckt
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Stroud services
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Advantage Management
+Average rating: 2.1
+Number of reviews: 66
+Reviews:
+{"author_name": "Gregory Timke", "author_url": "https://www.google.com/maps/contrib/116046820258238528687/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKDDibVGnRuqyOQDQe0U0zDJev_nZzMYAblyCieqLj9Cmevw=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "4 weeks ago", "text": "Property Management companies are a dime a dozen in Chicago, and most are useless at best, but Advantage Management has been nothing short of fantastic to work with. Kenny Parquette and everyone else at Advantage Management I've interacted with have been prompt and attentive at addressing my and the building's concerns. Couldn't ask for more from a property management company, and happy that we have them at our building.", "time": 1711134203, "translated": false}
+Company name: Advantage Management & Real Estate Services LLC
+Average rating: 3.7
+Number of reviews: 426
+Reviews:
+{"author_name": "Cole Parker", "author_url": "https://www.google.com/maps/contrib/101497157046014563852/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw1XhQ_WI9jVJOP_ri2x0LHqLqdLDLH2ocuR25zHRyjAuZVfX1=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "in the last week", "text": "We work with Advantage Management as our HOA management company and they\u2019re amazing to work with. Ashley is who we have worked with for the past couple of years and she goes above and beyond. She\u2019s responsive, provides great service to our community, and always offers helpful advice. Would highly recommend working with Advantage Management. You won\u2019t regret it.", "time": 1713412318, "translated": false}
+Reviews:
+{"author_name": "Cole Parker", "author_url": "https://www.google.com/maps/contrib/101497157046014563852/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw1XhQ_WI9jVJOP_ri2x0LHqLqdLDLH2ocuR25zHRyjAuZVfX1=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "in the last week", "text": "We work with Advantage Management as our HOA management company and they\u2019re amazing to work with. Ashley is who we have worked with for the past couple of years and she goes above and beyond. She\u2019s responsive, provides great service to our community, and always offers helpful advice. Would highly recommend working with Advantage Management. You won\u2019t regret it.", "time": 1713412318, "translated": false}
+Company name: Advantage Management Definition
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Gabriel Michael", "author_url": "https://www.google.com/maps/contrib/111807700587363613783/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNn7-gNzqO2Zi1Mk1WBZG3Y3qV5nGNp0m3jlAP_UROGI-59sk=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "The site is very easy to Access, you guys are excellent.", "time": 1698215420, "translated": false}
+Reviews:
+{"author_name": "Gabriel Michael", "author_url": "https://www.google.com/maps/contrib/111807700587363613783/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNn7-gNzqO2Zi1Mk1WBZG3Y3qV5nGNp0m3jlAP_UROGI-59sk=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "The site is very easy to Access, you guys are excellent.", "time": 1698215420, "translated": false}
+Company name: Advantage Management Inc
+Average rating: 4.8
+Number of reviews: 4
+Reviews:
+{"author_name": "Rodney Vejar", "author_url": "https://www.google.com/maps/contrib/103370453321267904152/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOCuPPeHiCyQcDCRFLhR7VpURVUIXOooZ0f-BAhIerfTjHjSdq-Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 years ago", "text": "Some of the most professional, and polite people in the business.", "time": 1647533811, "translated": false}
+Company name: Advantage management
+Average Google Maps Rating: 3.4989939637826963
+Total reviews: 497
+True rating: 3.496993987975952
+---------------------------------------------------------------------------------------
+
+Company name: Klamath camper coral
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Professional search engine optimization and digital marketing
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Trescore Networks LLC
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Trescore networks
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Sterling Advisory Inc.
+Average rating: 5
+Number of reviews: 77
+Reviews:
+{"author_name": "Andrew Gutteridge", "author_url": "https://www.google.com/maps/contrib/107472509344149380238/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUai37st9OXnmuUK0E17FWqguko6Y0V9hAjqktlyys_NOC2xAYJ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 weeks ago", "text": "Working with Mark Walker at Stirling Advisory Inc to transfer my UK pension to Canada was seamless and stress free. His knowledge of the QROPS process and requirements involved was critical to the process, and from start to finish was a lot quicker than I thought it otherwise might be. I would recommend his services to anyone looking to do the same.\nAndy Gutteridge", "time": 1711557753, "translated": false}
+Company name: Sterling Advisory Services, LLC
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Sterling Advisory Group
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Sterling advisory
+Average Google Maps Rating: 5.0
+Total reviews: 77
+True rating: 4.949367088607595
+---------------------------------------------------------------------------------------
+
+Company name: Asociatia GS1 Romania
+Average rating: 4.7
+Number of reviews: 20
+Reviews:
+{"author_name": "Eduard Inizian", "author_url": "https://www.google.com/maps/contrib/102000647621538883466/reviews", "language": "en-US", "original_language": "ro", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPoPFDZ_IixRtgPQOla1RQAjFsJYKY32WCiWqqqe3VKwsapA=s128-c0x00000000-cc-rp-mo-ba3", "rating": 4, "relative_time_description": "2 years ago", "text": "The park in the heart of the city", "time": 1620579658, "translated": true}
+Company name: Gs1
+Average Google Maps Rating: 4.7
+Total reviews: 20
+True rating: 4.545454545454546
+---------------------------------------------------------------------------------------
+
+Company name: Knowea Formation Limited
+Average rating: 5
+Number of reviews: 15
+Reviews:
+{"author_name": "Emma Robinson", "author_url": "https://www.google.com/maps/contrib/100186116513752510754/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAae3XAJJmJstmEHW4XDpv-pbsYYLdaO73S28KIsvXf_W06uo=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "7 months ago", "text": "I am so happy with the service I\u2019ve had from Knowea recently. Professional, knowledgeable and helpful. They really know how to help you get the most out of your business. The increase in my sales recently is down to them! Highly recommended.", "time": 1694623182, "translated": false}
+Company name: Knowea formation
+Average Google Maps Rating: 5.0
+Total reviews: 15
+True rating: 4.764705882352941
+---------------------------------------------------------------------------------------
+
+Company name: La Manivelle Charmilles - MACO
+Average rating: 5
+Number of reviews: 36
+Reviews:
+{"author_name": "Ambre Kellache", "author_url": "https://www.google.com/maps/contrib/103161349781252762738/reviews", "language": "en-US", "original_language": "fr", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFscbzNklBkXLXc6f1htsMCt-vesnm4jmmVF39N_gbh3w75GQ=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a week ago", "text": "The very best, very friendly, helpful and it's Alibaba's cave :)", "time": 1713002686, "translated": true}
+Company name: La Manivelle Lausanne
+Average rating: 5
+Number of reviews: 8
+Reviews:
+{"author_name": "Matteo (matt_patt)", "author_url": "https://www.google.com/maps/contrib/109548522110877417585/reviews", "language": "en-US", "original_language": "fr", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOeME1bDZ_N6KGsTp4-2uhwUpudT0gy6nwJPOpPsYHSkR6Lg=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "8 months ago", "text": "Great service, practical website and good quality of objects.", "time": 1692291133, "translated": true}
+Company name: La Manivelle
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: La Manivelle - Point-relais à Carouge
+Average rating: 4.4
+Number of reviews: 5
+Reviews:
+{"author_name": "maria degano", "author_url": "https://www.google.com/maps/contrib/113769470312173352392/reviews", "language": "en-US", "original_language": "fr", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrvPxWNAIDQ36yjAhVfKBRvA0weiVFsB7u3Zx41Ujn6f_2gKtY=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "8 months ago", "text": "AVERAGE", "time": 1690575301, "translated": true}
+Company name: La Manivelle Nyon
+Average rating: 5
+Number of reviews: 3
+Reviews:
+{"author_name": "Armelle DuPasquier-Broadhurst", "author_url": "https://www.google.com/maps/contrib/106190679002282759834/reviews", "language": "en-US", "original_language": "fr", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdH6ww-GBYW-yxmghVMArA_FFiJRRQaNz0cau0O_Hh8SPb7g=s128-c0x00000000-cc-rp-mo-ba3", "rating": 5, "relative_time_description": "6 months ago", "text": "There is a great choice for borrowing objects: from the miter saw to the donut machine to the edge cutter! This way, we don't need to clutter our cupboards and we even discover new hobbies.", "time": 1696276358, "translated": true}
+Company name: La manivelle
+Average Google Maps Rating: 4.9423076923076925
+Total reviews: 52
+True rating: 4.87037037037037
+---------------------------------------------------------------------------------------
+
+Company name: Growth Commercial Capital
+Average rating: 1
+Number of reviews: 1
+Reviews:
+{"author_name": "Danny Rosa", "author_url": "https://www.google.com/maps/contrib/106372483926037810170/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_ufw91Nn8cfijm7-Gl-K2y7AjaPndPOwmqeAvFu1brMK5gA=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "2 years ago", "text": "", "time": 1650396944, "translated": false}
+Company name: Growth commercial capital
+Average Google Maps Rating: 1.0
+Total reviews: 1
+True rating: 2.3333333333333335
+---------------------------------------------------------------------------------------
+
+Company name: VAULT Real Estate Community
+Average rating: 4.8
+Number of reviews: 4
+Reviews:
+{"author_name": "Jim Brandmeir", "author_url": "https://www.google.com/maps/contrib/113651172724994102063/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu1sotEkHq6b_A9mUX4s-i2ETofyzhrFyKEm5oDsKLPvDF9g=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "4 years ago", "text": "Nice people. Work hard to help you.", "time": 1575955077, "translated": false}
+Company name: Vault real estate community
+Average Google Maps Rating: 4.8
+Total reviews: 4
+True rating: 4.2
+---------------------------------------------------------------------------------------
+
+Company name: la FACTORIA de PROYECTOS
+Average rating: 4.1
+Number of reviews: 15
+Reviews:
+{"author_name": "Isabel Pastoriza", "author_url": "https://www.google.com/maps/contrib/108914987012604758228/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXviPW4rOXa2m6tyymJ5wUxCKRMFTWeCMRlBXDId4Tj7PXk_Zt5uQ=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "2 years ago", "text": "Very good professionals", "time": 1619875445, "translated": true}
+Company name: La factoria de proyectos
+Average Google Maps Rating: 4.1
+Total reviews: 15
+True rating: 3.9705882352941178
+---------------------------------------------------------------------------------------
+
+Company name: Duffy
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Duffy
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Reviews:
+[]
+Reviews:
+[]
+Reviews:
+[]
+Reviews:
+[]
+Reviews:
+[]
+Reviews:
+[]
+Company name: Duffy & young
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Sterling Administration
+Average rating: 2.1
+Number of reviews: 59
+Reviews:
+{"author_name": "Dorothea Baker", "author_url": "https://www.google.com/maps/contrib/106013879060236704307/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGyTuK01_Hjpdwx4RUFj1Ro-pk4XWr6KHzhUNZfiCupICMPw=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "in the last week", "text": "Absolutely terrible customer service. Absolute trash of a company! I've been trying to retrieve funds owed to me for over 4 months. I have been going in circles speaking to staff that are short and incompetent. Super frustrating. Even the supervisors are dumb.", "time": 1713384631, "translated": false}
+Company name: Sterling administration
+Average Google Maps Rating: 2.1
+Total reviews: 59
+True rating: 2.1295081967213116
+---------------------------------------------------------------------------------------
+
+Company name: Techno spirit
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Thinkerz
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Reviews:
+[]
+Company name: The thinkerz
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Nowara Infotech
+Average rating: 4.9
+Number of reviews: 7
+Reviews:
+{"author_name": "Aditya", "author_url": "https://www.google.com/maps/contrib/104341037412725850052/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWonl96jyQnfnESmnHtWWA9KLCEg44k-WnnnJgvvAubfdt3x1ld=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 weeks ago", "text": "Amazing work place", "time": 1712416680, "translated": false}
+Company name: Nowara infotech
+Average Google Maps Rating: 4.9
+Total reviews: 7
+True rating: 4.477777777777778
+---------------------------------------------------------------------------------------
+
+Company name: Air stayz
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Brandhunters - Workplace
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Brandhunters - Head Office
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Brandhunters
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: IN-direkt Ingolstadt UG
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Xy Xy", "author_url": "https://www.google.com/maps/contrib/103918417305173034048/reviews", "language": "en-US", "original_language": "de", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgM_9vxuGZrlFNsmjdbMxXZsVLygSiH1NV_2TD53A_5x6GRg=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "4 years ago", "text": "Good newspaper! Finally a local newspaper in Ingolstadt! Do a great job", "time": 1578065652, "translated": true}
+Company name: In-direkt
+Average Google Maps Rating: 5.0
+Total reviews: 1
+True rating: 3.6666666666666665
+---------------------------------------------------------------------------------------
+
+Company name: Attitude creative
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Clifton black law
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Indimax Productions
+Average rating: 4.9
+Number of reviews: 37
+Reviews:
+{"author_name": "Martha Mck", "author_url": "https://www.google.com/maps/contrib/116303054370519142816/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNDThIaLZv27ysAFB49oDjuwZ6H_4ggKODGC8137bCv6ll0d6r=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "7 months ago", "text": "The Indimax team was incredibly professional and patient. Russell and the team went over and above to make sure we were happy with the result of our video, which involved complex information. We were very happy. Thanks again from the Goulburn Broken CMA.", "time": 1693453445, "translated": false}
+Company name: Indimax
+Average Google Maps Rating: 4.9
+Total reviews: 37
+True rating: 4.802564102564103
+---------------------------------------------------------------------------------------
+
+Company name: Hillary West Boudoir
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Marie Rogers", "author_url": "https://www.google.com/maps/contrib/100839239440807368237/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVR6dAIATzGO169rdWI8So82VyOTDpD5AfulI_D44AOOkNkuV02=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "6 years ago", "text": "Fantastic job. Fantastic pictures. She dealt with me and my nerves so well and lots of jokes and laughter to calm my nervousness. I will recommend any chance I get. Thanks again Hillary so much.", "time": 1502375112, "translated": false}
+Company name: Hillary west boudoir
+Average Google Maps Rating: 5.0
+Total reviews: 1
+True rating: 3.6666666666666665
+---------------------------------------------------------------------------------------
+
+Company name: Whittinghill disposal
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Wuko Media
+Average rating: 5
+Number of reviews: 17
+Reviews:
+{"author_name": "Joanna Furlong", "author_url": "https://www.google.com/maps/contrib/101981058949660946007/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaaqOJOS1u7hJfPfp2hSKf36_yZIJ3iRKrj6GZhZqh2CShRhs=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a month ago", "text": "The Wuko Media team is easy to work with, flexible, and always delivers! I have worked with Tamas and his fabulous team many times over recent years. They offer a broad skillset, creative ideas, and make it easy to collaborate on ideas remotely. This is why I often send clients their way, too! I would recommend Wuko to anyone.", "time": 1710332309, "translated": false}
+Company name: Wuko media
+Average Google Maps Rating: 5.0
+Total reviews: 17
+True rating: 4.7894736842105265
+---------------------------------------------------------------------------------------
+
+Company name: HP CONTABILIDADE
+Average rating: 5
+Number of reviews: 56
+Reviews:
+{"author_name": "D\u00e9bora Santana", "author_url": "https://www.google.com/maps/contrib/117557144406775747905/reviews", "language": "en-US", "original_language": "pt", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVBQJjswdp6472_SVnCPvOsUYctTrGuEJXFTHJf98fHXADA_2w-Q=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "2 weeks ago", "text": "HP Contabilidade is undoubtedly the best and most updated in Muria\u00e9 and the region.", "time": 1712251775, "translated": true}
+Company name: Hp contabilidade
+Average Google Maps Rating: 5.0
+Total reviews: 56
+True rating: 4.931034482758621
+---------------------------------------------------------------------------------------
+
+Company name: Coaching minds
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Gordon Yates
+Average rating: 4
+Number of reviews: 76
+Reviews:
+{"author_name": "jurgita rinkeviciute", "author_url": "https://www.google.com/maps/contrib/103906784002349407310/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJpT_MAQLv4vzXBMhPQfqjhL8p6t1smefwJ7sco3wzqXW53wnEQQ=s128-c0x00000000-cc-rp-mo-ba2", "rating": 5, "relative_time_description": "a month ago", "text": "I was so lucky to stumble on this agency! They are super professional, listened to my concerns and understood what I was looking for. They got me the opportunity,  that was most suitable for me. Thank you!", "time": 1709562262, "translated": false}
+Company name: Gordon yates
+Average Google Maps Rating: 4.0
+Total reviews: 76
+True rating: 3.9743589743589745
+---------------------------------------------------------------------------------------
+
+Company name: Nantucket Island Events
+Average rating: 5
+Number of reviews: 3
+Reviews:
+{"author_name": "Diane Marie Vee", "author_url": "https://www.google.com/maps/contrib/116209842644305868412/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiNX9YI03mJeXDyJqO9XkKjWjA3_1JVXmd8JCu4pZBWNROZtom=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "6 years ago", "text": "Yes!", "time": 1507862573, "translated": false}
+Company name: Nantucket island events
+Average Google Maps Rating: 5.0
+Total reviews: 3
+True rating: 4.2
+---------------------------------------------------------------------------------------
+
+Company name: Mitev Law Firm, P.C.
+Average rating: 4.8
+Number of reviews: 59
+Reviews:
+{"author_name": "KIRK", "author_url": "https://www.google.com/maps/contrib/100082142758231402611/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJY61_mzUwWZhPz6AsjzBF42Xr5YNkBda1VaooKuri2DlRzog=s128-c0x00000000-cc-rp-mo-ba4", "rating": 5, "relative_time_description": "a week ago", "text": "I've dealt with many law firms in my 64 years. The Mitev law firm is the most organized and proficient firm I've ever had the pleasure to retain. Using the word pleasure to describe retaining a lawyer sounds somewhat doubtful, but these guys and gals sure did a fantastic job handling my real estate lawsuit. My wife and I will surely use their services again if the need arises. Thanks Mitev firm.", "time": 1712885701, "translated": false}
+Company name: Mitev law
+Average Google Maps Rating: 4.8
+Total reviews: 59
+True rating: 4.740983606557377
+---------------------------------------------------------------------------------------
+
+Company name: GLOBAL GUIDE VISA CONSULTANTS
+Average rating: 4.4
+Number of reviews: 1027
+Reviews:
+{"author_name": "Kuljit Singh", "author_url": "https://www.google.com/maps/contrib/101538847088451573416/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYwXw-TC2UwyOPHZu75_nkGRJBBPg_2nPi_in1DnfuppoH8A=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a week ago", "text": "Best for tourist visa for any country. Very much satisfied. Their service are best. Staff is so cooperative. I got my canada visa within week\nTHANKU GLOBAL GUIDE\nNorth India best consultancy", "time": 1713000008, "translated": false}
+Company name: Global guide visa consultants
+Average Google Maps Rating: 4.4
+Total reviews: 1027
+True rating: 4.3972789115646265
+---------------------------------------------------------------------------------------
+
+Company name: Ppmg
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Tu Vivienda
+Average rating: 4.6
+Number of reviews: 254
+Reviews:
+{"author_name": "Charo Arguello", "author_url": "https://www.google.com/maps/contrib/101983103996049718881/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiOZaRlKpo6iOvTVZc1sUjT68DxO4k2RZF3Gc_Imd3Gr93nw=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "in the last week", "text": "Super efficient, unbeatable treatment.\nThey meet deadlines.\nDon't hesitate to count on them.\nTeresa, thank you very much for everything.", "time": 1713376440, "translated": true}
+Company name: Tu vivienda en Granada Kw
+Average rating: 5
+Number of reviews: 6
+Reviews:
+{"author_name": "Ilenia Navarrete", "author_url": "https://www.google.com/maps/contrib/106035675417103281603/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhopnOechf6IckA2hKz6PgMwkvuEA4rMxhBQAedmVmQMgi0w=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "6 months ago", "text": "", "time": 1695987057, "translated": false}
+Reviews:
+{"author_name": "Ilenia Navarrete", "author_url": "https://www.google.com/maps/contrib/106035675417103281603/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhopnOechf6IckA2hKz6PgMwkvuEA4rMxhBQAedmVmQMgi0w=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "6 months ago", "text": "", "time": 1695987057, "translated": false}
+Company name: Encuentra Tu Vivienda
+Average rating: 2.6
+Number of reviews: 5
+Reviews:
+{"author_name": "Lidia Colch\u00f3n Torres", "author_url": "https://www.google.com/maps/contrib/111955964006789424017/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBBD8fv42USZMIYNa3qAup6vGDiaC3aiTvWBu1UyJRQtqrS92e=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "Unbeatable treatment, professionalism and dedication to the client.", "time": 1704204430, "translated": true}
+Reviews:
+{"author_name": "Lidia Colch\u00f3n Torres", "author_url": "https://www.google.com/maps/contrib/111955964006789424017/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBBD8fv42USZMIYNa3qAup6vGDiaC3aiTvWBu1UyJRQtqrS92e=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "Unbeatable treatment, professionalism and dedication to the client.", "time": 1704204430, "translated": true}
+Reviews:
+{"author_name": "Lidia Colch\u00f3n Torres", "author_url": "https://www.google.com/maps/contrib/111955964006789424017/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBBD8fv42USZMIYNa3qAup6vGDiaC3aiTvWBu1UyJRQtqrS92e=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "Unbeatable treatment, professionalism and dedication to the client.", "time": 1704204430, "translated": true}
+Reviews:
+{"author_name": "Lidia Colch\u00f3n Torres", "author_url": "https://www.google.com/maps/contrib/111955964006789424017/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBBD8fv42USZMIYNa3qAup6vGDiaC3aiTvWBu1UyJRQtqrS92e=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "3 months ago", "text": "Unbeatable treatment, professionalism and dedication to the client.", "time": 1704204430, "translated": true}
+Company name: Tu vivienda.net
+Average rating: 5
+Number of reviews: 1
+Reviews:
+{"author_name": "Mayca", "author_url": "https://www.google.com/maps/contrib/118142405007552799317/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZx43lJLCzcVCVmIjt-k2huNzj59FkEILlU-8E2i8x5Wwf6XYu=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "a year ago", "text": "", "time": 1681316196, "translated": false}
+Company name: Tu Vivienda Certificada
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: TU VIVIENDA
+Average rating: 1
+Number of reviews: 2
+Reviews:
+{"author_name": "NOELIA ORAL", "author_url": "https://www.google.com/maps/contrib/107700764048478167476/reviews", "language": "en-US", "original_language": "es", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLhQ6DDXQGU2PY2l3xuAQd0kzNo-SwzgBiRkdJVXHWrWitBQ=s128-c0x00000000-cc-rp-mo", "rating": 1, "relative_time_description": "2 years ago", "text": "If I could give fewer stars I would! terrible service!", "time": 1639168817, "translated": true}
+Company name: Tu Vivienda
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Tu Vivienda en Colombia
+Average rating: 4
+Number of reviews: 1
+Reviews:
+{"author_name": "Paco Muller", "author_url": "https://www.google.com/maps/contrib/101490258370176873058/reviews", "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBdZQuGHlNHwe6guWEdHQY2Jl6Ki88u8gkbz0bbOVgig1_5qk=s128-c0x00000000-cc-rp-mo", "rating": 4, "relative_time_description": "6 months ago", "text": "", "time": 1695600021, "translated": false}
+Company name: Tu Vivienda
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Tu vivienda
+Average Google Maps Rating: 4.544237918215613
+Total reviews: 269
+True rating: 4.532841328413284
+---------------------------------------------------------------------------------------
+
+Company name: Fairway wholesale lending
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: Dg & associates
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: KAV Media Group
+Average rating: 0
+Number of reviews: 0
+Reviews:
+[]
+Company name: Kav media group
+Average Google Maps Rating: 0
+Total reviews: 0
+True rating: 0
+---------------------------------------------------------------------------------------
+
+Company name: VITCAKE
+Average rating: 5
+Number of reviews: 2
+Reviews:
+{"author_name": "Zan Smulko", "author_url": "https://www.google.com/maps/contrib/102136288413153702664/reviews", "language": "en", "original_language": "en", "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG1hbzWUa6ik05WGAbsq3KbYZ1HVj537tOyX5X8cEfs2hMYg=s128-c0x00000000-cc-rp-mo", "rating": 5, "relative_time_description": "5 months ago", "text": "Great developers!", "time": 1698154959, "translated": false}
+Company name: Vitcake
+Average Google Maps Rating: 5.0
+Total reviews: 2
+True rating: 4.0
+---------------------------------------------------------------------------------------
+

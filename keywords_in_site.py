@@ -57,12 +57,3 @@ def keywords_in_site(url,keywords):
         return 1
 
     return 0
-
-def main():
-    keywords = ['Fruit And Vegetables', 'Fresh Fruit & Vegetables',
-                'Food Processing Company', 'Farmers & Producers', 'Computer Software',
-                'Incubators & Accelerators', 'Agriculture', 'Machine Learning', 'Machinery','Robotics'
-                ]
-
-    url = "https://www.agrograde.com/"
-    keywords_in_site(url, keywords)

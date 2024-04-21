@@ -2,7 +2,6 @@ import json
 import FileWriter
 import requests
 
-
 def get_company_reviews(company_name, api_key):
     fileWriter = FileWriter.FileWriter("companyReviews.txt")
     # Google Maps Places API endpoint for searching for places by text search

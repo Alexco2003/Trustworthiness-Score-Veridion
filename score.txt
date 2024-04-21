@@ -1,303 +1,297 @@
-Company name: Rootsag naturalis
-Score: 0.26750000000000007
+Company name: Phillips law east
+Score: 0.325
 
-Company name: Clements eggs
-Score: 0.38250000000000006
+Company name: Elm ware
+Score: 0.27
 
-Company name: Delta ag services
-Score: 0.5076324196537078
+Company name: Dimerce
+Score: 0.48142857142857154
 
-Company name: Delta ag services
-Score: 0.5076324196537078
+Company name: K.i.n
+Score: 0.375
 
-Company name: Delta ag services
-Score: 0.5076324196537078
+Company name: Orfico - asesores
+Score: 0.2591666666666667
 
-Company name: Guayacanal
-Score: 0.30500000000000005
+Company name: Warrior nomad trail
+Score: 0.35750000000000004
 
-Company name: Farmtank
-Score: 0.255
+Company name: Agencia creativa mira
+Score: 0.3275
 
-Company name: Mossy earth
-Score: 0.32500000000000007
+Company name: Villani photos
+Score: 0.21999999999999997
 
-Company name: Gransden show
-Score: 0.15394578313253013
+Company name: Bitrix24
+Score: 0.7257692307692309
 
-Company name: Cal fire
-Score: 0.9975925925925927
+Company name: Blue earth pressure washing
+Score: 0.3325
 
-Company name: Cole dog farms
-Score: 0.2925
+Company name: The advantage coach
+Score: 0.3025
 
-Company name: Kipekee agro
-Score: 0.33375
+Company name: Burnham gold
+Score: 0.5699948548141087
 
-Company name: Improve your fishing
-Score: 0.4073573315549224
+Company name: Rephouse
+Score: 0.24
 
-Company name: Microkote
-Score: 0.2275
+Company name: NÃ¼nnerich-asmus verlag
+Score: 0.5214285714285715
 
-Company name: Az farming
-Score: 0.255
-
-Company name: Poultry india
-Score: 0.4682350082800133
-
-Company name: Clayton agri-mktg
-Score: 0.32999999999999996
-
-Company name: Plantgirl
-Score: 0.185
-
-Company name: Australian agricultural centre
-Score: 0.2025
-
-Company name: Slo horse news
-Score: 0.4048270719199901
-
-Company name: Hiverite
-Score: 0.3075
-
-Company name: Equicise
-Score: 0.2910714285714286
-
-Company name: Gum tree apiary
-Score: 0.4295497050728546
-
-Company name: Longueville beverages
-Score: 0.23
-
-Company name: Xarvio
+Company name: Megabits
 Score: 0.35
 
-Company name: Dearplant
-Score: 0.14250000000000002
+Company name: Savoir vivre lifestyle
+Score: 0.34500000000000003
 
-Company name: Kraus nurseries
-Score: 0.4161617580698982
+Company name: Uht bilisim
+Score: 0.2825
 
-Company name: Plant group hawai'i
-Score: 0.26
+Company name: Deckt
+Score: 0.24
 
-Company name: Sigma outdoors
-Score: 0.2564374340879184
+Company name: Stroud services
+Score: 0.24
 
-Company name: De jong lelies
-Score: 0.5261088152626261
+Company name: Advantage management
+Score: 0.5823496993987977
 
-Company name: Creekside nursery
-Score: 0.3216379310344828
+Company name: Klamath camper coral
+Score: 0.29000000000000004
 
-Company name: Ehorses
-Score: 0.2476
+Company name: Professional search engine optimization and digital marketing
+Score: 0.339893368616894
 
-Company name: Horse pass
-Score: 0.3095547945205479
+Company name: Trescore networks
+Score: 0.31999999999999995
 
-Company name: Jungpflanzen lüske
-Score: 0.3007692307692308
+Company name: Sterling advisory
+Score: 0.5821238846928399
 
-Company name: Keartiman
-Score: 0.25375000000000003
+Company name: Gs1
+Score: 0.5722727272727273
 
-Company name: Schramas
+Company name: Knowea formation
+Score: 0.6882352941176471
+
+Company name: La manivelle
+Score: 0.6035185185185185
+
+Company name: Growth commercial capital
+Score: 0.43166666666666664
+
+Company name: Vault real estate community
+Score: 0.4675
+
+Company name: La factoria de proyectos
+Score: 0.501029411764706
+
+Company name: Duffy & young
 Score: 0.27249999999999996
 
-Company name: Agriculture more than ever
-Score: 0.17500000000000002
+Company name: Sterling administration
+Score: 0.5033768582734219
 
-Company name: Solagri
-Score: 0.32499999999999996
+Company name: Techno spirit
+Score: 0.35
 
-Company name: The mile farm shop
-Score: 0.255
+Company name: The thinkerz
+Score: 0.3399644157156786
 
-Company name: Tu dresden robotik ag e.v.
-Score: 0.35357142857142854
+Company name: Nowara infotech
+Score: 0.6288888888888889
 
-Company name: Something good organics
-Score: 0.31333333333333335
+Company name: Air stayz
+Score: 0.3375
 
-Company name: Equitable food
-Score: 0.4375
+Company name: Brandhunters
+Score: 0.275
 
-Company name: Cv-coaching
-Score: 0.22499999999999998
+Company name: In-direkt
+Score: 0.4783333333333334
 
-Company name: Rheinwood
-Score: 0.2936656800483739
+Company name: Attitude creative
+Score: 0.31999999999999995
 
-Company name: Ital-agro
-Score: 0.4065
+Company name: Otium rentals
+Score: 0.2875
 
-Company name: Particularly good
-Score: 0.36
+Company name: Clifton black law
+Score: 0.28500000000000003
 
-Company name: Natureconnect
-Score: 0.4108333333333334
+Company name: All event
+Score: 0.33378844181310796
 
-Company name: Sativa bags
-Score: 0.4258588083016167
+Company name: Indimax
+Score: 0.5601282051282052
 
-Company name: Cropway
-Score: 0.39999999999999997
+Company name: Hillary west boudoir
+Score: 0.5033333333333334
 
-Company name: Tegaia
-Score: 0.26
+Company name: Agencyjcsurge llc.
+Score: 0.29000000000000004
 
-Company name: Lodi farms
-Score: 0.3026784319883278
+Company name: Whittinghill disposal
+Score: 0.1975
 
-Company name: Gold citrus
-Score: 0.3451000000000001
+Company name: Wuko media
+Score: 0.49197368421052634
 
-Company name: Napa county farm bureau
-Score: 0.3297738228438468
+Company name: Hp contabilidade
+Score: 0.6040517241379311
 
-Company name: Sustaincert
-Score: 0.37
+Company name: Coaching minds
+Score: 0.31999999999999995
 
-Company name: Alp tarim
-Score: 0.3933333333333333
+Company name: Gordon yates
+Score: 0.6209081972662834
 
-Company name: Mpa agro
-Score: 0.135
+Company name: Nantucket island events
+Score: 0.5322100104209193
 
-Company name: Oostland
-Score: 0.4018371607515658
+Company name: Mitev law
+Score: 0.5695491803278688
 
-Company name: White fences
-Score: 0.3002601124512506
+Company name: Global guide visa consultants
+Score: 0.5773639455782313
 
-Company name: Pariworld
-Score: 0.31746575342465755
+Company name: Ppmg
+Score: 0.31000000000000005
 
-Company name: Patriot natural
-Score: 0.30500000000000005
+Company name: Tu vivienda
+Score: 0.3616420664206641
 
-Company name: Hípica nuevo valbueno
-Score: 0.2225
+Company name: Fairway wholesale lending
+Score: 0.3427268681388018
 
-Company name: Pines and needles
-Score: 0.37509736084156253
+Company name: Dg & associates
+Score: 0.21999999999999997
 
-Company name: Turkey callers
-Score: 0.1233936123316542
+Company name: Davis delk consulting
+Score: 0.3773727298530192
 
-Company name: Gwilym richards
-Score: 0.335
+Company name: Lawyer homes
+Score: 0.375
 
-Company name: Nuffield
-Score: 0.40883912248628884
+Company name: Kav media group
+Score: 0.31999999999999995
 
-Company name: Semilleros la palma
-Score: 0.12065934065934067
+Company name: Vitcake
+Score: 0.512652529809848
 
-Company name: Abziban
-Score: 0.31166666666666665
+Company name: Ultrafast pest control
+Score: 0.19
 
-Company name: Horses for hope
-Score: 0.27744427846619846
+Company name: Movilnet
+Score: 0.5075994318181818
 
-Company name: Puu
-Score: 0.4185425101214575
+Company name: Good idea marketing
+Score: 0.5643181818181818
 
-Company name: Coopers nurseries
-Score: 0.1225
+Company name: Southsixty
+Score: 0.12
 
-Company name: Waterside nursery
-Score: 0.2435500963391137
+Company name: Ruta origen
+Score: 0.29000000000000004
 
-Company name: Ramona farms
-Score: 0.35044966774699127
+Company name: Mega isencoes
+Score: 0.3225
 
-Company name: National farmers' federation
-Score: 0.574896561491082
+Company name: Lst
+Score: 0.6180097087378641
 
-Company name: Mt airy orchards
-Score: 0.3159450683911189
+Company name: Bi group
+Score: 0.18265804159871757
 
-Company name: Intersemillas
-Score: 0.23972222222222223
+Company name: Peak promotions
+Score: 0.5948076923076924
 
-Company name: Evoagtec
-Score: 0.34125
+Company name: Codial
+Score: 0.5640909090909091
 
-Company name: Godfrey's farm
-Score: 0.2954285714285715
-
-Company name: Club hípico maria luisa
-Score: 0.30500000000000005
-
-Company name: Maxagro
-Score: 0.20704918032786884
-
-Company name: Manege noord oost polder
-Score: 0.14250000000000002
-
-Company name: The vine garden plant outlet
-Score: 0.24336293979571993
-
-Company name: Lots a colour
+Company name: Globall distribution
 Score: 0.2025
 
-Company name: Cedasa carnes
-Score: 0.135
+Company name: Travhoot
+Score: 0.1825
 
-Company name: Interiorscapes
-Score: 0.3940582380950747
+Company name: Creatividad grafica
+Score: 0.55
 
-Company name: Adrian orchards
-Score: 0.26989245011834995
+Company name: Beter groen
+Score: 0.491
 
-Company name: Selvaviva
-Score: 0.19490566037735851
+Company name: Compusolve usa
+Score: 0.5067741935483872
 
-Company name: Woodshapes
-Score: 0.52
+Company name: 3a design
+Score: 0.44250000000000006
 
-Company name: Uzima chicken
-Score: 0.31489130434782603
+Company name: Run your mission
+Score: 0.35
 
-Company name: Protector cactus
-Score: 0.5175
+Company name: Grid
+Score: 0.42650485436893204
 
-Company name: Instytut rozwoju mysli ekologicznej
-Score: 0.27249999999999996
+Company name: Ic savings
+Score: 0.4703901941297875
 
-Company name: Duarte nursery
-Score: 0.34510996305042585
+Company name: Rajuhi
+Score: 0.5725
 
-Company name: Icelandic horses
-Score: 0.26
+Company name: Value group
+Score: 0.3159444444444444
 
-Company name: Gplc
-Score: 0.365
+Company name: Cordial online
+Score: 0.47
 
-Company name: Agro insight
-Score: 0.30000000000000004
+Company name: The next collective
+Score: 0.42833333333333334
 
-Company name: Boulevard benin
-Score: 0.3975000000000001
+Company name: Fine & fleurie
+Score: 0.48231091613040855
 
-Company name: Avon bulbs
-Score: 0.3368189731709886
+Company name: Eli birdsall
+Score: 0.29000000000000004
 
-Company name: Frerichs farm
-Score: 0.31223534790709595
+Company name: Wam planners and engineers inc.
+Score: 0.27
 
-Company name: La tavola marche
-Score: 0.22249999999999998
+Company name: Absoft erp
+Score: 0.31999999999999995
 
-Company name: Green rock hemp holdings
-Score: 0.17
+Company name: Professional party rentals
+Score: 0.27416671207011856
 
-Company name: 1818 farms
-Score: 0.3413636363636364
+Company name: Muhasibat
+Score: 0.5425000000000001
 
-Company name: Alpine nursery
-Score: 0.295921052631579
+Company name: Brookscity
+Score: 0.5037184116006969
+
+Company name: Ajira staffing
+Score: 0.2525
+
+Company name: MÃ¼hlenbrock & kÃ¼hner
+Score: 0.3025
+
+Company name: Kodsmith
+Score: 0.4275
+
+Company name: Vidigi media
+Score: 0.3325
+
+Company name: Clarity investigative services
+Score: 0.255
+
+Company name: Tamkin real estate group
+Score: 0.345
+
+Company name: Lj design studios
+Score: 0.3325
+
+Company name: Artwing alpha
+Score: 0.5425000000000001
 

@@ -91,9 +91,9 @@ def scoreCalculation(industry, revenue, location_number, employee_count):
     revenue_coef = estimatedCoefForSomeCategories[ind][0]
     location_coef = estimatedCoefForSomeCategories[ind][1]
 
-    teoretical_employee_count = float(revenue_coef) * int(revenue) + float(location_coef) * int(location_number)
+    teoretical_employee_count = float(revenue_coef) * int(float(revenue)) + float(location_coef) * int(location_number)
 
-    return 1 / (1 + abs(int(employee_count) - teoretical_employee_count))
+    return 1 / (1 + abs(int(float(employee_count)) - teoretical_employee_count))
 
 
 def codeTesting():
