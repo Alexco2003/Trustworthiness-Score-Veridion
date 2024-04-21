@@ -24,9 +24,9 @@ def get_company_reviews(company_name, api_key):
             details_data = None
             for result in results:
                 if result['name'].lower() in company_name.lower() or company_name.lower() in result['name'].lower():
-                    result_place_id = result['place_id']
-                    noReviews = result['user_ratings_total']
-                    avgRating = result['rating']
+                    result_place_id = result.get('place_id', None)
+                    noReviews = result.get('user_ratings_total', 0)
+                    avgRating = result.get('rating', 0)
 
                     avgTotalRating += avgRating
                     totalReviewsCount += noReviews
@@ -36,9 +36,10 @@ def get_company_reviews(company_name, api_key):
                                              f"Number of reviews: {noReviews}\n")
 
                     # Google Maps Places API endpoint for fetching place details including reviews
-                    details_url = f"https://maps.googleapis.com/maps/api/place/details/json?place_id={result_place_id}&fields=name,rating,reviews&key={api_key}"
-                    details_response = requests.get(details_url)
-                    details_data = details_response.json()
+                    if result_place_id is not None:
+                        details_url = f"https://maps.googleapis.com/maps/api/place/details/json?place_id={result_place_id}&fields=name,rating,reviews&key={api_key}"
+                        details_response = requests.get(details_url)
+                        details_data = details_response.json()
 
                 if details_data is None:
                     continue
@@ -70,28 +71,8 @@ def get_company_reviews(company_name, api_key):
                 trueRating = 0
             fileWriter.write_to_file(f"True rating: {trueRating}\n")
             fileWriter.write_to_file("---------------------------------------------------------------------------------------\n\n")
-            return trueRating, totalReviewsCount
+            return trueRating / 5
 
-        else:
-            print("No results found for the company.")
-
+        return 0
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data: {e}")
-
-
-def main():
-    api_key = "AIzaSyDVLIIwEWFFQoGIwZyIEIvSEMCHUYvZbu4"
-    file = os.listdir("datasets/")[0]
-    dataset = pd.read_parquet(f"datasets/{file}")
-    i = 0
-    for ind in dataset.head(20).index:
-        i += 1
-        if i < 10:
-            continue
-        get_company_reviews(dataset['name'][ind], api_key)
-    # get_company_reviews(company_name, api_key)
-
-
-
-if __name__ == "__main__":
-    main()

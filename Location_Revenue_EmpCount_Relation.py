@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 estimatedCoefForSomeCategories = {'Gas Stations': [3.51070606e-07, 2.87708774e-01],
                                   'Utillities': [-1.27619638e-08,  2.71648842e+00],
@@ -71,13 +70,11 @@ def generateLinearRegressionTestForTwoDimensions():
     training_data_x = np.array([5 * i for i in range(30)])
     training_data_y = np.array([2 * i + np.random.randint(-10, 10) for i in range(30)])
 
-    plt.scatter(training_data_x, training_data_y, color="m", marker="o", s=30)
 
     b = estimateCoefTwoDimensions(training_data_x, training_data_y)
 
     y_prediction = b[0] + b[1] * training_data_x
 
-    plt.plot(training_data_x, y_prediction, color='g')
 
 
 def scoreCalculation(industry, revenue, location_number, employee_count):
@@ -94,19 +91,14 @@ def scoreCalculation(industry, revenue, location_number, employee_count):
     revenue_coef = estimatedCoefForSomeCategories[ind][0]
     location_coef = estimatedCoefForSomeCategories[ind][1]
 
-    teoretical_employee_count = revenue_coef * revenue + location_coef * location_number
+    teoretical_employee_count = float(revenue_coef) * int(revenue) + float(location_coef) * int(location_number)
 
-    return employee_count - teoretical_employee_count
+    return 1 / (1 + abs(int(employee_count) - teoretical_employee_count))
 
 
 def codeTesting():
     L = zip([1, 2, 3], [1, 2, 3])
     print(L)
     generateLinearRegressionTestForTwoDimensions()
-    plt.show()
 
-
-if __name__ == '__main__':
-    codeTesting()
-    # dropna -> drop none
 

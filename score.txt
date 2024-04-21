@@ -1,0 +1,303 @@
+Company name: Rootsag naturalis
+Score: 0.26750000000000007
+
+Company name: Clements eggs
+Score: 0.38250000000000006
+
+Company name: Delta ag services
+Score: 0.5076324196537078
+
+Company name: Delta ag services
+Score: 0.5076324196537078
+
+Company name: Delta ag services
+Score: 0.5076324196537078
+
+Company name: Guayacanal
+Score: 0.30500000000000005
+
+Company name: Farmtank
+Score: 0.255
+
+Company name: Mossy earth
+Score: 0.32500000000000007
+
+Company name: Gransden show
+Score: 0.15394578313253013
+
+Company name: Cal fire
+Score: 0.9975925925925927
+
+Company name: Cole dog farms
+Score: 0.2925
+
+Company name: Kipekee agro
+Score: 0.33375
+
+Company name: Improve your fishing
+Score: 0.4073573315549224
+
+Company name: Microkote
+Score: 0.2275
+
+Company name: Az farming
+Score: 0.255
+
+Company name: Poultry india
+Score: 0.4682350082800133
+
+Company name: Clayton agri-mktg
+Score: 0.32999999999999996
+
+Company name: Plantgirl
+Score: 0.185
+
+Company name: Australian agricultural centre
+Score: 0.2025
+
+Company name: Slo horse news
+Score: 0.4048270719199901
+
+Company name: Hiverite
+Score: 0.3075
+
+Company name: Equicise
+Score: 0.2910714285714286
+
+Company name: Gum tree apiary
+Score: 0.4295497050728546
+
+Company name: Longueville beverages
+Score: 0.23
+
+Company name: Xarvio
+Score: 0.35
+
+Company name: Dearplant
+Score: 0.14250000000000002
+
+Company name: Kraus nurseries
+Score: 0.4161617580698982
+
+Company name: Plant group hawai'i
+Score: 0.26
+
+Company name: Sigma outdoors
+Score: 0.2564374340879184
+
+Company name: De jong lelies
+Score: 0.5261088152626261
+
+Company name: Creekside nursery
+Score: 0.3216379310344828
+
+Company name: Ehorses
+Score: 0.2476
+
+Company name: Horse pass
+Score: 0.3095547945205479
+
+Company name: Jungpflanzen lüske
+Score: 0.3007692307692308
+
+Company name: Keartiman
+Score: 0.25375000000000003
+
+Company name: Schramas
+Score: 0.27249999999999996
+
+Company name: Agriculture more than ever
+Score: 0.17500000000000002
+
+Company name: Solagri
+Score: 0.32499999999999996
+
+Company name: The mile farm shop
+Score: 0.255
+
+Company name: Tu dresden robotik ag e.v.
+Score: 0.35357142857142854
+
+Company name: Something good organics
+Score: 0.31333333333333335
+
+Company name: Equitable food
+Score: 0.4375
+
+Company name: Cv-coaching
+Score: 0.22499999999999998
+
+Company name: Rheinwood
+Score: 0.2936656800483739
+
+Company name: Ital-agro
+Score: 0.4065
+
+Company name: Particularly good
+Score: 0.36
+
+Company name: Natureconnect
+Score: 0.4108333333333334
+
+Company name: Sativa bags
+Score: 0.4258588083016167
+
+Company name: Cropway
+Score: 0.39999999999999997
+
+Company name: Tegaia
+Score: 0.26
+
+Company name: Lodi farms
+Score: 0.3026784319883278
+
+Company name: Gold citrus
+Score: 0.3451000000000001
+
+Company name: Napa county farm bureau
+Score: 0.3297738228438468
+
+Company name: Sustaincert
+Score: 0.37
+
+Company name: Alp tarim
+Score: 0.3933333333333333
+
+Company name: Mpa agro
+Score: 0.135
+
+Company name: Oostland
+Score: 0.4018371607515658
+
+Company name: White fences
+Score: 0.3002601124512506
+
+Company name: Pariworld
+Score: 0.31746575342465755
+
+Company name: Patriot natural
+Score: 0.30500000000000005
+
+Company name: Hípica nuevo valbueno
+Score: 0.2225
+
+Company name: Pines and needles
+Score: 0.37509736084156253
+
+Company name: Turkey callers
+Score: 0.1233936123316542
+
+Company name: Gwilym richards
+Score: 0.335
+
+Company name: Nuffield
+Score: 0.40883912248628884
+
+Company name: Semilleros la palma
+Score: 0.12065934065934067
+
+Company name: Abziban
+Score: 0.31166666666666665
+
+Company name: Horses for hope
+Score: 0.27744427846619846
+
+Company name: Puu
+Score: 0.4185425101214575
+
+Company name: Coopers nurseries
+Score: 0.1225
+
+Company name: Waterside nursery
+Score: 0.2435500963391137
+
+Company name: Ramona farms
+Score: 0.35044966774699127
+
+Company name: National farmers' federation
+Score: 0.574896561491082
+
+Company name: Mt airy orchards
+Score: 0.3159450683911189
+
+Company name: Intersemillas
+Score: 0.23972222222222223
+
+Company name: Evoagtec
+Score: 0.34125
+
+Company name: Godfrey's farm
+Score: 0.2954285714285715
+
+Company name: Club hípico maria luisa
+Score: 0.30500000000000005
+
+Company name: Maxagro
+Score: 0.20704918032786884
+
+Company name: Manege noord oost polder
+Score: 0.14250000000000002
+
+Company name: The vine garden plant outlet
+Score: 0.24336293979571993
+
+Company name: Lots a colour
+Score: 0.2025
+
+Company name: Cedasa carnes
+Score: 0.135
+
+Company name: Interiorscapes
+Score: 0.3940582380950747
+
+Company name: Adrian orchards
+Score: 0.26989245011834995
+
+Company name: Selvaviva
+Score: 0.19490566037735851
+
+Company name: Woodshapes
+Score: 0.52
+
+Company name: Uzima chicken
+Score: 0.31489130434782603
+
+Company name: Protector cactus
+Score: 0.5175
+
+Company name: Instytut rozwoju mysli ekologicznej
+Score: 0.27249999999999996
+
+Company name: Duarte nursery
+Score: 0.34510996305042585
+
+Company name: Icelandic horses
+Score: 0.26
+
+Company name: Gplc
+Score: 0.365
+
+Company name: Agro insight
+Score: 0.30000000000000004
+
+Company name: Boulevard benin
+Score: 0.3975000000000001
+
+Company name: Avon bulbs
+Score: 0.3368189731709886
+
+Company name: Frerichs farm
+Score: 0.31223534790709595
+
+Company name: La tavola marche
+Score: 0.22249999999999998
+
+Company name: Green rock hemp holdings
+Score: 0.17
+
+Company name: 1818 farms
+Score: 0.3413636363636364
+
+Company name: Alpine nursery
+Score: 0.295921052631579
+

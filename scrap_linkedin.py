@@ -1,8 +1,7 @@
 import requests
 import re
+import numpy as np
 from bs4 import BeautifulSoup
-from selenium.webdriver import Chrome
-from instascrape import Profile, scrape_posts
 
 # HELPER, DONT TOUCH
 def extract_followers(html):
@@ -46,33 +45,47 @@ def scrap_linkedin(url):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'
     }
 
+    if url is None:
+        return 0
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         # Parse the HTML content
         soup = BeautifulSoup(response.content, 'html.parser')
-        # print(soup.get_text().lower())
-        #print(rem(soup.get_text()))
 
         text = soup.get_text()
-        last_post_date = extract_time_from_last_post(rem(text))
+        last_post_date = extract_time_from_last_post(removeWhitespace(text))
         follower_count = extract_followers(text)
 
-        return (follower_count, last_post_date)
+        latestPostScore = 0
+        if last_post_date is not None:
+            if 'h' in last_post_date:
+                latestPostScore = 100
+            elif 'd' in last_post_date:
+                latestPostScore = 80
+            elif 'w' in last_post_date:
+                latestPostScore = 50
+            elif 'm' in last_post_date:
+                latestPostScore = 20
+            elif 'y' in last_post_date:
+                latestPostScore = 10
 
-    return None
-def rem(text):
+        if follower_count is None:
+            return 0
+
+        if follower_count > 100_000:
+            return 0.5 + latestPostScore / 200
+
+        if follower_count > 10_000:
+            return 0.25 + latestPostScore / 200
+
+        if follower_count > 1_000:
+            return 0.1 + latestPostScore / 200
+
+        return  latestPostScore / 200
+
+    return 0
+def removeWhitespace(text):
     text =text.strip()
     text = re.sub(r'\s+', ' ',text)
     return text
 
-
-def main():
-    #print(scrap_linkedin_followers("https://www.linkedin.com/company/ubisoft/"))
-    #print(scrap_linkedin_followers("https://www.linkedin.com/company/xarvio"))
-    #print(scrap_linkedin_followers("https://www.linkedin.com/company/ubisoft"))
-    print(scrap_linkedin("https://www.linkedin.com/company/knoweaformation"))
-    #scrap_instagra_followers("https://www.instagram.com/skpha_/")
-
-
-if __name__ == "__main__":
-    main()
